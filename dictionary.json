@@ -1,0 +1,1482 @@
+[
+  {
+    "word": "abate",
+    "pronunciation": {
+      "IPA": "/əˈbeɪt/",
+      "simplified": "uh-BAYT"
+    },
+    "explanation": "Abate means to become less intense or widespread, like when something strong starts to fade away or calm down.",
+    "definition": "To decrease in intensity, amount, or extent.",
+    "examples": [
+      "The storm began to abate, allowing us to go outside safely.",
+      "Her enthusiasm for the project abated after facing many challenges.",
+      "The pain in his leg abated after taking the medicine.",
+      "The noise from the construction site abated in the evening.",
+      "As the crowd dispersed, the tension in the air started to abate.",
+      "The fever abated after a few hours of rest."
+    ],
+    "synonyms": "decrease, diminish, lessen, subside, wane",
+    "antonyms": "increase, intensify, escalate, rise, worsen",
+    "rephrase": "Abate means something gets weaker or less strong, like when a storm calms down or a feeling fades."
+  },
+  {
+    "word": "benevolent",
+    "pronunciation": {
+      "IPA": "/bəˈnevələnt/",
+      "simplified": "buh-NEV-uh-lunt"
+    },
+    "explanation": "Benevolent describes someone who is kind and wants to do good things for others without expecting anything in return.",
+    "definition": "Showing kindness or goodwill.",
+    "examples": [
+      "The benevolent donor gave money to build a new library.",
+      "Her benevolent nature made her loved by everyone in the community.",
+      "He offered a benevolent smile to comfort the upset child.",
+      "The organization’s benevolent efforts helped many families in need.",
+      "She made a benevolent gesture by volunteering at the shelter.",
+      "His benevolent advice guided me through a tough decision."
+    ],
+    "synonyms": "kind, generous, charitable, compassionate, altruistic",
+    "antonyms": "cruel, selfish, unkind, malevolent, harsh",
+    "rephrase": "Benevolent means being kind and caring, wanting to help others just because it’s the right thing to do."
+  },
+  {
+    "word": "candid",
+    "pronunciation": {
+      "IPA": "/ˈkændɪd/",
+      "simplified": "KAN-did"
+    },
+    "explanation": "Candid means being honest and straightforward in what you say or do, without hiding your true thoughts or feelings.",
+    "definition": "Honest and direct in expression.",
+    "examples": [
+      "She gave a candid opinion about the new policy at work.",
+      "His candid response surprised everyone in the meeting.",
+      "The journalist asked for a candid interview with the politician.",
+      "I appreciate your candid feedback on my project.",
+      "He was candid about his struggles with the new job.",
+      "Her candid smile made the conversation feel genuine."
+    ],
+    "synonyms": "honest, frank, open, sincere, straightforward",
+    "antonyms": "deceptive, dishonest, guarded, insincere, secretive",
+    "rephrase": "Candid means being open and truthful, saying exactly what you think without pretending."
+  },
+  {
+    "word": "deter",
+    "pronunciation": {
+      "IPA": "/dɪˈtɜːr/",
+      "simplified": "di-TUR"
+    },
+    "explanation": "Deter means to stop or discourage someone from doing something by making it seem difficult or risky.",
+    "definition": "To discourage or prevent through fear or doubt.",
+    "examples": [
+      "The warning sign did not deter hikers from climbing the steep trail.",
+      "High costs deter many students from studying abroad.",
+      "Her determination wasn’t deterred by the bad weather.",
+      "The strict rules deterred people from breaking the law.",
+      "A guard dog might deter burglars from entering your home.",
+      "The long wait didn’t deter her from visiting the museum."
+    ],
+    "synonyms": "discourage, prevent, dissuade, hinder, stop",
+    "antonyms": "encourage, motivate, inspire, attract, urge",
+    "rephrase": "Deter means to make someone think twice about doing something by showing it’s tough or risky."
+  },
+  {
+    "word": "eloquent",
+    "pronunciation": {
+      "IPA": "/ˈeləkwənt/",
+      "simplified": "EL-oh-kwunt"
+    },
+    "explanation": "Eloquent describes someone who speaks or writes in a clear, powerful, and persuasive way that captures attention.",
+    "definition": "Fluent or persuasive in speaking or writing.",
+    "examples": [
+      "Her eloquent speech inspired everyone in the audience.",
+      "He wrote an eloquent letter to express his gratitude.",
+      "The poet’s eloquent words painted a vivid picture.",
+      "She was so eloquent that she convinced everyone to agree.",
+      "His eloquent argument won the debate easily.",
+      "The teacher’s eloquent explanation made the topic clear."
+    ],
+    "synonyms": "articulate, expressive, fluent, persuasive, silver-tongued",
+    "antonyms": "inarticulate, unclear, hesitant, awkward, vague",
+    "rephrase": "Eloquent means speaking or writing beautifully and clearly, in a way that grabs people’s attention."
+  },
+  {
+    "word": "frugal",
+    "pronunciation": {
+      "IPA": "/ˈfruːɡəl/",
+      "simplified": "FROO-gul"
+    },
+    "explanation": "Frugal means being careful with money or resources, avoiding waste, and spending only what’s necessary.",
+    "definition": "Economical in the use of resources; thrifty.",
+    "examples": [
+      "She lived a frugal life, saving every penny she could.",
+      "His frugal habits allowed him to retire early.",
+      "They adopted a frugal approach to plan their wedding.",
+      "Being frugal, she always shopped during sales.",
+      "A frugal meal can still be delicious and satisfying.",
+      "He was frugal with his time, prioritizing important tasks."
+    ],
+    "synonyms": "thrifty, economical, sparing, prudent, careful",
+    "antonyms": "wasteful, extravagant, lavish, spendthrift, reckless",
+    "rephrase": "Frugal means using money or things wisely, without wasting anything, and only spending what you really need."
+  },
+  {
+    "word": "gregarious",
+    "pronunciation": {
+      "IPA": "/ɡrɪˈɡɛəriəs/",
+      "simplified": "gri-GAIR-ee-us"
+    },
+    "explanation": "Gregarious describes someone who loves being around others, is very social, and enjoys group activities.",
+    "definition": "Sociable; fond of company.",
+    "examples": [
+      "Her gregarious personality made her the life of the party.",
+      "He’s so gregarious that he makes friends everywhere he goes.",
+      "The gregarious host welcomed everyone with a big smile.",
+      "Gregarious animals like dolphins often travel in groups.",
+      "She joined the club because of her gregarious nature.",
+      "His gregarious attitude helped him network easily."
+    ],
+    "synonyms": "sociable, outgoing, friendly, extroverted, companionable",
+    "antonyms": "shy, reserved, introverted, solitary, withdrawn",
+    "rephrase": "Gregarious means being very friendly and enjoying spending time with other people in groups."
+  },
+  {
+    "word": "hinder",
+    "pronunciation": {
+      "IPA": "/ˈhɪndər/",
+      "simplified": "HIN-der"
+    },
+    "explanation": "Hinder means to make something harder to do by creating obstacles or slowing progress.",
+    "definition": "To obstruct or delay progress.",
+    "examples": [
+      "Heavy traffic hindered our trip to the airport.",
+      "Lack of funds hindered the project’s completion.",
+      "Her injury didn’t hinder her from finishing the race.",
+      "Bad weather hindered the construction work.",
+      "His fear of failure hindered his career growth.",
+      "Distractions can hinder your ability to focus."
+    ],
+    "synonyms": "obstruct, impede, delay, hamper, block",
+    "antonyms": "help, assist, facilitate, promote, aid",
+    "rephrase": "Hinder means to slow down or block something, making it tougher to get done."
+  },
+  {
+    "word": "impeccable",
+    "pronunciation": {
+      "IPA": "/ɪmˈpekəbl/",
+      "simplified": "im-PEK-uh-bul"
+    },
+    "explanation": "Impeccable means something is perfect or flawless, with no mistakes or faults at all.",
+    "definition": "Flawless; without fault or error.",
+    "examples": [
+      "Her impeccable manners impressed everyone at the dinner.",
+      "The chef’s impeccable presentation made the dish look amazing.",
+      "He has an impeccable record of never missing a deadline.",
+      "The hotel’s impeccable service made our stay unforgettable.",
+      "She kept her house in impeccable condition.",
+      "His impeccable logic solved the complex problem."
+    ],
+    "synonyms": "perfect, flawless, faultless, exemplary, pristine",
+    "antonyms": "flawed, imperfect, faulty, defective, blemished",
+    "rephrase": "Impeccable means something is completely perfect, with nothing wrong or out of place."
+  },
+  {
+    "word": "jovial",
+    "pronunciation": {
+      "IPA": "/ˈdʒoʊviəl/",
+      "simplified": "JOH-vee-ul"
+    },
+    "explanation": "Jovial describes someone who is cheerful, friendly, and full of good humor, making others feel happy too.",
+    "definition": "Cheerful and friendly in disposition.",
+    "examples": [
+      "His jovial laugh made the whole room feel lighter.",
+      "The jovial host welcomed us with warm hugs.",
+      "She has a jovial personality that brightens any gathering.",
+      "The jovial atmosphere at the party was contagious.",
+      "He told jovial stories that kept everyone entertained.",
+      "Her jovial mood lifted everyone’s spirits."
+    ],
+    "synonyms": "cheerful, jolly, merry, lively, upbeat",
+    "antonyms": "gloomy, sad, serious, miserable, dour",
+    "rephrase": "Jovial means being happy and friendly, spreading good vibes to everyone around."
+  },
+  {
+    "word": "keen",
+    "pronunciation": {
+      "IPA": "/kiːn/",
+      "simplified": "KEEN"
+    },
+    "explanation": "Keen describes someone who is very interested, eager, or sharp in their abilities or senses.",
+    "definition": "Having or showing eagerness or sharp perception.",
+    "examples": [
+      "She has a keen interest in learning new languages.",
+      "His keen eyesight helped him spot the bird in the tree.",
+      "The detective’s keen mind solved the mystery quickly.",
+      "He was keen to join the hiking club this summer.",
+      "Her keen observation skills made her a great scientist.",
+      "They were keen on finishing the project before the deadline."
+    ],
+    "synonyms": "eager, enthusiastic, sharp, acute, perceptive",
+    "antonyms": "indifferent, dull, uninterested, apathetic, blunt",
+    "rephrase": "Keen means being really excited about something or having a sharp ability to notice things."
+  },
+  {
+    "word": "lucid",
+    "pronunciation": {
+      "IPA": "/ˈluːsɪd/",
+      "simplified": "LOO-sid"
+    },
+    "explanation": "Lucid means clear and easy to understand, often used for thoughts, writing, or speech.",
+    "definition": "Clearly expressed; easy to understand.",
+    "examples": [
+      "Her lucid explanation made the complex topic simple.",
+      "He gave a lucid presentation that everyone could follow.",
+      "The book’s lucid writing style attracted many readers.",
+      "In a lucid moment, she explained her decision clearly.",
+      "His lucid instructions helped us assemble the furniture.",
+      "The teacher’s lucid examples clarified the math problem."
+    ],
+    "synonyms": "clear, coherent, understandable, articulate, transparent",
+    "antonyms": "confusing, unclear, vague, obscure, muddled",
+    "rephrase": "Lucid means something is explained so clearly that it’s easy to get."
+  },
+  {
+    "word": "mitigate",
+    "pronunciation": {
+      "IPA": "/ˈmɪtɪɡeɪt/",
+      "simplified": "MIT-uh-gate"
+    },
+    "explanation": "Mitigate means to make something less severe, serious, or harmful, like reducing the impact of a problem.",
+    "definition": "To make less severe or intense.",
+    "examples": [
+      "Planting trees can mitigate the effects of climate change.",
+      "She took steps to mitigate the conflict between her friends.",
+      "The medicine helped mitigate his chronic pain.",
+      "They worked to mitigate the damage caused by the flood.",
+      "His apology mitigated the tension in the room.",
+      "Better planning could mitigate future risks."
+    ],
+    "synonyms": "alleviate, reduce, lessen, ease, soften",
+    "antonyms": "aggravate, worsen, intensify, increase, exacerbate",
+    "rephrase": "Mitigate means to make a problem or situation less bad or harmful."
+  },
+  {
+    "word": "novel",
+    "pronunciation": {
+      "IPA": "/ˈnɒvəl/",
+      "simplified": "NOV-ul"
+    },
+    "explanation": "Novel means new and original, something different that hasn’t been seen or done before.",
+    "definition": "New and original; not like anything seen before.",
+    "examples": [
+      "Her novel approach to teaching engaged all the students.",
+      "The company introduced a novel product to the market.",
+      "He came up with a novel solution to the old problem.",
+      "The novel design of the car attracted a lot of attention.",
+      "She wrote a novel story that captivated her readers.",
+      "Their novel method improved efficiency greatly."
+    ],
+    "synonyms": "new, original, innovative, unique, fresh",
+    "antonyms": "old, familiar, conventional, traditional, common",
+    "rephrase": "Novel means something fresh and creative that’s never been done before."
+  },
+  {
+    "word": "obscure",
+    "pronunciation": {
+      "IPA": "/əbˈskjʊər/",
+      "simplified": "ub-SKYOOR"
+    },
+    "explanation": "Obscure means something is unclear, hard to understand, or not well-known.",
+    "definition": "Not clear or well-known; hidden or vague.",
+    "examples": [
+      "The meaning of the poem was obscure to most readers.",
+      "He was an obscure artist until his work went viral.",
+      "Her instructions were so obscure that we got lost.",
+      "The obscure reference confused the audience.",
+      "They found an obscure book in the old library.",
+      "His motives remained obscure to everyone."
+    ],
+    "synonyms": "unclear, vague, unknown, hidden, ambiguous",
+    "antonyms": "clear, obvious, well-known, famous, apparent",
+    "rephrase": "Obscure means something is hard to figure out or not widely known."
+  },
+  {
+    "word": "prudent",
+    "pronunciation": {
+      "IPA": "/ˈpruːdnt/",
+      "simplified": "PROOD-nt"
+    },
+    "explanation": "Prudent means being careful and sensible in making decisions to avoid risks or problems.",
+    "definition": "Careful and sensible in action or judgment.",
+    "examples": [
+      "It was prudent to save money for unexpected expenses.",
+      "Her prudent decision avoided a major mistake.",
+      "He took a prudent approach to investing his savings.",
+      "The prudent driver slowed down in the rain.",
+      "She made a prudent choice to double-check her work.",
+      "Prudent planning ensured the event ran smoothly."
+    ],
+    "synonyms": "cautious, sensible, wise, careful, judicious",
+    "antonyms": "reckless, careless, unwise, rash, imprudent",
+    "rephrase": "Prudent means making smart, careful choices to stay safe or avoid trouble."
+  },
+  {
+    "word": "quaint",
+    "pronunciation": {
+      "IPA": "/kweɪnt/",
+      "simplified": "KWAYNT"
+    },
+    "explanation": "Quaint describes something that is charmingly old-fashioned or unusual in a pleasant way.",
+    "definition": "Attractively unusual or old-fashioned.",
+    "examples": [
+      "The quaint village had cobblestone streets and tiny shops.",
+      "She wore a quaint dress that reminded me of the 1950s.",
+      "The quaint café served tea in vintage cups.",
+      "His quaint manners made him seem from another era.",
+      "We stayed in a quaint cottage by the lake.",
+      "The book’s quaint illustrations delighted the children."
+    ],
+    "synonyms": "charming, picturesque, old-fashioned, cute, delightful",
+    "antonyms": "modern, ordinary, plain, typical, contemporary",
+    "rephrase": "Quaint means something is cute and old-fashioned in a nice, charming way."
+  },
+  {
+    "word": "resilient",
+    "pronunciation": {
+      "IPA": "/rɪˈzɪliənt/",
+      "simplified": "ri-ZIL-yunt"
+    },
+    "explanation": "Resilient describes someone or something that can recover quickly from difficulties or challenges.",
+    "definition": "Able to recover quickly from setbacks.",
+    "examples": [
+      "She’s resilient and bounced back after the setback.",
+      "The resilient economy recovered after the crisis.",
+      "These plants are resilient and can survive harsh winters.",
+      "His resilient spirit kept him going through tough times.",
+      "The team’s resilient effort led to a comeback victory.",
+      "Resilient materials make the building earthquake-proof."
+    ],
+    "synonyms": "adaptable, buoyant, flexible, strong, tough",
+    "antonyms": "fragile, weak, vulnerable, brittle, delicate",
+    "rephrase": "Resilient means being able to bounce back quickly from tough situations."
+  },
+  {
+    "word": "scrutinize",
+    "pronunciation": {
+      "IPA": "/ˈskruːtɪnaɪz/",
+      "simplified": "SKROO-tin-ize"
+    },
+    "explanation": "Scrutinize means to examine something very carefully and in detail to understand it or find any issues.",
+    "definition": "To examine closely and carefully.",
+    "examples": [
+      "She scrutinized the contract before signing it.",
+      "The scientist scrutinized the data for errors.",
+      "He scrutinized the painting to confirm its authenticity.",
+      "The teacher scrutinized the essays for plagiarism.",
+      "They scrutinized every detail of the plan.",
+      "The inspector scrutinized the building for safety issues."
+    ],
+    "synonyms": "examine, inspect, analyze, study, investigate",
+    "antonyms": "ignore, overlook, skim, neglect, disregard",
+    "rephrase": "Scrutinize means looking at something very closely to check it thoroughly."
+  },
+  {
+    "word": "tenacious",
+    "pronunciation": {
+      "IPA": "/təˈneɪʃəs/",
+      "simplified": "tuh-NAY-shus"
+    },
+    "explanation": "Tenacious describes someone who is very determined and doesn’t give up easily, even when things are tough.",
+    "definition": "Persistent in maintaining or achieving something.",
+    "examples": [
+      "Her tenacious effort led to her success in the competition.",
+      "He was tenacious in pursuing his dream career.",
+      "The tenacious athlete trained despite the injury.",
+      "She held a tenacious grip on her beliefs.",
+      "His tenacious attitude helped him overcome obstacles.",
+      "The lawyer’s tenacious defense won the case."
+    ],
+    "synonyms": "persistent, determined, stubborn, resolute, steadfast",
+    "antonyms": "weak, yielding, submissive, wavering, quitter",
+    "rephrase": "Tenacious means being super determined and not giving up, no matter how hard it gets."
+  },
+  {
+    "word": "ubiquitous",
+    "pronunciation": {
+      "IPA": "/juːˈbɪkwɪtəs/",
+      "simplified": "yoo-BIK-wi-tus"
+    },
+    "explanation": "Ubiquitous means something is everywhere or seems to be present all the time.",
+    "definition": "Present or found everywhere.",
+    "examples": [
+      "Smartphones are ubiquitous in modern society.",
+      "The ubiquitous coffee shops are on every corner.",
+      "Her influence was ubiquitous in the art world.",
+      "Plastic waste has become ubiquitous in the oceans.",
+      "The brand’s logo is ubiquitous in advertising.",
+      "Ubiquitous internet access changed how we work."
+    ],
+    "synonyms": "everywhere, widespread, common, pervasive, omnipresent",
+    "antonyms": "rare, scarce, limited, uncommon, absent",
+    "rephrase": "Ubiquitous means something is all over the place, like you see it everywhere."
+  },
+  {
+    "word": "vague",
+    "pronunciation": {
+      "IPA": "/veɪɡ/",
+      "simplified": "VAYG"
+    },
+    "explanation": "Vague means something is unclear, not specific, or hard to understand or describe.",
+    "definition": "Lacking clarity or precision.",
+    "examples": [
+      "His vague answer left us confused about his plans.",
+      "The instructions were too vague to follow.",
+      "She had a vague memory of the event.",
+      "The vague outline of the mountain was visible in the fog.",
+      "He gave a vague description of the suspect.",
+      "The rules were vague and caused misunderstandings."
+    ],
+    "synonyms": "unclear, ambiguous, hazy, indistinct, fuzzy",
+    "antonyms": "clear, specific, precise, definite, certain",
+    "rephrase": "Vague means something isn’t clear or specific, making it hard to understand."
+  },
+  {
+    "word": "wary",
+    "pronunciation": {
+      "IPA": "/ˈwɛəri/",
+      "simplified": "WAIR-ee"
+    },
+    "explanation": "Wary means being cautious or careful about possible dangers or problems.",
+    "definition": "Cautious about possible risks or dangers.",
+    "examples": [
+      "She was wary of strangers offering help.",
+      "He became wary after the suspicious phone call.",
+      "The wary hiker avoided the unstable path.",
+      "They were wary of investing in the risky venture.",
+      "Her wary expression showed she didn’t trust the deal.",
+      "Be wary of deals that sound too good to be true."
+    ],
+    "synonyms": "cautious, careful, suspicious, alert, guarded",
+    "antonyms": "careless, reckless, trusting, unwary, naive",
+    "rephrase": "Wary means being careful because you’re worried about possible risks."
+  },
+  {
+    "word": "zealous",
+    "pronunciation": {
+      "IPA": "/ˈzeləs/",
+      "simplified": "ZEL-us"
+    },
+    "explanation": "Zealous describes someone who is very enthusiastic and passionate about something, often to an extreme degree.",
+    "definition": "Full of zeal; highly enthusiastic.",
+    "examples": [
+      "She was a zealous supporter of animal rights.",
+      "His zealous dedication to the project impressed everyone.",
+      "The zealous fans cheered loudly at the game.",
+      "He pursued his goals with zealous energy.",
+      "Her zealous advocacy changed the community’s views.",
+      "The zealous volunteer worked tirelessly for the cause."
+    ],
+    "synonyms": "enthusiastic, passionate, fervent, ardent, devoted",
+    "antonyms": "indifferent, apathetic, unenthusiastic, lukewarm, detached",
+    "rephrase": "Zealous means being super excited and dedicated to something you really care about."
+  },
+  {
+    "word": "adapt",
+    "pronunciation": {
+      "IPA": "/əˈdæpt/",
+      "simplified": "uh-DAPT"
+    },
+    "explanation": "Adapt means to change or adjust something to fit a new situation or environment.",
+    "definition": "To adjust or modify to suit new conditions.",
+    "examples": [
+      "She adapted quickly to her new school.",
+      "The company adapted its strategy to meet customer needs.",
+      "He adapted the recipe to make it healthier.",
+      "Animals adapt to their environment to survive.",
+      "They adapted the book into a successful movie.",
+      "We need to adapt our plans due to the weather."
+    ],
+    "synonyms": "adjust, modify, alter, change, acclimate",
+    "antonyms": "resist, maintain, preserve, fix, retain",
+    "rephrase": "Adapt means changing something to work better in a new situation."
+  },
+  {
+    "word": "bolster",
+    "pronunciation": {
+      "IPA": "/ˈboʊlstər/",
+      "simplified": "BOHL-ster"
+    },
+    "explanation": "Bolster means to support or strengthen something to make it better or more effective.",
+    "definition": "To support or reinforce.",
+    "examples": [
+      "Her kind words bolstered his confidence.",
+      "The new evidence bolstered their case in court.",
+      "They bolstered the team with experienced players.",
+      "The grant bolstered the school’s science program.",
+      "His speech bolstered support for the charity.",
+      "Training sessions bolstered their skills."
+    ],
+    "synonyms": "support, strengthen, reinforce, boost, aid",
+    "antonyms": "weaken, undermine, diminish, reduce, hinder",
+    "rephrase": "Bolster means giving support to make something stronger or better."
+  },
+  {
+    "word": "coerce",
+    "pronunciation": {
+      "IPA": "/koʊˈɜːrs/",
+      "simplified": "koh-URS"
+    },
+    "explanation": "Coerce means to force someone to do something by using pressure or threats.",
+    "definition": "To compel by force or intimidation.",
+    "examples": [
+      "He was coerced into signing the contract.",
+      "She felt coerced by her boss to work overtime.",
+      "They coerced him into revealing the secret.",
+      "The group coerced others to join their cause.",
+      "No one should be coerced into making a decision.",
+      "The threat coerced her into compliance."
+    ],
+    "synonyms": "force, compel, pressure, intimidate, bully",
+    "antonyms": "persuade, encourage, convince, invite, entice",
+    "rephrase": "Coerce means pushing someone to do something by scaring or pressuring them."
+  },
+  {
+    "word": "diligent",
+    "pronunciation": {
+      "IPA": "/ˈdɪlɪdʒənt/",
+      "simplified": "DIL-i-junt"
+    },
+    "explanation": "Diligent means working hard and carefully, paying attention to detail to get things done well.",
+    "definition": "Hardworking and attentive to detail.",
+    "examples": [
+      "Her diligent study habits earned her top grades.",
+      "He was diligent in completing his tasks on time.",
+      "The diligent worker checked every detail carefully.",
+      "Diligent effort led to the project’s success.",
+      "She was diligent in keeping her workspace organized.",
+      "His diligent research uncovered new findings."
+    ],
+    "synonyms": "hardworking, thorough, careful, persistent, meticulous",
+    "antonyms": "lazy, careless, negligent, sloppy, idle",
+    "rephrase": "Diligent means working hard and being careful to do a good job."
+  },
+  {
+    "word": "emulate",
+    "pronunciation": {
+      "IPA": "/ˈemjuleɪt/",
+      "simplified": "EM-yuh-late"
+    },
+    "explanation": "Emulate means to try to copy or be like someone or something because you admire them.",
+    "definition": "To imitate or strive to equal.",
+    "examples": [
+      "She emulated her role model’s leadership style.",
+      "He tried to emulate the success of his mentor.",
+      "The artist emulated the techniques of the masters.",
+      "They emulated the design of a popular app.",
+      "Young athletes often emulate their favorite stars.",
+      "She emulated her mother’s kindness in her actions."
+    ],
+    "synonyms": "imitate, copy, mimic, follow, mirror",
+    "antonyms": "differ, diverge, deviate, oppose, contrast",
+    "rephrase": "Emulate means trying to be like someone or something you look up to."
+  },
+  {
+    "word": "foster",
+    "pronunciation": {
+      "IPA": "/ˈfɒstər/",
+      "simplified": "FOS-ter"
+    },
+    "explanation": "Foster means to encourage or help something grow or develop, like supporting an idea or person.",
+    "definition": "To promote the growth or development of.",
+    "examples": [
+      "The program fosters creativity in young students.",
+      "They fostered a sense of teamwork in the group.",
+      "She fostered a love for reading in her children.",
+      "The organization fosters innovation in technology.",
+      "He fostered good relationships with his colleagues.",
+      "The teacher fostered confidence in her students."
+    ],
+    "synonyms": "encourage, promote, nurture, support, cultivate",
+    "antonyms": "hinder, discourage, suppress, neglect, stifle",
+    "rephrase": "Foster means helping something or someone grow and do better."
+  },
+  {
+    "word": "grapple",
+    "pronunciation": {
+      "IPA": "/ˈɡræpl/",
+      "simplified": "GRAP-ul"
+    },
+    "explanation": "Grapple means to struggle or deal with something difficult, trying to solve or overcome it.",
+    "definition": "To struggle or wrestle with a problem or difficulty.",
+    "examples": [
+      "She grappled with her decision to change careers.",
+      "He grappled with the complex math problem for hours.",
+      "The team grappled with budget cuts this year.",
+      "They grappled with the challenge of learning a new language.",
+      "I’m still grappling with my fear of heights.",
+      "The city grappled with rising crime rates."
+    ],
+    "synonyms": "struggle, wrestle, tackle, confront, deal",
+    "antonyms": "ignore, avoid, evade, sidestep, dismiss",
+    "rephrase": "Grapple means working hard to handle or solve a tough problem."
+  },
+  {
+    "word": "hasten",
+    "pronunciation": {
+      "IPA": "/ˈheɪsn/",
+      "simplified": "HAY-sun"
+    },
+    "explanation": "Hasten means to speed up or make something happen faster.",
+    "definition": "To cause something to happen more quickly.",
+    "examples": [
+      "They hastened to finish the project before the deadline.",
+      "His apology hastened the resolution of the conflict.",
+      "She hastened her steps to catch the bus.",
+      "The new policy hastened the company’s growth.",
+      "He hastened to clarify his statement.",
+      "The medicine hastened her recovery."
+    ],
+    "synonyms": "hurry, accelerate, speed up, rush, expedite",
+    "antonyms": "delay, slow, hinder, postpone, prolong",
+    "rephrase": "Hasten means making something go faster or happen sooner."
+  },
+  {
+    "word": "inhibit",
+    "pronunciation": {
+      "IPA": "/ɪnˈhɪbɪt/",
+      "simplified": "in-HIB-it"
+    },
+    "explanation": "Inhibit means to hold back or prevent something from happening, often by limiting or controlling it.",
+    "definition": "To restrain or prevent.",
+    "examples": [
+      "Fear of failure inhibited her from trying new things.",
+      "The medicine inhibits the growth of bacteria.",
+      "Shyness inhibited him from speaking in public.",
+      "Rules can inhibit creativity if they’re too strict.",
+      "The cold weather inhibited plant growth.",
+      "Her doubts inhibited her progress on the project."
+    ],
+    "synonyms": "restrain, prevent, hinder, suppress, restrict",
+    "antonyms": "encourage, promote, allow, permit, support",
+    "rephrase": "Inhibit means stopping or slowing something from happening."
+  },
+  {
+    "word": "jargon",
+    "pronunciation": {
+      "IPA": "/ˈdʒɑːrɡən/",
+      "simplified": "JAR-gon"
+    },
+    "explanation": "Jargon refers to special words or phrases used by a specific group, often hard for others to understand.",
+    "definition": "Specialized language used by a particular group.",
+    "examples": [
+      "The doctor’s jargon confused the patient.",
+      "Tech jargon like ‘cloud computing’ can be hard to follow.",
+      "She learned the jargon of the legal profession quickly.",
+      "The manual was full of engineering jargon.",
+      "He used sports jargon that I didn’t understand.",
+      "Avoid jargon when explaining to beginners."
+    ],
+    "synonyms": "slang, lingo, terminology, argot, vernacular",
+    "antonyms": "plain language, standard speech, clear terms",
+    "rephrase": "Jargon means special words used by a group that others might not understand."
+  },
+  {
+    "word": "kindle",
+    "pronunciation": {
+      "IPA": "/ˈkɪndl/",
+      "simplified": "KIN-dul"
+    },
+    "explanation": "Kindle means to start a fire or spark something, like a feeling, idea, or enthusiasm.",
+    "definition": "To ignite or inspire.",
+    "examples": [
+      "She kindled a fire to keep warm.",
+      "His speech kindled excitement in the crowd.",
+      "The book kindled her love for history.",
+      "Their discussion kindled new ideas for the project.",
+      "A single spark can kindle a forest fire.",
+      "Her smile kindled hope in everyone."
+    ],
+    "synonyms": "ignite, spark, inspire, arouse, awaken",
+    "antonyms": "extinguish, suppress, dampen, quell, stifle",
+    "rephrase": "Kindle means starting something, like a fire or a new feeling or idea."
+  },
+  {
+    "word": "lethargic",
+    "pronunciation": {
+      "IPA": "/ləˈθɑːrdʒɪk/",
+      "simplified": "luh-THAR-jik"
+    },
+    "explanation": "Lethargic means feeling tired, sluggish, or lacking energy, often making it hard to move or think.",
+    "definition": "Sluggish or lacking energy.",
+    "examples": [
+      "After the big meal, I felt lethargic and sleepy.",
+      "The hot weather made everyone lethargic.",
+      "He was lethargic during the meeting, barely contributing.",
+      "Lethargic students struggled to focus in class.",
+      "The illness left her feeling lethargic for days.",
+      "A lethargic attitude slowed the team’s progress."
+    ],
+    "synonyms": "sluggish, tired, lazy, listless, inactive",
+    "antonyms": "energetic, lively, active, alert, vigorous",
+    "rephrase": "Lethargic means feeling super tired and slow, with no energy to do things."
+  },
+  {
+    "word": "mundane",
+    "pronunciation": {
+      "IPA": "/mʌnˈdeɪn/",
+      "simplified": "mun-DAYN"
+    },
+    "explanation": "Mundane describes something ordinary, boring, or not exciting, often routine or everyday.",
+    "definition": "Ordinary or lacking interest; routine.",
+    "examples": [
+      "Her mundane routine included cleaning and cooking daily.",
+      "He found the mundane tasks at work tiring.",
+      "The movie’s plot was mundane and predictable.",
+      "Mundane chores took up most of her weekend.",
+      "Life in the small town felt mundane to her.",
+      "The lecture was so mundane that I fell asleep."
+    ],
+    "synonyms": "ordinary, routine, boring, dull, common",
+    "antonyms": "exciting, interesting, extraordinary, unusual, special",
+    "rephrase": "Mundane means something is plain, boring, or just part of the usual routine."
+  },
+  {
+    "word": "nostalgic",
+    "pronunciation": {
+      "IPA": "/nɒˈstældʒɪk/",
+      "simplified": "no-STAL-jik"
+    },
+    "explanation": "Nostalgic describes a feeling of longing for the past, often with a mix of happiness and sadness.",
+    "definition": "Having a sentimental longing for the past.",
+    "examples": [
+      "She felt nostalgic looking at old family photos.",
+      "The song made him nostalgic for his childhood.",
+      "The nostalgic movie reminded her of the 90s.",
+      "He became nostalgic when visiting his old school.",
+      "The smell of cookies was nostalgic for her.",
+      "Nostalgic memories flooded back during the reunion."
+    ],
+    "synonyms": "sentimental, wistful, longing, yearning, reminiscent",
+    "antonyms": "forward-looking, unemotional, detached, indifferent",
+    "rephrase": "Nostalgic means missing the past with a mix of happy and sad feelings."
+  },
+  {
+    "word": "ominous",
+    "pronunciation": {
+      "IPA": "/ˈɒmɪnəs/",
+      "simplified": "OM-uh-nus"
+    },
+    "explanation": "Ominous describes something that feels threatening or suggests something bad might happen.",
+    "definition": "Suggesting something bad is about to happen.",
+    "examples": [
+      "The ominous clouds warned of an approaching storm.",
+      "His ominous tone made everyone nervous.",
+      "The letter had an ominous message about the future.",
+      "An ominous silence filled the room after the news.",
+      "The ominous sound of thunder scared the kids.",
+      "Her ominous warning made us rethink our plans."
+    ],
+    "synonyms": "threatening, menacing, sinister, foreboding, dire",
+    "antonyms": "hopeful, positive, reassuring, comforting, cheerful",
+    "rephrase": "Ominous means something feels scary or like bad things are coming."
+  },
+  {
+    "word": "plausible",
+    "pronunciation": {
+      "IPA": "/ˈplɔːzəbl/",
+      "simplified": "PLAW-zuh-bul"
+    },
+    "explanation": "Plausible means something seems reasonable or believable, even if it might not be true.",
+    "definition": "Seemingly reasonable or believable.",
+    "examples": [
+      "His excuse for being late was plausible.",
+      "The theory sounds plausible but needs more evidence.",
+      "She gave a plausible explanation for her absence.",
+      "The movie’s plot was plausible enough to enjoy.",
+      "A plausible solution was proposed during the meeting.",
+      "His story seemed plausible at first glance."
+    ],
+    "synonyms": "believable, reasonable, credible, likely, possible",
+    "antonyms": "unbelievable, implausible, unlikely, absurd, impossible",
+    "rephrase": "Plausible means something sounds like it could be true or makes sense."
+  },
+  {
+    "word": "quell",
+    "pronunciation": {
+      "IPA": "/kwel/",
+      "simplified": "KWEL"
+    },
+    "explanation": "Quell means to stop or calm something, like a riot, fear, or disturbance, often forcefully.",
+    "definition": "To suppress or calm something.",
+    "examples": [
+      "The police worked to quell the protest quickly.",
+      "She quelled her fears and gave the speech.",
+      "His kind words quelled her anger.",
+      "The teacher quelled the noisy classroom with a look.",
+      "They quelled rumors by releasing a statement.",
+      "The medicine helped quell his anxiety."
+    ],
+    "synonyms": "suppress, calm, subdue, pacify, silence",
+    "antonyms": "incite, provoke, stir, agitate, encourage",
+    "rephrase": "Quell means calming or stopping something, like a fight or strong emotion."
+  },
+  {
+    "word": "rhetoric",
+    "pronunciation": {
+      "IPA": "/ˈretərɪk/",
+      "simplified": "RET-uh-rik"
+    },
+    "explanation": "Rhetoric refers to the art of persuasive speaking or writing, often used to convince or impress people.",
+    "definition": "Persuasive or expressive language.",
+    "examples": [
+      "His rhetoric inspired the audience to take action.",
+      "The politician’s rhetoric was powerful but misleading.",
+      "She studied rhetoric to improve her speeches.",
+      "The ad used clever rhetoric to attract customers.",
+      "His rhetoric lacked substance despite sounding good.",
+      "Effective rhetoric can change people’s minds."
+    ],
+    "synonyms": "persuasion, oratory, eloquence, speech, discourse",
+    "antonyms": "plain speech, silence, simplicity, directness",
+    "rephrase": "Rhetoric is using words skillfully to persuade or impress others."
+  },
+  {
+    "word": "subtle",
+    "pronunciation": {
+      "IPA": "/ˈsʌtl/",
+      "simplified": "SUT-ul"
+    },
+    "explanation": "Subtle means something is delicate, not obvious, or hard to notice but still effective or meaningful.",
+    "definition": "Delicate or not immediately obvious.",
+    "examples": [
+      "Her subtle smile hinted at her true feelings.",
+      "The artist used subtle colors to create a calm mood.",
+      "His subtle humor made everyone laugh quietly.",
+      "The change in policy was subtle but important.",
+      "She gave a subtle nod to show her agreement.",
+      "The perfume had a subtle but pleasant scent."
+    ],
+    "synonyms": "delicate, faint, understated, slight, refined",
+    "antonyms": "obvious, bold, clear, blatant, overt",
+    "rephrase": "Subtle means something is gentle or not easy to notice but still has an effect."
+  },
+  {
+    "word": "transient",
+    "pronunciation": {
+      "IPA": "/ˈtrænziənt/",
+      "simplified": "TRAN-zee-unt"
+    },
+    "explanation": "Transient describes something that lasts only for a short time or is temporary.",
+    "definition": "Lasting only for a short time; temporary.",
+    "examples": [
+      "The transient beauty of the sunset faded quickly.",
+      "He had a transient job that lasted only a month.",
+      "Her transient mood swings worried her friends.",
+      "The city is full of transient workers during summer.",
+      "The pain was transient and soon disappeared.",
+      "Transient visitors left the town after the festival."
+    ],
+    "synonyms": "temporary, fleeting, brief, short-lived, passing",
+    "antonyms": "permanent, lasting, enduring, constant, eternal",
+    "rephrase": "Transient means something doesn’t last long and is only around for a short time."
+  },
+  {
+    "word": "unify",
+    "pronunciation": {
+      "IPA": "/ˈjuːnɪfaɪ/",
+      "simplified": "YOO-nuh-fy"
+    },
+    "explanation": "Unify means to bring things or people together to make them work as one or share a common goal.",
+    "definition": "To make or become united or whole.",
+    "examples": [
+      "The leader worked to unify the divided team.",
+      "The festival unified people from different cultures.",
+      "They unified their efforts to complete the project.",
+      "The new law aims to unify the country’s policies.",
+      "Her speech unified the audience around a cause.",
+      "The design unified the room’s different elements."
+    ],
+    "synonyms": "unite, combine, join, merge, integrate",
+    "antonyms": "divide, separate, split, segregate, fragment",
+    "rephrase": "Unify means bringing things together to act as one or share a purpose."
+  },
+  {
+    "word": "vivid",
+    "pronunciation": {
+      "IPA": "/ˈvɪvɪd/",
+      "simplified": "VIV-id"
+    },
+    "explanation": "Vivid describes something that is very clear, bright, or detailed, often striking or memorable.",
+    "definition": "Bright, clear, or striking in appearance or impression.",
+    "examples": [
+      "Her vivid description made the scene come alive.",
+      "The vivid colors of the painting caught my eye.",
+      "He had a vivid memory of his childhood home.",
+      "The dream was so vivid it felt real.",
+      "She told the story with vivid details.",
+      "The sunset was vivid with shades of orange and pink."
+    ],
+    "synonyms": "bright, clear, striking, intense, colorful",
+    "antonyms": "dull, faint, vague, pale, blurry",
+    "rephrase": "Vivid means something is very clear, bright, or stands out in a strong way."
+  },
+  {
+    "word": "wield",
+    "pronunciation": {
+      "IPA": "/wiːld/",
+      "simplified": "WEELD"
+    },
+    "explanation": "Wield means to use or handle something, like a tool, weapon, or power, with skill or control.",
+    "definition": "To handle or use effectively.",
+    "examples": [
+      "He wielded the sword with great skill.",
+      "She wields her authority confidently at work.",
+      "The chef wielded the knife to chop vegetables quickly.",
+      "He wields influence over the team’s decisions.",
+      "They wielded their resources to help the community.",
+      "She wielded a pen to write a powerful article."
+    ],
+    "synonyms": "use, handle, brandish, exercise, manage",
+    "antonyms": "misuse, fumble, mishandle, neglect, abandon",
+    "rephrase": "Wield means using something, like a tool or power, skillfully and effectively."
+  },
+  {
+    "word": "yearn",
+    "pronunciation": {
+      "IPA": "/jɜːrn/",
+      "simplified": "YURN"
+    },
+    "explanation": "Yearn means to have a strong desire or longing for something, often with deep emotion.",
+    "definition": "To have an intense longing or desire.",
+    "examples": [
+      "She yearned for her hometown after moving away.",
+      "He yearned to see his family after years apart.",
+      "They yearned for freedom during the hard times.",
+      "I yearn for the days when life was simpler.",
+      "The dog yearned for its owner’s return.",
+      "She yearned to achieve her lifelong dream."
+    ],
+    "synonyms": "long, crave, desire, ache, pine",
+    "antonyms": "reject, dislike, avoid, shun, despise",
+    "rephrase": "Yearn means really wanting something deeply, often with strong feelings."
+  },
+  {
+    "word": "zest",
+    "pronunciation": {
+      "IPA": "/zest/",
+      "simplified": "ZEST"
+    },
+    "explanation": "Zest means great enthusiasm or energy, often making something more lively or enjoyable.",
+    "definition": "Great enthusiasm or liveliness.",
+    "examples": [
+      "She approached her work with zest and excitement.",
+      "His zest for life made him fun to be around.",
+      "The chef added zest to the dish with fresh herbs.",
+      "They danced with zest at the festival.",
+      "Her zest for learning inspired her students.",
+      "The game was played with zest and joy."
+    ],
+    "synonyms": "enthusiasm, energy, zeal, vigor, passion",
+    "antonyms": "apathy, dullness, lethargy, boredom, indifference",
+    "rephrase": "Zest means being full of energy and excitement, making things more fun."
+  },
+  {
+    "word": "ardent",
+    "pronunciation": {
+      "IPA": "/ˈɑːrdnt/",
+      "simplified": "AR-dnt"
+    },
+    "explanation": "Ardent describes someone who is very passionate or enthusiastic about something.",
+    "definition": "Very enthusiastic or passionate.",
+    "examples": [
+      "She’s an ardent supporter of environmental causes.",
+      "His ardent love for music was obvious in his performance.",
+      "The ardent fans cheered wildly for their team.",
+      "He was ardent in his pursuit of justice.",
+      "Her ardent belief in equality inspired others.",
+      "The speaker’s ardent speech moved the audience."
+    ],
+    "synonyms": "passionate, enthusiastic, fervent, zealous, eager",
+    "antonyms": "indifferent, apathetic, unenthusiastic, cold, detached",
+    "rephrase": "Ardent means being really excited and passionate about something."
+  },
+  {
+    "word": "brisk",
+    "pronunciation": {
+      "IPA": "/brɪsk/",
+      "simplified": "BRISK"
+    },
+    "explanation": "Brisk means quick, energetic, or lively, often in a refreshing or efficient way.",
+    "definition": "Quick and energetic.",
+    "examples": [
+      "We took a brisk walk in the cool morning air.",
+      "Her brisk pace made it hard to keep up.",
+      "The brisk wind woke everyone up.",
+      "He gave a brisk nod to show agreement.",
+      "Business was brisk at the new café.",
+      "She spoke in a brisk tone during the meeting."
+    ],
+    "synonyms": "quick, lively, energetic, swift, vigorous",
+    "antonyms": "slow, sluggish, leisurely, lazy, idle",
+    "rephrase": "Brisk means being fast and full of energy in a lively way."
+  },
+  {
+    "word": "cogent",
+    "pronunciation": {
+      "IPA": "/ˈkoʊdʒənt/",
+      "simplified": "KOH-junt"
+    },
+    "explanation": "Cogent describes an argument or reason that is clear, logical, and convincing.",
+    "definition": "Clear, logical, and persuasive.",
+    "examples": [
+      "Her cogent argument won the debate.",
+      "He presented a cogent case for changing the policy.",
+      "The lawyer’s cogent reasoning impressed the jury.",
+      "A cogent explanation clarified the issue for everyone.",
+      "His cogent points convinced the team to agree.",
+      "The article made a cogent case for reform."
+    ],
+    "synonyms": "convincing, persuasive, logical, compelling, sound",
+    "antonyms": "weak, unconvincing, illogical, vague, unclear",
+    "rephrase": "Cogent means an idea or argument is clear and strong enough to convince people."
+  },
+  {
+    "word": "deft",
+    "pronunciation": {
+      "IPA": "/deft/",
+      "simplified": "DEFT"
+    },
+    "explanation": "Deft means being skillful and quick in movement or action, often in a clever way.",
+    "definition": "Skillful and quick in one’s actions.",
+    "examples": [
+      "Her deft hands crafted a beautiful sculpture.",
+      "He handled the situation with deft diplomacy.",
+      "The chef’s deft knife skills impressed everyone.",
+      "She made a deft move to avoid the obstacle.",
+      "His deft response diffused the tension.",
+      "The artist’s deft brushstrokes created a masterpiece."
+    ],
+    "synonyms": "skillful, adept, nimble, clever, dexterous",
+    "antonyms": "clumsy, awkward, inept, unskilled, fumbling",
+    "rephrase": "Deft means being quick and skilled at doing something in a clever way."
+  },
+  {
+    "word": "evade",
+    "pronunciation": {
+      "IPA": "/ɪˈveɪd/",
+      "simplified": "ih-VAYD"
+    },
+    "explanation": "Evade means to avoid or escape from something, like a question, responsibility, or danger.",
+    "definition": "To avoid or escape from.",
+    "examples": [
+      "He evaded the question with a vague answer.",
+      "The thief evaded capture for weeks.",
+      "She evaded the crowd by taking a side street.",
+      "They evaded responsibility for the mistake.",
+      "The athlete evaded the defender with ease.",
+      "He tried to evade paying the fine."
+    ],
+    "synonyms": "avoid, escape, dodge, elude, sidestep",
+    "antonyms": "confront, face, meet, address, tackle",
+    "rephrase": "Evade means slipping away from or avoiding something, like a problem or danger."
+  },
+  {
+    "word": "fathom",
+    "pronunciation": {
+      "IPA": "/ˈfæðəm/",
+      "simplified": "FATH-um"
+    },
+    "explanation": "Fathom means to understand something deeply or to figure out something complex after thinking about it.",
+    "definition": "To understand deeply or measure depth.",
+    "examples": [
+      "I can’t fathom why she made that choice.",
+      "He tried to fathom the meaning of the poem.",
+      "The scientist fathomed the mystery after years of research.",
+      "She couldn’t fathom his strange behavior.",
+      "They fathomed the depth of the lake with special tools.",
+      "It’s hard to fathom how fast time passes."
+    ],
+    "synonyms": "understand, comprehend, grasp, figure out, perceive",
+    "antonyms": "misunderstand, confuse, misinterpret, overlook",
+    "rephrase": "Fathom means getting to the bottom of something or understanding it fully."
+  },
+  {
+    "word": "glean",
+    "pronunciation": {
+      "IPA": "/ɡliːn/",
+      "simplified": "GLEEN"
+    },
+    "explanation": "Glean means to gather information or resources slowly and carefully, often bit by bit.",
+    "definition": "To collect information or resources gradually.",
+    "examples": [
+      "She gleaned useful tips from the workshop.",
+      "He gleaned facts from old books in the library.",
+      "They gleaned insights from customer feedback.",
+      "The reporter gleaned details from the witnesses.",
+      "We gleaned enough food from the garden to share.",
+      "She gleaned knowledge from years of experience."
+    ],
+    "synonyms": "gather, collect, extract, obtain, acquire",
+    "antonyms": "ignore, overlook, discard, miss, neglect",
+    "rephrase": "Glean means picking up bits of information or things slowly and carefully."
+  },
+  {
+    "word": "harrowing",
+    "pronunciation": {
+      "IPA": "/ˈhæroʊɪŋ/",
+      "simplified": "HAR-oh-ing"
+    },
+    "explanation": "Harrowing describes something that is very distressing or upsetting, often causing emotional pain.",
+    "definition": "Extremely distressing or disturbing.",
+    "examples": [
+      "The harrowing story of the survivors moved everyone.",
+      "Her harrowing experience left her shaken for days.",
+      "The movie was so harrowing that I couldn’t sleep.",
+      "He shared a harrowing tale of his escape.",
+      "The harrowing images from the disaster were unforgettable.",
+      "It was a harrowing journey through the storm."
+    ],
+    "synonyms": "distressing, upsetting, traumatic, disturbing, painful",
+    "antonyms": "comforting, pleasant, calming, soothing, joyful",
+    "rephrase": "Harrowing means something is so upsetting or scary it’s hard to handle."
+  },
+  {
+    "word": "impel",
+    "pronunciation": {
+      "IPA": "/ɪmˈpel/",
+      "simplified": "im-PEL"
+    },
+    "explanation": "Impel means to strongly urge or push someone to take action, often because of a strong feeling or reason.",
+    "definition": "To urge or drive to action.",
+    "examples": [
+      "Her passion impelled her to start a charity.",
+      "He felt impelled to speak out against injustice.",
+      "The emergency impelled them to act quickly.",
+      "Guilt impelled her to confess the truth.",
+      "His dreams impelled him to work harder.",
+      "The crisis impelled the team to find a solution."
+    ],
+    "synonyms": "urge, drive, compel, motivate, push",
+    "antonyms": "discourage, deter, restrain, prevent, dissuade",
+    "rephrase": "Impel means feeling a strong need to do something because of a reason or emotion."
+  },
+  {
+    "word": "juncture",
+    "pronunciation": {
+      "IPA": "/ˈdʒʌŋktʃər/",
+      "simplified": "JUNK-cher"
+    },
+    "explanation": "Juncture refers to a specific point in time, especially when something important happens or a decision is made.",
+    "definition": "A critical point in time or a joining point.",
+    "examples": [
+      "At this juncture, we need to make a decision.",
+      "The meeting came at a critical juncture in the project.",
+      "At that juncture, she chose to change careers.",
+      "The company was at a juncture where growth was key.",
+      "We’re at a juncture where every choice matters.",
+      "The juncture of the two rivers was beautiful."
+    ],
+    "synonyms": "point, moment, time, stage, crossroads",
+    "antonyms": "continuation, routine, ongoing, usual",
+    "rephrase": "Juncture means a key moment when something important happens or needs to be decided."
+  },
+  {
+    "word": "kudos",
+    "pronunciation": {
+      "IPA": "/ˈkjuːdɒs/",
+      "simplified": "KYOO-dos"
+    },
+    "explanation": "Kudos means praise or recognition for something well done or an achievement.",
+    "definition": "Praise or recognition for achievement.",
+    "examples": [
+      "She earned kudos for her excellent presentation.",
+      "Kudos to the team for finishing the project early.",
+      "He received kudos for his volunteer work.",
+      "The chef got kudos for the delicious meal.",
+      "Kudos to you for solving that tough problem!",
+      "Her artwork won kudos from the critics."
+    ],
+    "synonyms": "praise, acclaim, recognition, credit, applause",
+    "antonyms": "criticism, blame, disapproval, censure, condemnation",
+    "rephrase": "Kudos means giving someone praise for doing something really well."
+  },
+  {
+    "word": "lax",
+    "pronunciation": {
+      "IPA": "/læks/",
+      "simplified": "LAKS"
+    },
+    "explanation": "Lax describes something or someone that is not strict or careful enough, often too relaxed.",
+    "definition": "Not strict or careful; relaxed.",
+    "examples": [
+      "The lax security allowed the thief to enter easily.",
+      "Her lax attitude led to mistakes in her work.",
+      "The rules were too lax to maintain order.",
+      "He was lax about meeting deadlines.",
+      "Lax supervision caused the project to fail.",
+      "The lax policy led to safety concerns."
+    ],
+    "synonyms": "careless, negligent, relaxed, loose, slack",
+    "antonyms": "strict, careful, rigorous, diligent, thorough",
+    "rephrase": "Lax means being too relaxed or not careful enough about rules or responsibilities."
+  },
+  {
+    "word": "meander",
+    "pronunciation": {
+      "IPA": "/miˈændər/",
+      "simplified": "mee-AN-der"
+    },
+    "explanation": "Meander means to move or wander in a slow, winding way, like a river or a leisurely walk.",
+    "definition": "To wander aimlessly or follow a winding course.",
+    "examples": [
+      "The river meanders through the peaceful valley.",
+      "We meandered through the streets of the old town.",
+      "His speech meandered without a clear point.",
+      "She meandered around the park, enjoying the day.",
+      "The path meanders up the hill slowly.",
+      "Their conversation meandered from topic to topic."
+    ],
+    "synonyms": "wander, ramble, roam, zigzag, stroll",
+    "antonyms": "rush, hurry, direct, straighten, focus",
+    "rephrase": "Meander means moving slowly and windingly, like a river or a casual walk."
+  },
+  {
+    "word": "nimble",
+    "pronunciation": {
+      "IPA": "/ˈnɪmbl/",
+      "simplified": "NIM-bul"
+    },
+    "explanation": "Nimble means being quick and light in movement or thought, often with skill or agility.",
+    "definition": "Quick and light in movement or action.",
+    "examples": [
+      "Her nimble fingers typed the report quickly.",
+      "The nimble dancer moved gracefully on stage.",
+      "He has a nimble mind, solving problems fast.",
+      "The cat’s nimble jump landed it on the shelf.",
+      "A nimble response saved the awkward situation.",
+      "The nimble athlete dodged the opponent easily."
+    ],
+    "synonyms": "agile, quick, deft, spry, swift",
+    "antonyms": "clumsy, slow, awkward, sluggish, stiff",
+    "rephrase": "Nimble means moving or thinking quickly and lightly with skill."
+  },
+  {
+    "word": "obstinate",
+    "pronunciation": {
+      "IPA": "/ˈɒbstɪnət/",
+      "simplified": "OB-sti-nit"
+    },
+    "explanation": "Obstinate describes someone who is stubborn and refuses to change their opinion or behavior.",
+    "definition": "Stubbornly refusing to change one’s opinion or actions.",
+    "examples": [
+      "His obstinate refusal delayed the project.",
+      "She was obstinate about sticking to her plan.",
+      "The obstinate child wouldn’t eat his vegetables.",
+      "He remained obstinate despite the evidence.",
+      "Her obstinate attitude frustrated her team.",
+      "The mule was obstinate and wouldn’t move."
+    ],
+    "synonyms": "stubborn, inflexible, unyielding, headstrong, willful",
+    "antonyms": "flexible, cooperative, agreeable, compliant, yielding",
+    "rephrase": "Obstinate means being very stubborn and not willing to change your mind."
+  },
+  {
+    "word": "peruse",
+    "pronunciation": {
+      "IPA": "/pəˈruːz/",
+      "simplified": "puh-ROOZ"
+    },
+    "explanation": "Peruse means to read or examine something carefully and in detail.",
+    "definition": "To read or examine thoroughly.",
+    "examples": [
+      "She perused the document before signing it.",
+      "He perused the menu to choose his meal.",
+      "I perused the book to find useful information.",
+      "They perused the contract for any errors.",
+      "She perused the article with great interest.",
+      "He perused the map to plan the route."
+    ],
+    "synonyms": "read, examine, study, inspect, review",
+    "antonyms": "skim, glance, overlook, ignore, browse",
+    "rephrase": "Peruse means carefully reading or looking over something in detail."
+  },
+  {
+    "word": "quip",
+    "pronunciation": {
+      "IPA": "/kwɪp/",
+      "simplified": "KWIP"
+    },
+    "explanation": "Quip refers to a quick, witty remark or clever comment, often humorous.",
+    "definition": "A witty or clever remark.",
+    "examples": [
+      "His quip about the weather made everyone laugh.",
+      "She responded with a quip that lightened the mood.",
+      "The comedian’s quip got a big applause.",
+      "He made a quip about his messy desk.",
+      "Her quip caught everyone by surprise.",
+      "The quip added humor to the serious discussion."
+    ],
+    "synonyms": "joke, jest, witticism, remark, one-liner",
+    "antonyms": "serious comment, lecture, explanation, silence",
+    "rephrase": "Quip means a quick, funny, or clever comment."
+  },
+  {
+    "word": "revere",
+    "pronunciation": {
+      "IPA": "/rɪˈvɪər/",
+      "simplified": "ri-VEER"
+    },
+    "explanation": "Revere means to have deep respect or admiration for someone or something.",
+    "definition": "To regard with deep respect or admiration.",
+    "examples": [
+      "She revered her teacher for his wisdom.",
+      "They revere the traditions of their culture.",
+      "He is revered as a hero in his hometown.",
+      "The artist is revered for her unique style.",
+      "We revere the memory of our ancestors.",
+      "The leader was revered by the entire community."
+    ],
+    "synonyms": "respect, admire, honor, venerate, esteem",
+    "antonyms": "disrespect, despise, scorn, dishonor, disregard",
+    "rephrase": "Revere means deeply respecting or admiring someone or something."
+  },
+  {
+    "word": "sustain",
+    "pronunciation": {
+      "IPA": "/səˈsteɪn/",
+      "simplified": "suh-STAYN"
+    },
+    "explanation": "Sustain means to keep something going or support it, like maintaining effort, life, or strength.",
+    "definition": "To maintain or keep going.",
+    "examples": [
+      "She sustained her focus throughout the long exam.",
+      "The charity sustains families in need with food.",
+      "He sustained minor injuries in the accident.",
+      "They worked to sustain the project’s momentum.",
+      "The planet must sustain life for future generations.",
+      "Her hope sustained her through tough times."
+    ],
+    "synonyms": "maintain, support, continue, uphold, preserve",
+    "antonyms": "stop, end, halt, abandon, disrupt",
+    "rephrase": "Sustain means keeping something going or supporting it to continue."
+  },
+  {
+    "word": "thrive",
+    "pronunciation": {
+      "IPA": "/θraɪv/",
+      "simplified": "THRYV"
+    },
+    "explanation": "Thrive means to grow, succeed, or do very well in a healthy or prosperous way.",
+    "definition": "To grow or succeed vigorously.",
+    "examples": [
+      "The plants thrive in sunny conditions.",
+      "Her business thrived after the new marketing plan.",
+      "He thrives in a fast-paced work environment.",
+      "The community thrived with new opportunities.",
+      "Children thrive when given love and support.",
+      "The team thrived under strong leadership."
+    ],
+    "synonyms": "flourish, prosper, succeed, grow, bloom",
+    "antonyms": "fail, decline, wither, struggle, fade",
+    "rephrase": "Thrive means doing really well and growing strong or successful."
+  },
+  {
+    "word": "unravel",
+    "pronunciation": {
+      "IPA": "/ʌnˈrævəl/",
+      "simplified": "un-RAV-ul"
+    },
+    "explanation": "Unravel means to undo something tangled or to solve a mystery or problem by figuring it out.",
+    "definition": "To undo or solve something complex.",
+    "examples": [
+      "She unraveled the knot with patience.",
+      "The detective unraveled the mystery in days.",
+      "His explanation unraveled the confusing topic.",
+      "The plan began to unravel due to poor communication.",
+      "She unraveled the truth behind the rumor.",
+      "The sweater unraveled after getting caught."
+    ],
+    "synonyms": "untangle, solve, resolve, undo, decipher",
+    "antonyms": "tangle, complicate, confuse, obscure, entangle",
+    "rephrase": "Unravel means figuring out something tricky or undoing something messy."
+  },
+  {
+    "word": "vex",
+    "pronunciation": {
+      "IPA": "/veks/",
+      "simplified": "VEKS"
+    },
+    "explanation": "Vex means to annoy or frustrate someone, often causing irritation or confusion.",
+    "definition": "To annoy or irritate.",
+    "examples": [
+      "His constant complaints vexed his coworkers.",
+      "The puzzle vexed her for hours.",
+      "She was vexed by the delay in the schedule.",
+      "His rude behavior vexed everyone at the party.",
+      "The tricky question vexed the students.",
+      "Don’t let small problems vex you too much."
+    ],
+    "synonyms": "annoy, irritate, frustrate, bother, anger",
+    "antonyms": "please, soothe, calm, delight, comfort",
+    "rephrase": "Vex means making someone annoyed or frustrated."
+  },
+  {
+    "word": "wistful",
+    "pronunciation": {
+      "IPA": "/ˈwɪstfəl/",
+      "simplified": "WIST-ful"
+    },
+    "explanation": "Wistful describes a feeling of longing or sadness for something missed or unattainable.",
+    "definition": "Having a feeling of sentimental longing or sadness.",
+    "examples": [
+      "She gave a wistful smile, remembering her childhood.",
+      "His wistful tone showed he missed his old friends.",
+      "The wistful music made everyone feel emotional.",
+      "He looked wistful as he spoke about the past.",
+      "Her wistful gaze lingered on the old house.",
+      "The story had a wistful ending that touched us."
+    ],
+    "synonyms": "nostalgic, longing, melancholic, yearning, sentimental",
+    "antonyms": "content, satisfied, cheerful, unemotional, indifferent",
+    "rephrase": "Wistful means feeling a sad or thoughtful longing for something you miss."
+  },
+  {
+    "word": "yoke",
+    "pronunciation": {
+      "IPA": "/joʊk/",
+      "simplified": "YOKE"
+    },
+    "explanation": "Yoke means to join or link things together, often with a burden or restriction, or refers to a device for animals.",
+    "definition": "To join together or a device linking animals.",
+    "examples": [
+      "The oxen were yoked together to plow the field.",
+      "The new rules yoked the team with extra work.",
+      "They yoked their efforts to achieve the goal.",
+      "The yoke of responsibility weighed heavily on her.",
+      "The farmers used a wooden yoke for the cattle.",
+      "The agreement yoked the two companies in partnership."
+    ],
+    "synonyms": "join, link, connect, bind, couple",
+    "antonyms": "separate, divide, disconnect, free, unlink",
+    "rephrase": "Yoke means tying things together, often with a sense of burden or connection."
+  },
+  {
+    "word": "zenith",
+    "pronunciation": {
+      "IPA": "/ˈzenɪθ/",
+      "simplified": "ZEE-nith"
+    },
+    "explanation": "Zenith refers to the highest point or peak of something, like success or achievement.",
+    "definition": "The highest point or peak.",
+    "examples": [
+      "Her career reached its zenith with the award.",
+      "The sun was at its zenith in the sky.",
+      "The team’s performance hit a zenith during the finals.",
+      "He was at the zenith of his popularity.",
+      "The empire reached its zenith in the 18th century.",
+      "Her confidence was at its zenith after the success."
+    ],
+    "synonyms": "peak, summit, top, climax, height",
+    "antonyms": "nadir, bottom, low, decline, trough",
+    "rephrase": "Zenith means the very top or highest point of something."
+  }
+]
