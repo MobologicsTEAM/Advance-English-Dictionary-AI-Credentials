@@ -1478,5 +1478,26 @@
     "synonyms": "peak, summit, top, climax, height",
     "antonyms": "nadir, bottom, low, decline, trough",
     "rephrase": "Zenith means the very top or highest point of something."
-  }
+  },
+  {
+  "word": "optimistic",
+  "pronunciation": {
+    "IPA": "/ˌɒp.tɪˈmɪs.tɪk/",
+    "simplified": "op-tuh-MIS-tik"
+  },
+  "explanation": "Optimistic means having a positive outlook, expecting good things to happen, and staying hopeful about the future.",
+  "definition": "Hopeful and confident about the future.",
+  "examples": [
+    "She is optimistic about passing her exams.",
+    "Despite the challenges, he remained optimistic about the future.",
+    "The team is optimistic that they will win the championship this year.",
+    "Investors are optimistic about the company’s growth potential.",
+    "Even after the setback, he stayed optimistic and kept working hard.",
+    "Doctors are optimistic that the patient will recover quickly."
+  ],
+  "synonyms": "positive, hopeful, confident, cheerful, upbeat",
+  "antonyms": "pessimistic, negative, doubtful, gloomy, uncertain",
+  "rephrase": "Optimistic means being hopeful and expecting good results, even when things are tough."
+}
+
 ]
