@@ -419,4 +419,434 @@
       }
     ]
   }
+ {
+    "//comment": "=== QUIZ 11: BASIC LEVEL ===",
+    "quiz_id": 11,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 51,
+        "type": "meaning",
+        "question": "What is the meaning of 'Angry'?",
+        "options": ["Mad or upset", "Calm", "Excited"],
+        "answer": "Mad or upset"
+      },
+      {
+        "id": 52,
+        "type": "meaning",
+        "question": "What is the meaning of 'Fast'?",
+        "options": ["Quick", "Slow", "Heavy"],
+        "answer": "Quick"
+      },
+      {
+        "id": 53,
+        "type": "meaning",
+        "question": "What is the meaning of 'Happy'?",
+        "options": ["Joyful", "Sad", "Lazy"],
+        "answer": "Joyful"
+      },
+      {
+        "id": 54,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Cold':",
+        "options": ["Chilly", "Hot", "Warm"],
+        "answer": "Chilly"
+      },
+      {
+        "id": 55,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Old':",
+        "options": ["Young", "Ancient", "Past"],
+        "answer": "Young"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 12: BASIC LEVEL ===",
+    "quiz_id": 12,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 56,
+        "type": "meaning",
+        "question": "What is the meaning of 'Kind'?",
+        "options": ["Friendly and gentle", "Mean", "Rude"],
+        "answer": "Friendly and gentle"
+      },
+      {
+        "id": 57,
+        "type": "meaning",
+        "question": "What is the meaning of 'Tall'?",
+        "options": ["High in height", "Short", "Small"],
+        "answer": "High in height"
+      },
+      {
+        "id": 58,
+        "type": "meaning",
+        "question": "What is the meaning of 'Funny'?",
+        "options": ["Amusing", "Serious", "Sad"],
+        "answer": "Amusing"
+      },
+      {
+        "id": 59,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Big':",
+        "options": ["Large", "Tiny", "Thin"],
+        "answer": "Large"
+      },
+      {
+        "id": 60,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Clean':",
+        "options": ["Dirty", "Neat", "Pure"],
+        "answer": "Dirty"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 13: BASIC LEVEL ===",
+    "quiz_id": 13,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 61,
+        "type": "meaning",
+        "question": "What is the meaning of 'Strong'?",
+        "options": ["Powerful", "Weak", "Gentle"],
+        "answer": "Powerful"
+      },
+      {
+        "id": 62,
+        "type": "meaning",
+        "question": "What is the meaning of 'Soft'?",
+        "options": ["Smooth or gentle", "Hard", "Rough"],
+        "answer": "Smooth or gentle"
+      },
+      {
+        "id": 63,
+        "type": "meaning",
+        "question": "What is the meaning of 'Sad'?",
+        "options": ["Unhappy", "Glad", "Calm"],
+        "answer": "Unhappy"
+      },
+      {
+        "id": 64,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Friend':",
+        "options": ["Buddy", "Enemy", "Stranger"],
+        "answer": "Buddy"
+      },
+      {
+        "id": 65,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Rich':",
+        "options": ["Poor", "Wealthy", "Loaded"],
+        "answer": "Poor"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 14: BASIC LEVEL ===",
+    "quiz_id": 14,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 66,
+        "type": "meaning",
+        "question": "What is the meaning of 'Hot'?",
+        "options": ["Having high temperature", "Cold", "Frozen"],
+        "answer": "Having high temperature"
+      },
+      {
+        "id": 67,
+        "type": "meaning",
+        "question": "What is the meaning of 'Beautiful'?",
+        "options": ["Pretty or attractive", "Ugly", "Plain"],
+        "answer": "Pretty or attractive"
+      },
+      {
+        "id": 68,
+        "type": "meaning",
+        "question": "What is the meaning of 'Busy'?",
+        "options": ["Occupied or active", "Free", "Idle"],
+        "answer": "Occupied or active"
+      },
+      {
+        "id": 69,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Fast':",
+        "options": ["Quick", "Slow", "Still"],
+        "answer": "Quick"
+      },
+      {
+        "id": 70,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Open':",
+        "options": ["Closed", "Start", "Begin"],
+        "answer": "Closed"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 15: BASIC LEVEL ===",
+    "quiz_id": 15,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 71,
+        "type": "meaning",
+        "question": "What is the meaning of 'Cold'?",
+        "options": ["Low temperature", "Hot", "Warm"],
+        "answer": "Low temperature"
+      },
+      {
+        "id": 72,
+        "type": "meaning",
+        "question": "What is the meaning of 'Easy'?",
+        "options": ["Simple", "Hard", "Complicated"],
+        "answer": "Simple"
+      },
+      {
+        "id": 73,
+        "type": "meaning",
+        "question": "What is the meaning of 'Brave'?",
+        "options": ["Fearless", "Cowardly", "Shy"],
+        "answer": "Fearless"
+      },
+      {
+        "id": 74,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Smart':",
+        "options": ["Clever", "Dull", "Lazy"],
+        "answer": "Clever"
+      },
+      {
+        "id": 75,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Dark':",
+        "options": ["Bright", "Dim", "Shady"],
+        "answer": "Bright"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 16: BASIC LEVEL ===",
+    "quiz_id": 16,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 76,
+        "type": "meaning",
+        "question": "What is the meaning of 'Quick'?",
+        "options": ["Fast", "Slow", "Late"],
+        "answer": "Fast"
+      },
+      {
+        "id": 77,
+        "type": "meaning",
+        "question": "What is the meaning of 'Calm'?",
+        "options": ["Peaceful", "Angry", "Excited"],
+        "answer": "Peaceful"
+      },
+      {
+        "id": 78,
+        "type": "meaning",
+        "question": "What is the meaning of 'Kind'?",
+        "options": ["Nice and gentle", "Cruel", "Lazy"],
+        "answer": "Nice and gentle"
+      },
+      {
+        "id": 79,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Small':",
+        "options": ["Tiny", "Big", "Tall"],
+        "answer": "Tiny"
+      },
+      {
+        "id": 80,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Hard':",
+        "options": ["Soft", "Strong", "Rough"],
+        "answer": "Soft"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 17: BASIC LEVEL ===",
+    "quiz_id": 17,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 81,
+        "type": "meaning",
+        "question": "What is the meaning of 'Old'?",
+        "options": ["Not new", "Young", "Fresh"],
+        "answer": "Not new"
+      },
+      {
+        "id": 82,
+        "type": "meaning",
+        "question": "What is the meaning of 'Quiet'?",
+        "options": ["Silent", "Loud", "Busy"],
+        "answer": "Silent"
+      },
+      {
+        "id": 83,
+        "type": "meaning",
+        "question": "What is the meaning of 'Lucky'?",
+        "options": ["Fortunate", "Unlucky", "Tired"],
+        "answer": "Fortunate"
+      },
+      {
+        "id": 84,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Help':",
+        "options": ["Assist", "Ignore", "Delay"],
+        "answer": "Assist"
+      },
+      {
+        "id": 85,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Far':",
+        "options": ["Near", "Wide", "Away"],
+        "answer": "Near"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 18: BASIC LEVEL ===",
+    "quiz_id": 18,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 86,
+        "type": "meaning",
+        "question": "What is the meaning of 'Happy'?",
+        "options": ["Joyful", "Sad", "Dull"],
+        "answer": "Joyful"
+      },
+      {
+        "id": 87,
+        "type": "meaning",
+        "question": "What is the meaning of 'Polite'?",
+        "options": ["Well-mannered", "Rude", "Loud"],
+        "answer": "Well-mannered"
+      },
+      {
+        "id": 88,
+        "type": "meaning",
+        "question": "What is the meaning of 'Beautiful'?",
+        "options": ["Attractive", "Ugly", "Plain"],
+        "answer": "Attractive"
+      },
+      {
+        "id": 89,
+        "type": "synonym",
+        "question": "Choose the synonym of 'End':",
+        "options": ["Finish", "Start", "Begin"],
+        "answer": "Finish"
+      },
+      {
+        "id": 90,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Day':",
+        "options": ["Night", "Morning", "Light"],
+        "answer": "Night"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 19: BASIC LEVEL ===",
+    "quiz_id": 19,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 91,
+        "type": "meaning",
+        "question": "What is the meaning of 'Brave'?",
+        "options": ["Fearless", "Shy", "Afraid"],
+        "answer": "Fearless"
+      },
+      {
+        "id": 92,
+        "type": "meaning",
+        "question": "What is the meaning of 'Weak'?",
+        "options": ["Lacking strength", "Strong", "Heavy"],
+        "answer": "Lacking strength"
+      },
+      {
+        "id": 93,
+        "type": "meaning",
+        "question": "What is the meaning of 'Good'?",
+        "options": ["Nice or positive", "Bad", "Lazy"],
+        "answer": "Nice or positive"
+      },
+      {
+        "id": 94,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Quick':",
+        "options": ["Fast", "Slow", "Late"],
+        "answer": "Fast"
+      },
+      {
+        "id": 95,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Up':",
+        "options": ["Down", "High", "Above"],
+        "answer": "Down"
+      }
+    ]
+  },
+  {
+    "//comment": "=== QUIZ 20: BASIC LEVEL ===",
+    "quiz_id": 20,
+    "level": "basic",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 96,
+        "type": "meaning",
+        "question": "What is the meaning of 'Funny'?",
+        "options": ["Amusing", "Boring", "Serious"],
+        "answer": "Amusing"
+      },
+      {
+        "id": 97,
+        "type": "meaning",
+        "question": "What is the meaning of 'Quiet'?",
+        "options": ["Silent", "Loud", "Talkative"],
+        "answer": "Silent"
+      },
+      {
+        "id": 98,
+        "type": "meaning",
+        "question": "What is the meaning of 'Strong'?",
+        "options": ["Powerful", "Weak", "Gentle"],
+        "answer": "Powerful"
+      },
+      {
+        "id": 99,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Kind':",
+        "options": ["Nice", "Mean", "Angry"],
+        "answer": "Nice"
+      },
+      {
+        "id": 100,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Happy':",
+        "options": ["Sad", "Glad", "Joyful"],
+        "answer": "Sad"
+      }
+    ]
+  }
 ]
