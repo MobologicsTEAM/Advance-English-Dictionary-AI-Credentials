@@ -420,7 +420,7 @@
     ]
   }
  {
-    "//comment": "=== QUIZ 11: BASIC LEVEL ===",
+    
     "quiz_id": 11,
     "level": "basic",
     "time_limit": 10,
@@ -463,7 +463,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 12: BASIC LEVEL ===",
+
     "quiz_id": 12,
     "level": "basic",
     "time_limit": 10,
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 13: BASIC LEVEL ===",
+    
     "quiz_id": 13,
     "level": "basic",
     "time_limit": 10,
@@ -549,7 +549,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 14: BASIC LEVEL ===",
+ 
     "quiz_id": 14,
     "level": "basic",
     "time_limit": 10,
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 15: BASIC LEVEL ===",
+ 
     "quiz_id": 15,
     "level": "basic",
     "time_limit": 10,
@@ -635,7 +635,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 16: BASIC LEVEL ===",
+ 
     "quiz_id": 16,
     "level": "basic",
     "time_limit": 10,
@@ -678,7 +678,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 17: BASIC LEVEL ===",
+
     "quiz_id": 17,
     "level": "basic",
     "time_limit": 10,
@@ -721,7 +721,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 18: BASIC LEVEL ===",
+
     "quiz_id": 18,
     "level": "basic",
     "time_limit": 10,
@@ -764,7 +764,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 19: BASIC LEVEL ===",
+
     "quiz_id": 19,
     "level": "basic",
     "time_limit": 10,
@@ -807,7 +807,7 @@
     ]
   },
   {
-    "//comment": "=== QUIZ 20: BASIC LEVEL ===",
+ 
     "quiz_id": 20,
     "level": "basic",
     "time_limit": 10,
@@ -850,5 +850,6 @@
     ]
   }
 ]
+
 
 
