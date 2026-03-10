@@ -1,0 +1,212 @@
+[
+  {
+    "quiz_id": 1,
+    "quiz_type": "vocabulary master",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Abundant'?",
+        "options": ["Scarce", "Plentiful", "Empty", "Small"],
+        "answer": "Plentiful"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Benevolent'?",
+        "options": ["Kind", "Angry", "Lazy", "Careless"],
+        "answer": "Kind"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Candid'?",
+        "options": ["Honest", "Secretive", "Shy", "Clever"],
+        "answer": "Honest"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Diligent'?",
+        "options": ["Hardworking", "Lazy", "Weak", "Silent"],
+        "answer": "Hardworking"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Eloquent'?",
+        "options": ["Fluent speaker", "Silent person", "Angry man", "Weak speaker"],
+        "answer": "Fluent speaker"
+      }
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "quiz_type": "vocabulary master",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Fragile'?",
+        "options": ["Strong", "Easily broken", "Heavy", "Rough"],
+        "answer": "Easily broken"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Genuine'?",
+        "options": ["Fake", "Real", "Cheap", "Broken"],
+        "answer": "Real"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Hostile'?",
+        "options": ["Friendly", "Angry", "Calm", "Happy"],
+        "answer": "Angry"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Ignite'?",
+        "options": ["Freeze", "Start fire", "Hide", "Break"],
+        "answer": "Start fire"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Jolly'?",
+        "options": ["Sad", "Happy", "Angry", "Confused"],
+        "answer": "Happy"
+      }
+    ]
+  },
+  {
+    "quiz_id": 3,
+    "quiz_type": "vocabulary master",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Keen'?",
+        "options": ["Dull", "Sharp", "Weak", "Lazy"],
+        "answer": "Sharp"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Linger'?",
+        "options": ["Stay longer", "Leave quickly", "Jump", "Hide"],
+        "answer": "Stay longer"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Massive'?",
+        "options": ["Tiny", "Huge", "Weak", "Narrow"],
+        "answer": "Huge"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Noble'?",
+        "options": ["Dishonest", "Honorable", "Weak", "Lazy"],
+        "answer": "Honorable"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Obvious'?",
+        "options": ["Hidden", "Clear", "Difficult", "Weak"],
+        "answer": "Clear"
+      }
+    ]
+  },
+  {
+    "quiz_id": 4,
+    "quiz_type": "vocabulary master",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Prosper'?",
+        "options": ["Fail", "Succeed", "Hide", "Lose"],
+        "answer": "Succeed"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Reluctant'?",
+        "options": ["Unwilling", "Excited", "Happy", "Brave"],
+        "answer": "Unwilling"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Scarce'?",
+        "options": ["Plenty", "Rare", "Heavy", "Easy"],
+        "answer": "Rare"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Thrive'?",
+        "options": ["Fail", "Grow well", "Break", "Hide"],
+        "answer": "Grow well"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Unique'?",
+        "options": ["Common", "One of a kind", "Weak", "Ugly"],
+        "answer": "One of a kind"
+      }
+    ]
+  },
+  {
+    "quiz_id": 5,
+    "quiz_type": "vocabulary master",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Vivid'?",
+        "options": ["Dull", "Bright and clear", "Dark", "Broken"],
+        "answer": "Bright and clear"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Wander'?",
+        "options": ["Walk aimlessly", "Run fast", "Sleep", "Jump"],
+        "answer": "Walk aimlessly"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Yield'?",
+        "options": ["Produce", "Destroy", "Hide", "Break"],
+        "answer": "Produce"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Zealous'?",
+        "options": ["Lazy", "Passionate", "Weak", "Calm"],
+        "answer": "Passionate"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Modest'?",
+        "options": ["Arrogant", "Humble", "Loud", "Proud"],
+        "answer": "Humble"
+      }
+    ]
+  }
+]

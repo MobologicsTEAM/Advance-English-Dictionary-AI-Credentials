@@ -1,0 +1,212 @@
+[
+  {
+    "quiz_id": 1,
+    "quiz_type": "antonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Happy':",
+        "options": ["Sad", "Joyful", "Excited", "Cheerful"],
+        "answer": "Sad"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Big':",
+        "options": ["Large", "Tiny", "Huge", "Massive"],
+        "answer": "Tiny"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Fast':",
+        "options": ["Slow", "Quick", "Rapid", "Speedy"],
+        "answer": "Slow"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Strong':",
+        "options": ["Weak", "Powerful", "Mighty", "Tough"],
+        "answer": "Weak"
+      },
+      {
+        "id": 5,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Brave':",
+        "options": ["Cowardly", "Courageous", "Bold", "Heroic"],
+        "answer": "Cowardly"
+      }
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "quiz_type": "antonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Hot':",
+        "options": ["Cold", "Warm", "Heated", "Boiling"],
+        "answer": "Cold"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Early':",
+        "options": ["Late", "Soon", "Ahead", "Prompt"],
+        "answer": "Late"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Clear':",
+        "options": ["Obscure", "Bright", "Obvious", "Transparent"],
+        "answer": "Obscure"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Empty':",
+        "options": ["Full", "Vacant", "Bare", "Hollow"],
+        "answer": "Full"
+      },
+      {
+        "id": 5,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Up':",
+        "options": ["Down", "High", "Above", "Top"],
+        "answer": "Down"
+      }
+    ]
+  },
+  {
+    "quiz_id": 3,
+    "quiz_type": "antonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Safe':",
+        "options": ["Dangerous", "Secure", "Protected", "Stable"],
+        "answer": "Dangerous"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Love':",
+        "options": ["Hate", "Like", "Adore", "Care"],
+        "answer": "Hate"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Light':",
+        "options": ["Dark", "Bright", "Clear", "Shiny"],
+        "answer": "Dark"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Strong':",
+        "options": ["Weak", "Mighty", "Powerful", "Tough"],
+        "answer": "Weak"
+      },
+      {
+        "id": 5,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Quiet':",
+        "options": ["Loud", "Silent", "Soft", "Hushed"],
+        "answer": "Loud"
+      }
+    ]
+  },
+  {
+    "quiz_id": 4,
+    "quiz_type": "antonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Hard':",
+        "options": ["Soft", "Difficult", "Tough", "Rigid"],
+        "answer": "Soft"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Near':",
+        "options": ["Far", "Close", "Adjacent", "Nearby"],
+        "answer": "Far"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Open':",
+        "options": ["Closed", "Unlocked", "Free", "Exposed"],
+        "answer": "Closed"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Rich':",
+        "options": ["Poor", "Wealthy", "Prosperous", "Affluent"],
+        "answer": "Poor"
+      },
+      {
+        "id": 5,
+        "type": "antonym",
+        "question": "Choose the antonym of 'True':",
+        "options": ["False", "Correct", "Right", "Accurate"],
+        "answer": "False"
+      }
+    ]
+  },
+  {
+    "quiz_id": 5,
+    "quiz_type": "antonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Full':",
+        "options": ["Empty", "Packed", "Loaded", "Complete"],
+        "answer": "Empty"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Strong':",
+        "options": ["Weak", "Powerful", "Mighty", "Tough"],
+        "answer": "Weak"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Hot':",
+        "options": ["Cold", "Warm", "Boiling", "Heated"],
+        "answer": "Cold"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Fast':",
+        "options": ["Slow", "Quick", "Rapid", "Speedy"],
+        "answer": "Slow"
+      },
+      {
+        "id": 5,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Light':",
+        "options": ["Dark", "Bright", "Shiny", "Clear"],
+        "answer": "Dark"
+      }
+    ]
+  }
+]

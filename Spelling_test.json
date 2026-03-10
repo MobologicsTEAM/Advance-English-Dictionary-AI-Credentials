@@ -1,0 +1,212 @@
+[
+  {
+    "quiz_id": 1,
+    "quiz_type": "spelling test",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Recieve", "Receive", "Receeve", "Receve"],
+        "answer": "Receive"
+      },
+      {
+        "id": 2,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+        "answer": "Accommodate"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Definately", "Definitely", "Defanitely", "Definatly"],
+        "answer": "Definitely"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Seperate", "Separate", "Separete", "Seperete"],
+        "answer": "Separate"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Occurence", "Occurrence", "Ocurence", "Occurense"],
+        "answer": "Occurrence"
+      }
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "quiz_type": "spelling test",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Enviroment", "Environment", "Enviornment", "Environmant"],
+        "answer": "Environment"
+      },
+      {
+        "id": 2,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Tommorow", "Tomorrow", "Tomorow", "Tommoroww"],
+        "answer": "Tomorrow"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Bussiness", "Business", "Busines", "Busyness"],
+        "answer": "Business"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Succesful", "Successful", "Sucessful", "Successfull"],
+        "answer": "Successful"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Goverment", "Government", "Governmant", "Govermentt"],
+        "answer": "Government"
+      }
+    ]
+  },
+  {
+    "quiz_id": 3,
+    "quiz_type": "spelling test",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Untill", "Until", "Untilll", "Untl"],
+        "answer": "Until"
+      },
+      {
+        "id": 2,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Begining", "Beginning", "Beginingg", "Begininng"],
+        "answer": "Beginning"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Privilege", "Privelege", "Priviledge", "Privlege"],
+        "answer": "Privilege"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Neccessary", "Necessary", "Necesary", "Necesarry"],
+        "answer": "Necessary"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Publically", "Publicly", "Publicaly", "Publikly"],
+        "answer": "Publicly"
+      }
+    ]
+  },
+  {
+    "quiz_id": 4,
+    "quiz_type": "spelling test",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Calender", "Calendar", "Calandar", "Calandar"],
+        "answer": "Calendar"
+      },
+      {
+        "id": 2,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Beleive", "Believe", "Belive", "Beleev"],
+        "answer": "Believe"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Argumant", "Argument", "Arguement", "Argoment"],
+        "answer": "Argument"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Finaly", "Finally", "Finalley", "Finali"],
+        "answer": "Finally"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Colleague", "Collegue", "Colleage", "Colleeg"],
+        "answer": "Colleague"
+      }
+    ]
+  },
+  {
+    "quiz_id": 5,
+    "quiz_type": "spelling test",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Library", "Libary", "Librery", "Liberry"],
+        "answer": "Library"
+      },
+      {
+        "id": 2,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Maintainance", "Maintenance", "Maintenence", "Maintanance"],
+        "answer": "Maintenance"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Acheive", "Achieve", "Acheeve", "Achive"],
+        "answer": "Achieve"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Existance", "Existence", "Existense", "Existnce"],
+        "answer": "Existence"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Committment", "Commitment", "Commitmant", "Comitmment"],
+        "answer": "Commitment"
+      }
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "quiz_id": 1,
+    "quiz_type": "synonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Happy':",
+        "options": ["Joyful", "Angry", "Sad", "Tired"],
+        "answer": "Joyful"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Big':",
+        "options": ["Large", "Tiny", "Small", "Short"],
+        "answer": "Large"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Fast':",
+        "options": ["Quick", "Slow", "Lazy", "Weak"],
+        "answer": "Quick"
+      },
+      {
+        "id": 4,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Smart':",
+        "options": ["Intelligent", "Lazy", "Weak", "Angry"],
+        "answer": "Intelligent"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Brave':",
+        "options": ["Courageous", "Fearful", "Lazy", "Weak"],
+        "answer": "Courageous"
+      }
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "quiz_type": "synonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Begin':",
+        "options": ["Start", "Stop", "End", "Break"],
+        "answer": "Start"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Silent':",
+        "options": ["Quiet", "Loud", "Fast", "Angry"],
+        "answer": "Quiet"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Easy':",
+        "options": ["Simple", "Hard", "Weak", "Fast"],
+        "answer": "Simple"
+      },
+      {
+        "id": 4,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Rich':",
+        "options": ["Wealthy", "Poor", "Weak", "Sad"],
+        "answer": "Wealthy"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Help':",
+        "options": ["Assist", "Ignore", "Break", "Run"],
+        "answer": "Assist"
+      }
+    ]
+  },
+  {
+    "quiz_id": 3,
+    "quiz_type": "synonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Neat':",
+        "options": ["Tidy", "Dirty", "Weak", "Messy"],
+        "answer": "Tidy"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Old':",
+        "options": ["Ancient", "New", "Fresh", "Weak"],
+        "answer": "Ancient"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Wrong':",
+        "options": ["Incorrect", "Right", "Clear", "Weak"],
+        "answer": "Incorrect"
+      },
+      {
+        "id": 4,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Safe':",
+        "options": ["Secure", "Dangerous", "Risky", "Weak"],
+        "answer": "Secure"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Talk':",
+        "options": ["Speak", "Listen", "Hide", "Jump"],
+        "answer": "Speak"
+      }
+    ]
+  },
+  {
+    "quiz_id": 4,
+    "quiz_type": "synonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Hard':",
+        "options": ["Difficult", "Easy", "Simple", "Weak"],
+        "answer": "Difficult"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Buy':",
+        "options": ["Purchase", "Sell", "Borrow", "Throw"],
+        "answer": "Purchase"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Job':",
+        "options": ["Work", "Game", "Play", "Rest"],
+        "answer": "Work"
+      },
+      {
+        "id": 4,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Show':",
+        "options": ["Display", "Hide", "Break", "Lose"],
+        "answer": "Display"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'True':",
+        "options": ["Correct", "Wrong", "False", "Weak"],
+        "answer": "Correct"
+      }
+    ]
+  },
+  {
+    "quiz_id": 5,
+    "quiz_type": "synonym challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Idea':",
+        "options": ["Thought", "Rock", "Water", "Paper"],
+        "answer": "Thought"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Calm':",
+        "options": ["Peaceful", "Angry", "Loud", "Wild"],
+        "answer": "Peaceful"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Strong':",
+        "options": ["Powerful", "Weak", "Tiny", "Soft"],
+        "answer": "Powerful"
+      },
+      {
+        "id": 4,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Help':",
+        "options": ["Support", "Ignore", "Break", "Run"],
+        "answer": "Support"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Clear':",
+        "options": ["Obvious", "Hidden", "Dark", "Confusing"],
+        "answer": "Obvious"
+      }
+    ]
+  }
+]

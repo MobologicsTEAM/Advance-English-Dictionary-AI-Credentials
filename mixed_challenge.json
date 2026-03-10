@@ -1,0 +1,212 @@
+[
+  {
+    "quiz_id": 1,
+    "quiz_type": "mixed challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Fragile'?",
+        "options": ["Strong", "Easily broken", "Heavy", "Rough"],
+        "answer": "Easily broken"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Quick':",
+        "options": ["Fast", "Slow", "Lazy", "Weak"],
+        "answer": "Fast"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Up':",
+        "options": ["High", "Down", "Top", "Above"],
+        "answer": "Down"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Recieve", "Receive", "Receeve", "Receve"],
+        "answer": "Receive"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Diligent'?",
+        "options": ["Hardworking", "Lazy", "Weak", "Silent"],
+        "answer": "Hardworking"
+      }
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "quiz_type": "mixed challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Brave':",
+        "options": ["Courageous", "Fearful", "Lazy", "Weak"],
+        "answer": "Courageous"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Full':",
+        "options": ["Empty", "Packed", "Loaded", "Filled"],
+        "answer": "Empty"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Accomodate", "Accommodate", "Acommodate", "Accomadate"],
+        "answer": "Accommodate"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Jolly'?",
+        "options": ["Sad", "Happy", "Angry", "Confused"],
+        "answer": "Happy"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Strong':",
+        "options": ["Powerful", "Weak", "Tiny", "Soft"],
+        "answer": "Powerful"
+      }
+    ]
+  },
+  {
+    "quiz_id": 3,
+    "quiz_type": "mixed challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Easy':",
+        "options": ["Difficult", "Simple", "Smooth", "Clear"],
+        "answer": "Difficult"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Unique'?",
+        "options": ["Common", "One of a kind", "Weak", "Ugly"],
+        "answer": "One of a kind"
+      },
+      {
+        "id": 3,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Tommorow", "Tomorrow", "Tomorow", "Tommoroww"],
+        "answer": "Tomorrow"
+      },
+      {
+        "id": 4,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Silent':",
+        "options": ["Quiet", "Loud", "Fast", "Angry"],
+        "answer": "Quiet"
+      },
+      {
+        "id": 5,
+        "type": "antonym",
+        "question": "Choose the antonym of 'High':",
+        "options": ["Low", "Tall", "Long", "Wide"],
+        "answer": "Low"
+      }
+    ]
+  },
+  {
+    "quiz_id": 4,
+    "quiz_type": "mixed challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Definately", "Definitely", "Defanitely", "Definatly"],
+        "answer": "Definitely"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Zealous'?",
+        "options": ["Lazy", "Passionate", "Weak", "Calm"],
+        "answer": "Passionate"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Neat':",
+        "options": ["Tidy", "Dirty", "Weak", "Messy"],
+        "answer": "Tidy"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Hot':",
+        "options": ["Cold", "Warm", "Heated", "Boiling"],
+        "answer": "Cold"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Yield'?",
+        "options": ["Produce", "Destroy", "Hide", "Break"],
+        "answer": "Produce"
+      }
+    ]
+  },
+  {
+    "quiz_id": 5,
+    "quiz_type": "mixed challenge",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Begin':",
+        "options": ["Start", "Stop", "End", "Break"],
+        "answer": "Start"
+      },
+      {
+        "id": 2,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Occurence", "Occurrence", "Ocurence", "Occurense"],
+        "answer": "Occurrence"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Love':",
+        "options": ["Hate", "Like", "Enjoy", "Care"],
+        "answer": "Hate"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Modest'?",
+        "options": ["Arrogant", "Humble", "Loud", "Proud"],
+        "answer": "Humble"
+      },
+      {
+        "id": 5,
+        "type": "synonym",
+        "question": "Choose the synonym of 'True':",
+        "options": ["Correct", "Wrong", "False", "Weak"],
+        "answer": "Correct"
+      }
+    ]
+  }
+]

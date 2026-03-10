@@ -1,0 +1,212 @@
+[
+  {
+    "quiz_id": 1,
+    "quiz_type": "military",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Infantry'?",
+        "options": ["Foot soldiers", "Airplane unit", "Naval ship", "Weapon system"],
+        "answer": "Foot soldiers"
+      },
+      {
+        "id": 2,
+        "type": "meaning",
+        "question": "What is the meaning of 'Armory'?",
+        "options": ["Weapons storage", "Training ground", "Headquarters", "Battle map"],
+        "answer": "Weapons storage"
+      },
+      {
+        "id": 3,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Reconnaissance':",
+        "options": ["Survey", "Attack", "Retreat", "Defense"],
+        "answer": "Survey"
+      },
+      {
+        "id": 4,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Offensive':",
+        "options": ["Defensive", "Attack", "Aggressive", "Assault"],
+        "answer": "Defensive"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Battalion", "Batalion", "Battallion", "Batalon"],
+        "answer": "Battalion"
+      }
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "quiz_type": "military",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Cavalry'?",
+        "options": ["Mounted soldiers", "Infantry", "Engineers", "Naval unit"],
+        "answer": "Mounted soldiers"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Fortification':",
+        "options": ["Stronghold", "Retreat", "Strategy", "Ambush"],
+        "answer": "Stronghold"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Victory':",
+        "options": ["Defeat", "Success", "Win", "Triumph"],
+        "answer": "Defeat"
+      },
+      {
+        "id": 4,
+        "type": "meaning",
+        "question": "What is the meaning of 'Enlist'?",
+        "options": ["Join the army", "Attack enemy", "Retreat", "Spy mission"],
+        "answer": "Join the army"
+      },
+      {
+        "id": 5,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Artillery", "Artilery", "Artilllery", "Artilary"],
+        "answer": "Artillery"
+      }
+    ]
+  },
+  {
+    "quiz_id": 3,
+    "quiz_type": "military",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "meaning",
+        "question": "What is the meaning of 'Garrison'?",
+        "options": ["Troops stationed at a base", "Weapons depot", "Attack plan", "Communication unit"],
+        "answer": "Troops stationed at a base"
+      },
+      {
+        "id": 2,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Tactics':",
+        "options": ["Strategy", "Retreat", "Weapon", "Rank"],
+        "answer": "Strategy"
+      },
+      {
+        "id": 3,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Aggressive':",
+        "options": ["Passive", "Offensive", "Attack", "Charge"],
+        "answer": "Passive"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Reconnaissance", "Riconaissance", "Reconaisance", "Reconaissance"],
+        "answer": "Reconnaissance"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Barracks'?",
+        "options": ["Soldiers' housing", "Command post", "Weapons storage", "Training field"],
+        "answer": "Soldiers' housing"
+      }
+    ]
+  },
+  {
+    "quiz_id": 4,
+    "quiz_type": "military",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Siege':",
+        "options": ["Blockade", "Retreat", "Attack", "Scout"],
+        "answer": "Blockade"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Advance':",
+        "options": ["Retreat", "Charge", "Move forward", "Attack"],
+        "answer": "Retreat"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Armistice'?",
+        "options": ["Temporary peace agreement", "Attack plan", "Weapon supply", "Spy mission"],
+        "answer": "Temporary peace agreement"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Battleground", "Batleground", "Battelground", "Batelground"],
+        "answer": "Battleground"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Deployment'?",
+        "options": ["Positioning troops for action", "Planning retreat", "Building fort", "Training soldiers"],
+        "answer": "Positioning troops for action"
+      }
+    ]
+  },
+  {
+    "quiz_id": 5,
+    "quiz_type": "military",
+    "time_limit": 10,
+    "questions": [
+      {
+        "id": 1,
+        "type": "synonym",
+        "question": "Choose the synonym of 'Commander':",
+        "options": ["Leader", "Soldier", "Recruit", "Scout"],
+        "answer": "Leader"
+      },
+      {
+        "id": 2,
+        "type": "antonym",
+        "question": "Choose the antonym of 'Victory':",
+        "options": ["Defeat", "Triumph", "Success", "Win"],
+        "answer": "Defeat"
+      },
+      {
+        "id": 3,
+        "type": "meaning",
+        "question": "What is the meaning of 'Recon':",
+        "options": ["Scouting enemy", "Attack mission", "Training drill", "Supply run"],
+        "answer": "Scouting enemy"
+      },
+      {
+        "id": 4,
+        "type": "spelling",
+        "question": "Choose the correct spelling:",
+        "options": ["Missle", "Missile", "Mislle", "Missil"],
+        "answer": "Missile"
+      },
+      {
+        "id": 5,
+        "type": "meaning",
+        "question": "What is the meaning of 'Platoon'?",
+        "options": ["Unit of soldiers", "Weapon type", "Training exercise", "Defense line"],
+        "answer": "Unit of soldiers"
+      }
+    ]
+  }
+]
