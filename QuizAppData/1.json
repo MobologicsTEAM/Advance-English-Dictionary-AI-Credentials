@@ -1,1 +1,162 @@
-
+[
+  {
+    "level": 1,
+    "category": "Nature",
+    "question": "Which animal is often called the 'King of the Jungle'?",
+    "options": ["Tiger", "Lion", "Elephant", "Leopard"],
+    "correctAnswer": 1,
+    "hint": "The lion is commonly known as the 'King of the Jungle' because of its strength, leadership, and majestic appearance."
+  },
+  {
+    "level": 2,
+    "category": "Nature",
+    "question": "What do bees produce?",
+    "options": ["Milk", "Silk", "Honey", "Wool"],
+    "correctAnswer": 2,
+    "hint": "Bees collect nectar from flowers and turn it into honey."
+  },
+  {
+    "level": 3,
+    "category": "Movies & TV",
+    "question": "Which company created Mickey Mouse?",
+    "options": ["Pixar", "Disney", "DreamWorks", "Warner Bros"],
+    "correctAnswer": 1,
+    "hint": "Mickey Mouse was introduced by Walt Disney."
+  },
+  {
+    "level": 4,
+    "category": "Movies & TV",
+    "question": "What is the name of the school attended by Harry Potter?",
+    "options": ["Avalon Academy", "Rivendell School", "Hogwarts", "Westwood Academy"],
+    "correctAnswer": 2,
+    "hint": "Hogwarts School of Witchcraft and Wizardry is the magical school in Harry Potter."
+  },
+  {
+    "level": 5,
+    "category": "Society",
+    "question": "Which traffic light color means 'Stop'?",
+    "options": ["Green", "Yellow", "Red", "Blue"],
+    "correctAnswer": 2,
+    "hint": "Red traffic lights signal drivers and pedestrians to stop."
+  },
+  {
+    "level": 6,
+    "category": "Society",
+    "question": "Which document is commonly required for international travel?",
+    "options": ["Library Card", "Passport", "Membership Card", "Gift Voucher"],
+    "correctAnswer": 1,
+    "hint": "A passport verifies your identity and nationality when traveling between countries."
+  },
+  {
+    "level": 7,
+    "category": "History",
+    "question": "Which ancient civilization built the famous pyramids?",
+    "options": ["Romans", "Vikings", "Egyptians", "Persians"],
+    "correctAnswer": 2,
+    "hint": "The Great Pyramids of Giza were built by ancient Egyptians."
+  },
+  {
+    "level": 8,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "correctAnswer": 1,
+    "hint": "George Washington served as the first President from 1789 to 1797."
+  },
+  {
+    "level": 9,
+    "category": "Sports",
+    "question": "How many players from one team are on the field during a soccer match?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": 2,
+    "hint": "Each soccer team has 11 players on the field."
+  },
+  {
+    "level": 10,
+    "category": "Sports",
+    "question": "Which sport is played using a racket?",
+    "options": ["Basketball", "Tennis", "Rugby", "Cricket"],
+    "correctAnswer": 1,
+    "hint": "Players use rackets to hit a ball across the net in tennis."
+  },
+  {
+    "level": 11,
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": 3,
+    "hint": "The Pacific Ocean is the largest ocean on Earth."
+  },
+  {
+    "level": 12,
+    "category": "Geography",
+    "question": "On which continent is Egypt located?",
+    "options": ["Europe", "Asia", "Africa", "South America"],
+    "correctAnswer": 2,
+    "hint": "Most of Egypt lies in northeastern Africa."
+  },
+  {
+    "level": 13,
+    "category": "Science",
+    "question": "At what temperature does water freeze?",
+    "options": ["10°C", "0°C", "20°C", "100°C"],
+    "correctAnswer": 1,
+    "hint": "Pure water freezes at 0 degrees Celsius."
+  },
+  {
+    "level": 14,
+    "category": "Science",
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctAnswer": 1,
+    "hint": "Mercury is the nearest planet to the Sun."
+  },
+  {
+    "level": 15,
+    "category": "Culture",
+    "question": "Which country is most famous for sushi?",
+    "options": ["China", "Japan", "India", "Brazil"],
+    "correctAnswer": 1,
+    "hint": "Sushi originated in Japan."
+  },
+  {
+    "level": 16,
+    "category": "Culture",
+    "question": "Flamenco is a traditional dance from which country?",
+    "options": ["Italy", "Spain", "Greece", "Mexico"],
+    "correctAnswer": 1,
+    "hint": "Flamenco originated in southern Spain."
+  },
+  {
+    "level": 17,
+    "category": "Nature",
+    "question": "Which bird cannot fly?",
+    "options": ["Eagle", "Penguin", "Hawk", "Sparrow"],
+    "correctAnswer": 1,
+    "hint": "Penguins use their wings for swimming rather than flying."
+  },
+  {
+    "level": 18,
+    "category": "Geography",
+    "question": "What is the capital city of France?",
+    "options": ["Rome", "Berlin", "Madrid", "Paris"],
+    "correctAnswer": 3,
+    "hint": "Paris is the capital and largest city of France."
+  },
+  {
+    "level": 19,
+    "category": "Science",
+    "question": "Which gas do humans need to breathe to survive?",
+    "options": ["Nitrogen", "Helium", "Oxygen", "Hydrogen"],
+    "correctAnswer": 2,
+    "hint": "Humans use oxygen during respiration."
+  },
+  {
+    "level": 20,
+    "category": "Sports",
+    "question": "Wimbledon is a famous tournament in which sport?",
+    "options": ["Golf", "Tennis", "Football", "Boxing"],
+    "correctAnswer": 1,
+    "hint": "Wimbledon is one of the most prestigious tennis tournaments."
+  }
+]
