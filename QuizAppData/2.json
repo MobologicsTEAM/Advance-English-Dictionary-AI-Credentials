@@ -1,0 +1,167 @@
+{
+  "level": 2,
+  "title": "Intermediate Explorer",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Tiger", "Leopard"],
+      "correctAnswer": 1,
+      "hint": "The cheetah can reach speeds of up to 100–120 km/h in short bursts."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctAnswer": 2,
+      "hint": "Plants use carbon dioxide and sunlight to produce food and release oxygen."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Who is the creator of the Marvel Cinematic Universe concept?",
+      "options": ["Steven Spielberg", "Kevin Feige", "James Cameron", "George Lucas"],
+      "correctAnswer": 1,
+      "hint": "Kevin Feige is the president of Marvel Studios and the main architect behind the MCU."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In which movie series does the character 'Frodo Baggins' appear?",
+      "options": ["Harry Potter", "The Chronicles of Narnia", "The Lord of the Rings", "The Hobbit only"],
+      "correctAnswer": 2,
+      "hint": "Frodo Baggins is the main ring-bearer in The Lord of the Rings trilogy."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "What does a yellow traffic light usually indicate?",
+      "options": ["Go faster", "Stop immediately", "Prepare to stop or proceed with caution", "No entry"],
+      "correctAnswer": 2,
+      "hint": "Yellow signals warn drivers that the light is about to change to red."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which organization issues passports in most countries?",
+      "options": ["United Nations", "Local Police Station", "Government Immigration Authority", "World Bank"],
+      "correctAnswer": 2,
+      "hint": "Passports are issued by official government agencies responsible for citizenship and travel documents."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "The Great Wall of China was primarily built to protect against which group?",
+      "options": ["Romans", "Mongols", "Greeks", "Persians"],
+      "correctAnswer": 1,
+      "hint": "The wall was built to defend Chinese states from invasions, especially from Mongol tribes."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Ottoman Empire", "Roman Republic/Empire", "British Empire", "Byzantine Empire"],
+      "correctAnswer": 1,
+      "hint": "Julius Caesar played a key role in the transformation of the Roman Republic."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "In cricket, how many runs are scored when the ball crosses the boundary without touching the ground?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 2,
+      "hint": "A ball hit over the boundary on the full scores six runs."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": ["Brazil", "Germany", "France", "Argentina"],
+      "correctAnswer": 2,
+      "hint": "France defeated Croatia in the 2018 World Cup final."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Kalahari Desert"],
+      "correctAnswer": 1,
+      "hint": "The Sahara is the largest hot desert on Earth."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which river is the longest in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "correctAnswer": 1,
+      "hint": "The Nile River is traditionally considered the longest river in the world."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Gd", "Go"],
+      "correctAnswer": 1,
+      "hint": "Gold’s symbol comes from its Latin name 'Aurum'."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "How many bones are in the adult human body?",
+      "options": ["196", "206", "216", "226"],
+      "correctAnswer": 1,
+      "hint": "An adult human skeleton consists of 206 bones."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is known for the tradition of Oktoberfest?",
+      "options": ["Austria", "Germany", "Switzerland", "Belgium"],
+      "correctAnswer": 1,
+      "hint": "Oktoberfest is a world-famous festival held in Munich, Germany."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which musical instrument has black and white keys?",
+      "options": ["Guitar", "Violin", "Piano", "Flute"],
+      "correctAnswer": 2,
+      "hint": "The piano uses keys to produce different musical notes."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "What is the main source of energy for Earth's climate system?",
+      "options": ["Moon", "Sun", "Wind", "Oceans"],
+      "correctAnswer": 1,
+      "hint": "The Sun provides heat and energy that drives weather and climate."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which continent has the most countries?",
+      "options": ["Asia", "Europe", "Africa", "South America"],
+      "correctAnswer": 2,
+      "hint": "Africa has the highest number of countries of any continent."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "What is the center of an atom called?",
+      "options": ["Electron", "Proton", "Nucleus", "Neutron cloud"],
+      "correctAnswer": 2,
+      "hint": "The nucleus contains protons and neutrons at the center of an atom."
+    },
+    {
+      "id": 20,
+      "category": "Movies & TV",
+      "question": "Which animated movie features the character Simba?",
+      "options": ["Frozen", "The Lion King", "Moana", "Aladdin"],
+      "correctAnswer": 1,
+      "hint": "Simba is the main character in Disney's The Lion King."
+    }
+  ]
+}
