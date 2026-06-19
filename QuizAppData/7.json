@@ -1,0 +1,167 @@
+{
+  "level": 7,
+  "title": "World Master",
+  "difficulty": "Hard+",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which mammal lays eggs instead of giving birth to live young?",
+      "options": ["Dolphin", "Platypus", "Seal", "Kangaroo"],
+      "correctAnswer": 1,
+      "hint": "The platypus is one of the few mammals that lay eggs and is native to Australia."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which tree is famous for storing large amounts of water in its trunk?",
+      "options": ["Oak", "Baobab", "Pine", "Birch"],
+      "correctAnswer": 1,
+      "hint": "Baobab trees can store thousands of liters of water, helping them survive long dry seasons."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which wizard is Harry Potter's headmaster?",
+      "options": ["Severus Snape", "Albus Dumbledore", "Sirius Black", "Remus Lupin"],
+      "correctAnswer": 1,
+      "hint": "Professor Albus Dumbledore is the wise headmaster of Hogwarts."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which Pixar movie follows an elderly man who travels with his house attached to balloons?",
+      "options": ["Soul", "Up", "Coco", "Luca"],
+      "correctAnswer": 1,
+      "hint": "Carl Fredricksen fulfills his dream of adventure by flying his house using balloons."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "What does 'WWW' stand for on the internet?",
+      "options": ["World Wide Web", "World Web Window", "Wide World Web", "Web World Wide"],
+      "correctAnswer": 0,
+      "hint": "The World Wide Web is the system of web pages accessed through the internet."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which document officially records a person's birth?",
+      "options": ["Passport", "Birth Certificate", "Driver's License", "Visa"],
+      "correctAnswer": 1,
+      "hint": "A birth certificate is an official government record of a person's birth."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which ancient wonder was located in Alexandria, Egypt?",
+      "options": ["Hanging Gardens", "Lighthouse of Alexandria", "Colossus of Rhodes", "Temple of Artemis"],
+      "correctAnswer": 1,
+      "hint": "The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Who painted the famous artwork 'Mona Lisa'?",
+      "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
+      "correctAnswer": 1,
+      "hint": "Leonardo da Vinci painted the Mona Lisa during the Renaissance."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "In which sport is the Ryder Cup contested?",
+      "options": ["Cricket", "Golf", "Tennis", "Rugby"],
+      "correctAnswer": 1,
+      "hint": "The Ryder Cup is a famous golf competition between Europe and the United States."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "How many rings are displayed on the Olympic flag?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "correctAnswer": 1,
+      "hint": "The five rings represent the participation of athletes from the world's continents."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which is the deepest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+      "correctAnswer": 1,
+      "hint": "The Mariana Trench, the deepest point on Earth, is located in the Pacific Ocean."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which capital city sits on the River Seine?",
+      "options": ["Brussels", "Paris", "Vienna", "Madrid"],
+      "correctAnswer": 1,
+      "hint": "The River Seine flows through the heart of Paris."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which planet is the largest in our Solar System?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "correctAnswer": 1,
+      "hint": "Jupiter is more than twice as massive as all the other planets combined."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "What is the smallest unit of ordinary matter?",
+      "options": ["Cell", "Atom", "Molecule", "Electron"],
+      "correctAnswer": 1,
+      "hint": "Atoms are the basic building blocks of matter."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the traditional dance called the Hula?",
+      "options": ["Mexico", "United States (Hawaii)", "Fiji", "Samoa"],
+      "correctAnswer": 1,
+      "hint": "The Hula is a traditional Hawaiian dance that tells stories through movement."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country is famous for making Swiss watches?",
+      "options": ["Austria", "Switzerland", "Germany", "Belgium"],
+      "correctAnswer": 1,
+      "hint": "Switzerland is renowned worldwide for precision watchmaking."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which is the tallest waterfall in the world?",
+      "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+      "correctAnswer": 2,
+      "hint": "Angel Falls in Venezuela drops nearly 1,000 meters (3,212 feet)."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the city of Cape Town?",
+      "options": ["Kenya", "South Africa", "Namibia", "Botswana"],
+      "correctAnswer": 1,
+      "hint": "Cape Town is one of South Africa's three capital cities."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which gas makes up most of the Sun?",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+      "correctAnswer": 1,
+      "hint": "The Sun is composed primarily of hydrogen, which fuses into helium to produce energy."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which wall came down in 1989, symbolizing the end of the Cold War?",
+      "options": ["Hadrian's Wall", "Berlin Wall", "Great Wall of China", "Wailing Wall"],
+      "correctAnswer": 1,
+      "hint": "The fall of the Berlin Wall marked a major turning point in European history and the end of the Cold War."
+    }
+  ]
+}
