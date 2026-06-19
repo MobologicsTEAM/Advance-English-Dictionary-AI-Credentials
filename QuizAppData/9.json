@@ -1,0 +1,167 @@
+{
+  "level": 9,
+  "title": "Quiz Legend",
+  "difficulty": "Expert+",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the fastest bird in the world during a dive?",
+      "options": ["Golden Eagle", "Peregrine Falcon", "Bald Eagle", "Hawk"],
+      "correctAnswer": 1,
+      "hint": "The Peregrine Falcon can exceed 320 km/h (200 mph) during its hunting dive, making it the fastest animal on Earth."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which desert is the largest cold desert in the world?",
+      "options": ["Gobi Desert", "Arctic Desert", "Antarctic Desert", "Sahara Desert"],
+      "correctAnswer": 2,
+      "hint": "Although many think of hot deserts, Antarctica is actually the world's largest desert because it receives very little precipitation."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which fictional kingdom is ruled by Queen Elsa?",
+      "options": ["Arendelle", "Narnia", "Avalon", "Genovia"],
+      "correctAnswer": 0,
+      "hint": "Arendelle is the kingdom featured in Disney's Frozen."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which actor played Neo in The Matrix?",
+      "options": ["Tom Cruise", "Keanu Reeves", "Matt Damon", "Brad Pitt"],
+      "correctAnswer": 1,
+      "hint": "Keanu Reeves became famous worldwide for portraying Neo in The Matrix series."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which invention is credited to Johannes Gutenberg?",
+      "options": ["Telephone", "Printing Press", "Radio", "Steam Engine"],
+      "correctAnswer": 1,
+      "hint": "The movable-type printing press revolutionized the spread of books and knowledge in Europe."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization works to protect children's rights worldwide?",
+      "options": ["UNESCO", "UNICEF", "NATO", "FIFA"],
+      "correctAnswer": 1,
+      "hint": "UNICEF focuses on improving children's health, education, and welfare across the globe."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which ancient city was destroyed by the eruption of Mount Vesuvius?",
+      "options": ["Troy", "Pompeii", "Babylon", "Carthage"],
+      "correctAnswer": 1,
+      "hint": "Pompeii was buried under volcanic ash in AD 79, preserving much of the ancient city."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which civilization built the city of Machu Picchu?",
+      "options": ["Maya", "Aztec", "Inca", "Olmec"],
+      "correctAnswer": 2,
+      "hint": "The Incas built Machu Picchu high in the Andes Mountains of Peru."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country originated the sport of badminton?",
+      "options": ["China", "India", "Japan", "England"],
+      "correctAnswer": 1,
+      "hint": "The modern game developed from 'Poona,' a game played in British India before being standardized in England."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "How many players are on a volleyball team on the court at one time?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "hint": "Each volleyball team has six players on the court during play."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country is home to the city of Istanbul?",
+      "options": ["Greece", "Turkey", "Bulgaria", "Romania"],
+      "correctAnswer": 1,
+      "hint": "Istanbul is Turkey's largest city and uniquely spans both Europe and Asia."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which is the world's largest island?",
+      "options": ["Madagascar", "Greenland", "New Guinea", "Borneo"],
+      "correctAnswer": 1,
+      "hint": "Australia is classified as a continent, making Greenland the world's largest island."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist proposed the three laws of motion?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+      "correctAnswer": 1,
+      "hint": "Newton's laws of motion became the foundation of classical physics."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which gas do plants release during photosynthesis?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+      "correctAnswer": 1,
+      "hint": "Plants absorb carbon dioxide and release oxygen as a by-product of photosynthesis."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the traditional musical instrument called the didgeridoo?",
+      "options": ["Australia", "Canada", "New Zealand", "Ireland"],
+      "correctAnswer": 0,
+      "hint": "The didgeridoo is a traditional wind instrument developed by Aboriginal Australians."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country celebrates the Day of the Dead (Día de los Muertos)?",
+      "options": ["Spain", "Mexico", "Brazil", "Peru"],
+      "correctAnswer": 1,
+      "hint": "The Day of the Dead honors loved ones who have passed away through colorful traditions and celebrations."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which ocean animal is the largest living creature on Earth?",
+      "options": ["Giant Squid", "Blue Whale", "Whale Shark", "Orca"],
+      "correctAnswer": 1,
+      "hint": "Blue whales can grow over 30 meters (98 feet) long and weigh more than 170 tons."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which European country has the shape of a boot?",
+      "options": ["Greece", "Italy", "Spain", "Portugal"],
+      "correctAnswer": 1,
+      "hint": "Italy is well known for its distinctive boot-shaped peninsula."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which planet rotates on its side compared to most other planets?",
+      "options": ["Neptune", "Uranus", "Saturn", "Venus"],
+      "correctAnswer": 1,
+      "hint": "Uranus rotates at an angle of about 98 degrees, making it appear to roll around the Sun."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which explorer first reached India by sailing around Africa?",
+      "options": ["Christopher Columbus", "Ferdinand Magellan", "Vasco da Gama", "James Cook"],
+      "correctAnswer": 2,
+      "hint": "Vasco da Gama's voyage opened a direct sea route between Europe and India in 1498."
+    }
+  ]
+}
