@@ -1,0 +1,167 @@
+{
+  "level": 10,
+  "title": "Ultimate Champion 🏆",
+  "difficulty": "Extreme / Final Boss",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the deepest known point in the Earth's oceans?",
+      "options": ["Puerto Rico Trench", "Mariana Trench Challenger Deep", "Java Trench", "Tonga Trench"],
+      "correctAnswer": 1,
+      "hint": "Challenger Deep in the Mariana Trench reaches about 11,000 meters below sea level, making it the deepest known point on Earth."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which tree is known as the 'Tree of Life' in arid regions due to its survival ability?",
+      "options": ["Oak Tree", "Baobab Tree", "Pine Tree", "Maple Tree"],
+      "correctAnswer": 1,
+      "hint": "The Baobab can store thousands of liters of water, helping it survive extreme drought conditions."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "In 'Breaking Bad,' what is Walter White's alias in the drug world?",
+      "options": ["Jesse Pinkman", "Gustavo", "Heisenberg", "Salamanca"],
+      "correctAnswer": 2,
+      "hint": "Walter White adopts the alias 'Heisenberg' as his criminal identity in the series Breaking Bad."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which series features the fictional continent 'Westeros'?",
+      "options": ["The Witcher", "Game of Thrones", "Vikings", "The Last Kingdom"],
+      "correctAnswer": 1,
+      "hint": "Westeros is one of the main continents in the world created by George R. R. Martin."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "What is the term for a system where citizens vote to elect their leaders?",
+      "options": ["Monarchy", "Democracy", "Dictatorship", "Aristocracy"],
+      "correctAnswer": 1,
+      "hint": "In a democracy, power is held by the people through voting and representation."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which document is considered the foundation of modern human rights law?",
+      "options": ["Magna Carta", "Universal Declaration of Human Rights", "Treaty of Versailles", "Geneva Protocol"],
+      "correctAnswer": 1,
+      "hint": "Adopted in 1948 by the United Nations, it outlines fundamental human rights for all people."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": ["Ottoman Empire", "Mongol Empire", "Roman Empire", "Persian Empire"],
+      "correctAnswer": 1,
+      "hint": "Genghis Khan founded the Mongol Empire, one of the largest empires in history."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which war lasted from 1914 to 1918?",
+      "options": ["World War I", "World War II", "Crimean War", "Cold War"],
+      "correctAnswer": 0,
+      "hint": "World War I was a global conflict triggered by tensions between major European powers."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": ["Germany", "Argentina", "Brazil", "Italy"],
+      "correctAnswer": 2,
+      "hint": "Brazil has won the FIFA World Cup 5 times, more than any other nation."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In tennis, what is the term for a score of 40–40?",
+      "options": ["Break point", "Deuce", "Advantage", "Set point"],
+      "correctAnswer": 1,
+      "hint": "Deuce occurs when both players have 40 points, requiring a two-point lead to win."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which river is the longest in the world (commonly accepted)?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "correctAnswer": 1,
+      "hint": "The Nile stretches over 6,600 km and is widely recognized as the longest river."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which country has the most natural lakes?",
+      "options": ["Russia", "Canada", "USA", "Finland"],
+      "correctAnswer": 1,
+      "hint": "Canada has more lakes than the rest of the world combined."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "What particle gives atoms their identity?",
+      "options": ["Neutron", "Electron", "Proton", "Photon"],
+      "correctAnswer": 2,
+      "hint": "The number of protons determines the atomic number and element type."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "What is the speed of light in vacuum approximately?",
+      "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "3,000 km/s"],
+      "correctAnswer": 0,
+      "hint": "Light travels at about 299,792 km/s in a vacuum, commonly rounded to 300,000 km/s."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the martial art 'Karate'?",
+      "options": ["China", "Thailand", "Japan", "Korea"],
+      "correctAnswer": 2,
+      "hint": "Karate originated in Okinawa, Japan, and became globally popular."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which festival marks the end of Ramadan?",
+      "options": ["Eid-ul-Adha", "Eid-ul-Fitr", "Muharram", "Shab-e-Barat"],
+      "correctAnswer": 1,
+      "hint": "Eid-ul-Fitr is celebrated after completing the month of fasting (Ramadan)."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which gas makes up most of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": 2,
+      "hint": "About 78% of Earth's atmosphere is nitrogen gas."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which is the smallest independent country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctAnswer": 1,
+      "hint": "Vatican City covers only about 0.49 km² and is the spiritual center of the Catholic Church."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "What is the main gas responsible for global warming?",
+      "options": ["Oxygen", "Methane", "Carbon Dioxide", "Nitrogen"],
+      "correctAnswer": 2,
+      "hint": "CO₂ traps heat in the atmosphere and contributes significantly to climate change."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Who was the first person to walk on the Moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+      "correctAnswer": 1,
+      "hint": "Neil Armstrong stepped onto the Moon during Apollo 11 in 1969."
+    }
+  ]
+}
