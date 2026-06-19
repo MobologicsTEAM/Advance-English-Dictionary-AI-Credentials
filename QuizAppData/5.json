@@ -1,0 +1,167 @@
+{
+  "level": 5,
+  "title": "Expert Challenger",
+  "difficulty": "Medium-Hard",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the only mammal capable of true flight?",
+      "options": ["Flying Squirrel", "Bat", "Flying Fox", "Sugar Glider"],
+      "correctAnswer": 1,
+      "hint": "Bats are the only mammals capable of sustained, powered flight. Flying squirrels only glide."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "What is the largest species of shark?",
+      "options": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+      "correctAnswer": 2,
+      "hint": "Despite being the largest fish in the world, whale sharks feed mainly on plankton."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which fictional metal is used to make Wolverine's claws?",
+      "options": ["Vibranium", "Adamantium", "Titanium", "Kryptonite"],
+      "correctAnswer": 1,
+      "hint": "Adamantium is the nearly indestructible metal bonded to Wolverine's skeleton."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In Finding Nemo, what kind of fish is Nemo?",
+      "options": ["Goldfish", "Clownfish", "Angelfish", "Butterflyfish"],
+      "correctAnswer": 1,
+      "hint": "Nemo is a clownfish living with his father, Marlin, on a coral reef."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which color of recycling bin is commonly used for paper in many countries?",
+      "options": ["Blue", "Red", "Black", "Orange"],
+      "correctAnswer": 0,
+      "hint": "Blue recycling bins are widely used for paper and cardboard, though colors may vary by country."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which organization delivers mail and parcels within a country?",
+      "options": ["Fire Department", "Postal Service", "Hospital", "Court"],
+      "correctAnswer": 1,
+      "hint": "Postal services collect, sort, and deliver letters and packages."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which wall divided East and West Berlin until 1989?",
+      "options": ["Great Wall", "Berlin Wall", "Hadrian's Wall", "Wall of China"],
+      "correctAnswer": 1,
+      "hint": "The Berlin Wall became a symbol of the Cold War before it fell in 1989."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which famous ship carried the Pilgrims to North America in 1620?",
+      "options": ["Santa Maria", "Mayflower", "Beagle", "Endeavour"],
+      "correctAnswer": 1,
+      "hint": "The Mayflower transported English Pilgrims to present-day Massachusetts."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country invented the modern sport of basketball?",
+      "options": ["Canada", "United States", "England", "Australia"],
+      "correctAnswer": 1,
+      "hint": "Basketball was invented in 1891 in Springfield, Massachusetts, by James Naismith."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "How many holes are played in a standard round of golf?",
+      "options": ["9", "12", "18", "24"],
+      "correctAnswer": 2,
+      "hint": "Most professional golf tournaments are played over 18-hole courses."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which is the smallest continent?",
+      "options": ["Europe", "Australia", "Antarctica", "South America"],
+      "correctAnswer": 1,
+      "hint": "Australia is the smallest continent by land area."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+      "options": ["Norway", "Finland", "Sweden", "Iceland"],
+      "correctAnswer": 1,
+      "hint": "Finland has around 188,000 lakes, earning it this famous nickname."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which organ is responsible for filtering blood in the human body?",
+      "options": ["Heart", "Kidneys", "Lungs", "Stomach"],
+      "correctAnswer": 1,
+      "hint": "The kidneys remove waste and excess water from the blood to produce urine."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which scientist developed the theory of gravity after observing a falling apple?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "correctAnswer": 1,
+      "hint": "According to legend, Newton was inspired by a falling apple to think about gravity."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the dance called Tango?",
+      "options": ["Spain", "Argentina", "Brazil", "Chile"],
+      "correctAnswer": 1,
+      "hint": "Tango originated in Buenos Aires, Argentina, in the late 19th century."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which holiday is celebrated on December 25 by many Christians?",
+      "options": ["Easter", "Halloween", "Christmas", "Thanksgiving"],
+      "correctAnswer": 2,
+      "hint": "Christmas celebrates the birth of Jesus Christ and is observed worldwide."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which animal is famous for carrying its baby in a pouch?",
+      "options": ["Panda", "Kangaroo", "Zebra", "Camel"],
+      "correctAnswer": 1,
+      "hint": "Female kangaroos carry their young, called joeys, in a pouch until they are developed."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which is the largest country in the world by land area?",
+      "options": ["Canada", "China", "Russia", "United States"],
+      "correctAnswer": 2,
+      "hint": "Russia spans Europe and Asia and covers more land than any other country."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which force keeps planets orbiting around the Sun?",
+      "options": ["Magnetism", "Gravity", "Friction", "Electricity"],
+      "correctAnswer": 1,
+      "hint": "Gravity is the force that attracts objects with mass and keeps planets in orbit."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which famous clock tower is located in London?",
+      "options": ["Eiffel Tower", "Big Ben", "Leaning Tower of Pisa", "Space Needle"],
+      "correctAnswer": 1,
+      "hint": "Big Ben is the nickname of the Great Bell inside the famous clock tower at the Palace of Westminster in London."
+    }
+  ]
+}
