@@ -1,0 +1,167 @@
+{
+  "level": 3,
+  "title": "Advanced Explorer",
+  "difficulty": "Medium+",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the tallest animal in the world?",
+      "options": ["Elephant", "Giraffe", "Camel", "Moose"],
+      "correctAnswer": 1,
+      "hint": "A giraffe can grow over 5.5 meters (18 feet) tall, making it the tallest living animal."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which part of a plant absorbs water from the soil?",
+      "options": ["Flower", "Stem", "Roots", "Leaves"],
+      "correctAnswer": 2,
+      "hint": "Roots anchor the plant and absorb water and nutrients from the soil."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which superhero is also known as the 'Caped Crusader'?",
+      "options": ["Superman", "Batman", "Spider-Man", "Iron Man"],
+      "correctAnswer": 1,
+      "hint": "Batman is often called the Caped Crusader because of his cape and dedication to fighting crime."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which movie features the snowman named Olaf?",
+      "options": ["Moana", "Frozen", "Brave", "Tangled"],
+      "correctAnswer": 1,
+      "hint": "Olaf is the cheerful snowman created by Elsa's magic in Frozen."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "What number should you dial for emergency services in many European countries?",
+      "options": ["911", "112", "999", "000"],
+      "correctAnswer": 1,
+      "hint": "112 is the standard emergency number used across most European countries."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which profession is mainly responsible for putting out fires?",
+      "options": ["Doctor", "Police Officer", "Firefighter", "Pilot"],
+      "correctAnswer": 2,
+      "hint": "Firefighters protect people and property by extinguishing fires and responding to emergencies."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which famous ship sank after hitting an iceberg in 1912?",
+      "options": ["Britannic", "Titanic", "Queen Mary", "Mayflower"],
+      "correctAnswer": 1,
+      "hint": "The RMS Titanic sank during its maiden voyage across the Atlantic Ocean."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which explorer is credited with reaching the Americas in 1492?",
+      "options": ["Marco Polo", "Christopher Columbus", "Ferdinand Magellan", "Vasco da Gama"],
+      "correctAnswer": 1,
+      "hint": "Christopher Columbus crossed the Atlantic Ocean in 1492 under the Spanish crown."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country hosted the 2022 FIFA World Cup?",
+      "options": ["Russia", "Brazil", "Qatar", "Germany"],
+      "correctAnswer": 2,
+      "hint": "Qatar became the first Middle Eastern country to host the FIFA World Cup."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In basketball, how many points is a free throw worth?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 0,
+      "hint": "Each successful free throw awards one point to the team."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which is the largest continent by land area?",
+      "options": ["Africa", "Europe", "Asia", "North America"],
+      "correctAnswer": 2,
+      "hint": "Asia covers about 30% of Earth's land area and is home to more than half of the world's population."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "correctAnswer": 2,
+      "hint": "Japan is called the Land of the Rising Sun because it lies east of mainland Asia."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which organ pumps blood throughout the human body?",
+      "options": ["Brain", "Heart", "Liver", "Kidney"],
+      "correctAnswer": 1,
+      "hint": "The heart pumps oxygen-rich blood to every part of the body through the circulatory system."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which vitamin is mainly produced by the body when skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correctAnswer": 2,
+      "hint": "Sunlight helps the skin produce Vitamin D, which is important for healthy bones."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the martial art of karate?",
+      "options": ["China", "Japan", "Thailand", "South Korea"],
+      "correctAnswer": 1,
+      "hint": "Karate originated in Okinawa, Japan, and is now practiced around the world."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which festival is known as the 'Festival of Lights' in India?",
+      "options": ["Holi", "Diwali", "Eid", "Vesak"],
+      "correctAnswer": 1,
+      "hint": "Diwali celebrates the victory of light over darkness and is one of India's biggest festivals."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which animal is the largest mammal on Earth?",
+      "options": ["African Elephant", "Blue Whale", "Hippopotamus", "Whale Shark"],
+      "correctAnswer": 1,
+      "hint": "The blue whale is the largest animal known to have ever lived on Earth."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the largest population in the world (as of recent years)?",
+      "options": ["China", "India", "United States", "Indonesia"],
+      "correctAnswer": 1,
+      "hint": "India recently became the world's most populous country, surpassing China."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "What is the chemical formula for water?",
+      "options": ["CO₂", "O₂", "H₂O", "H₂"],
+      "correctAnswer": 2,
+      "hint": "A water molecule contains two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which city is famous for the ancient Colosseum?",
+      "options": ["Athens", "Rome", "Cairo", "Istanbul"],
+      "correctAnswer": 1,
+      "hint": "The Colosseum in Rome is one of the greatest architectural achievements of the ancient Roman Empire."
+    }
+  ]
+}
