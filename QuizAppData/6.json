@@ -1,0 +1,167 @@
+{
+  "level": 6,
+  "title": "Master Explorer",
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which animal has the longest migration of any mammal?",
+      "options": ["Elephant", "Caribou", "Camel", "Zebra"],
+      "correctAnswer": 1,
+      "hint": "Some caribou herds migrate over 4,000 kilometers (2,500 miles) each year in search of food."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which rainforest is the largest in the world?",
+      "options": ["Congo Rainforest", "Amazon Rainforest", "Daintree Rainforest", "Sundarbans"],
+      "correctAnswer": 1,
+      "hint": "The Amazon Rainforest covers much of South America and is home to millions of plant and animal species."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which actor portrayed Jack Sparrow in the Pirates of the Caribbean films?",
+      "options": ["Orlando Bloom", "Johnny Depp", "Tom Cruise", "Brad Pitt"],
+      "correctAnswer": 1,
+      "hint": "Johnny Depp's performance as Captain Jack Sparrow became one of the most iconic movie roles of the 2000s."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which fictional city is protected by Batman?",
+      "options": ["Metropolis", "Gotham City", "Star City", "Central City"],
+      "correctAnswer": 1,
+      "hint": "Batman protects Gotham City from criminals like the Joker, Penguin, and Riddler."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which invention made long-distance communication possible before telephones?",
+      "options": ["Telegraph", "Radio", "Television", "Computer"],
+      "correctAnswer": 0,
+      "hint": "The telegraph transmitted messages using electrical signals and Morse code."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which branch of government is mainly responsible for creating laws in many democracies?",
+      "options": ["Executive", "Judicial", "Legislative", "Military"],
+      "correctAnswer": 2,
+      "hint": "The legislative branch debates and passes laws for a country."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization is credited with inventing paper?",
+      "options": ["Egyptians", "Chinese", "Romans", "Greeks"],
+      "correctAnswer": 1,
+      "hint": "Paper was invented in ancient China around the 2nd century AD and transformed education and communication."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which famous explorer completed the first successful voyage around the world?",
+      "options": ["Christopher Columbus", "Ferdinand Magellan's expedition", "Vasco da Gama", "James Cook"],
+      "correctAnswer": 1,
+      "hint": "Although Magellan died during the journey, his expedition completed the first circumnavigation of Earth."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "In which sport would you perform a slam dunk?",
+      "options": ["Volleyball", "Basketball", "Handball", "Rugby"],
+      "correctAnswer": 1,
+      "hint": "A slam dunk is one of basketball's most exciting scoring plays."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which country hosts the famous Tour de France cycling race?",
+      "options": ["Italy", "France", "Spain", "Belgium"],
+      "correctAnswer": 1,
+      "hint": "The Tour de France is one of the world's most prestigious cycling competitions."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which is the longest mountain range in the world?",
+      "options": ["Rockies", "Himalayas", "Andes", "Alps"],
+      "correctAnswer": 2,
+      "hint": "The Andes stretch over 7,000 kilometers along the western coast of South America."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which country has the largest number of time zones?",
+      "options": ["Russia", "France", "Canada", "Australia"],
+      "correctAnswer": 1,
+      "hint": "Including its overseas territories, France officially spans 12 time zones."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which is the hardest natural substance found on Earth?",
+      "options": ["Quartz", "Iron", "Diamond", "Granite"],
+      "correctAnswer": 2,
+      "hint": "Diamonds are made of carbon atoms arranged in an extremely strong crystal structure."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A+", "AB+", "O-", "B+"],
+      "correctAnswer": 2,
+      "hint": "O-negative blood can usually be given to patients of any blood type during emergencies."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is the birthplace of the Olympic Games?",
+      "options": ["Italy", "Greece", "Egypt", "Turkey"],
+      "correctAnswer": 1,
+      "hint": "The ancient Olympic Games began in Olympia, Greece, over 2,700 years ago."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which language has the largest number of native speakers worldwide?",
+      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+      "correctAnswer": 2,
+      "hint": "Mandarin Chinese has more native speakers than any other language."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which ocean animal has eight arms?",
+      "options": ["Squid", "Octopus", "Starfish", "Jellyfish"],
+      "correctAnswer": 1,
+      "hint": "An octopus has eight flexible arms equipped with powerful suction cups."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country is home to the city of Rio de Janeiro?",
+      "options": ["Argentina", "Brazil", "Chile", "Peru"],
+      "correctAnswer": 1,
+      "hint": "Rio de Janeiro is one of Brazil's most famous cities, known for Christ the Redeemer and Carnival."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist developed the theory of relativity?",
+      "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+      "correctAnswer": 2,
+      "hint": "Albert Einstein's theory of relativity changed our understanding of space, time, and gravity."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which famous monument in Paris was completed in 1889?",
+      "options": ["Arc de Triomphe", "Eiffel Tower", "Louvre Pyramid", "Notre-Dame Cathedral"],
+      "correctAnswer": 1,
+      "hint": "The Eiffel Tower was built for the 1889 World's Fair and has become a symbol of France."
+    }
+  ]
+}
