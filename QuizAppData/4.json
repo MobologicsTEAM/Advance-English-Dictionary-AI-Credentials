@@ -1,0 +1,167 @@
+{
+  "level": 4,
+  "title": "Knowledge Adventurer",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which animal is known for changing its skin color to blend into its surroundings?",
+      "options": ["Gecko", "Chameleon", "Iguana", "Salamander"],
+      "correctAnswer": 1,
+      "hint": "Chameleons change their color for camouflage, communication, and temperature regulation."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which tree is famous for producing acorns?",
+      "options": ["Pine", "Oak", "Maple", "Palm"],
+      "correctAnswer": 1,
+      "hint": "Oak trees produce acorns, which are an important food source for many animals."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which toy cowboy is the main character in Toy Story?",
+      "options": ["Buzz Lightyear", "Woody", "Jessie", "Rex"],
+      "correctAnswer": 1,
+      "hint": "Woody is Andy's favorite cowboy toy and the main character throughout the Toy Story series."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which superhero carries a shield made of Vibranium?",
+      "options": ["Iron Man", "Thor", "Captain America", "Hulk"],
+      "correctAnswer": 2,
+      "hint": "Captain America's shield is one of the strongest defensive weapons in the Marvel Universe."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which side of the road do people drive on in the United Kingdom?",
+      "options": ["Right", "Left", "Middle", "Either side"],
+      "correctAnswer": 1,
+      "hint": "The UK follows left-hand traffic, unlike most countries."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which emergency service provides medical assistance?",
+      "options": ["Fire Department", "Police", "Ambulance", "Coast Guard"],
+      "correctAnswer": 2,
+      "hint": "Ambulance services transport injured or sick people to hospitals and provide emergency medical care."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which city was buried after the eruption of Mount Vesuvius in AD 79?",
+      "options": ["Athens", "Pompeii", "Sparta", "Venice"],
+      "correctAnswer": 1,
+      "hint": "Pompeii was preserved under volcanic ash, giving historians valuable insights into Roman life."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which famous queen ruled ancient Egypt?",
+      "options": ["Elizabeth I", "Victoria", "Cleopatra", "Catherine"],
+      "correctAnswer": 2,
+      "hint": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which sport is played on ice using sticks and a puck?",
+      "options": ["Field Hockey", "Ice Hockey", "Curling", "Lacrosse"],
+      "correctAnswer": 1,
+      "hint": "Ice hockey is played on an ice rink where players try to score goals using a puck."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In which sport is the term 'birdie' commonly used?",
+      "options": ["Tennis", "Golf", "Baseball", "Volleyball"],
+      "correctAnswer": 1,
+      "hint": "A birdie means completing a golf hole one stroke under par."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": ["New Zealand", "Australia", "Indonesia", "Fiji"],
+      "correctAnswer": 1,
+      "hint": "The Great Barrier Reef is the world's largest coral reef system and lies off Australia's northeast coast."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which mountain range contains Mount Everest?",
+      "options": ["Alps", "Andes", "Himalayas", "Rockies"],
+      "correctAnswer": 2,
+      "hint": "Mount Everest, the world's highest mountain, is part of the Himalayan mountain range."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctAnswer": 1,
+      "hint": "About 78% of Earth's atmosphere is made up of nitrogen."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which planet is famous for its beautiful rings?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctAnswer": 1,
+      "hint": "Saturn's rings are made mostly of ice and rock particles and are visible even through small telescopes."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the traditional dish paella?",
+      "options": ["Portugal", "Spain", "Italy", "France"],
+      "correctAnswer": 1,
+      "hint": "Paella is a rice dish that originated in the Valencia region of Spain."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which instrument is commonly associated with Scotland?",
+      "options": ["Harp", "Bagpipes", "Banjo", "Accordion"],
+      "correctAnswer": 1,
+      "hint": "Bagpipes are one of Scotland's most recognizable traditional musical instruments."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which bird is the largest living bird on Earth?",
+      "options": ["Eagle", "Ostrich", "Penguin", "Swan"],
+      "correctAnswer": 1,
+      "hint": "The ostrich is the world's largest bird and cannot fly, but it can run very fast."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the most islands in the world?",
+      "options": ["Indonesia", "Canada", "Sweden", "Philippines"],
+      "correctAnswer": 2,
+      "hint": "Sweden has over 260,000 islands, more than any other country."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which blood cells help fight infections?",
+      "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+      "correctAnswer": 1,
+      "hint": "White blood cells are a vital part of the immune system, helping the body fight bacteria and viruses."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which famous monument was originally built as a tomb for an emperor's wife?",
+      "options": ["Eiffel Tower", "Taj Mahal", "Big Ben", "Colosseum"],
+      "correctAnswer": 1,
+      "hint": "The Taj Mahal in India was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    }
+  ]
+}
