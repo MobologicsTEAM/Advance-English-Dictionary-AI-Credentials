@@ -1,0 +1,167 @@
+{
+  "level": 8,
+  "title": "Grand Master",
+  "difficulty": "Expert",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the largest species of penguin?",
+      "options": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Rockhopper Penguin"],
+      "correctAnswer": 1,
+      "hint": "Emperor penguins are the tallest and heaviest penguin species, living in Antarctica."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which flower is famous for turning toward the Sun?",
+      "options": ["Rose", "Tulip", "Sunflower", "Lily"],
+      "correctAnswer": 2,
+      "hint": "Young sunflowers follow the Sun across the sky in a movement called heliotropism."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which movie won the first Academy Award for Best Animated Feature?",
+      "options": ["Shrek", "Toy Story", "Finding Nemo", "Monsters, Inc."],
+      "correctAnswer": 0,
+      "hint": "Shrek won the inaugural Best Animated Feature Oscar in 2002."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "What is the name of Iron Man's artificial intelligence assistant in the early Marvel films?",
+      "options": ["Friday", "Vision", "J.A.R.V.I.S.", "Ultron"],
+      "correctAnswer": 2,
+      "hint": "J.A.R.V.I.S. assists Tony Stark with managing his suits, home, and technology."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which color is commonly used for pedestrian crossing signs in many countries?",
+      "options": ["Blue", "Purple", "Pink", "Brown"],
+      "correctAnswer": 0,
+      "hint": "Blue traffic signs often provide information or indicate pedestrian crossings, though designs vary by country."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "What does 'www' in a website address stand for?",
+      "options": ["Wide World Web", "World Wide Web", "Web World Wide", "World Web Window"],
+      "correctAnswer": 1,
+      "hint": "The World Wide Web is a system of interconnected webpages accessed over the Internet."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which famous document begins with the words 'We the People'?",
+      "options": ["Magna Carta", "U.S. Constitution", "Bill of Rights", "Declaration of Independence"],
+      "correctAnswer": 1,
+      "hint": "The U.S. Constitution opens with the famous phrase 'We the People.'"
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which civilization built Machu Picchu?",
+      "options": ["Maya", "Aztec", "Inca", "Roman"],
+      "correctAnswer": 2,
+      "hint": "Machu Picchu was built by the Inca civilization in the Andes Mountains of Peru."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country hosts the Wimbledon Championships?",
+      "options": ["France", "England", "Australia", "United States"],
+      "correctAnswer": 1,
+      "hint": "Wimbledon is held each year in London, England, and is the oldest tennis tournament."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In Formula 1, what is the black-and-white checkered flag used for?",
+      "options": ["Start the race", "Warn drivers", "Finish the race", "Stop the race"],
+      "correctAnswer": 2,
+      "hint": "The checkered flag signals that the race has ended."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the greatest number of neighboring countries?",
+      "options": ["Russia", "Brazil", "China", "India"],
+      "correctAnswer": 2,
+      "hint": "China shares land borders with 14 countries, tied for the highest in the world."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which sea separates Europe from Africa?",
+      "options": ["Black Sea", "Mediterranean Sea", "Red Sea", "Baltic Sea"],
+      "correctAnswer": 1,
+      "hint": "The Mediterranean Sea lies between southern Europe and northern Africa."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which particle has a negative electric charge?",
+      "options": ["Proton", "Neutron", "Electron", "Photon"],
+      "correctAnswer": 2,
+      "hint": "Electrons carry a negative charge and orbit the nucleus of an atom."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which planet takes the longest time to orbit the Sun?",
+      "options": ["Saturn", "Neptune", "Uranus", "Jupiter"],
+      "correctAnswer": 1,
+      "hint": "Neptune takes about 165 Earth years to complete one orbit around the Sun."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for the traditional dance called the Flamenco?",
+      "options": ["Portugal", "Spain", "Italy", "Greece"],
+      "correctAnswer": 1,
+      "hint": "Flamenco combines singing, guitar playing, and expressive dance, originating in southern Spain."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country is known for celebrating the Cherry Blossom Festival?",
+      "options": ["Japan", "Thailand", "China", "Vietnam"],
+      "correctAnswer": 0,
+      "hint": "Cherry blossom season, known as Sakura, is one of Japan's most celebrated annual events."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which animal can regenerate lost arms?",
+      "options": ["Dolphin", "Starfish", "Crab", "Lobster"],
+      "correctAnswer": 1,
+      "hint": "Many starfish can regrow lost arms, and some can even regenerate an entire body."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country is home to Mount Fuji?",
+      "options": ["South Korea", "Japan", "China", "Nepal"],
+      "correctAnswer": 1,
+      "hint": "Mount Fuji is Japan's highest mountain and an iconic national symbol."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist is known for discovering penicillin?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Gregor Mendel", "Michael Faraday"],
+      "correctAnswer": 1,
+      "hint": "Alexander Fleming discovered penicillin in 1928, leading to the first widely used antibiotic."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which famous ship carried Charles Darwin on his scientific voyage?",
+      "options": ["HMS Victory", "HMS Beagle", "HMS Endeavour", "Mayflower"],
+      "correctAnswer": 1,
+      "hint": "Darwin's observations aboard HMS Beagle helped inspire his theory of evolution."
+    }
+  ]
+}
