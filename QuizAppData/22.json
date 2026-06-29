@@ -1,0 +1,167 @@
+{
+  "level": 22,
+  "title": "Guardian of Knowledge 🛡️📚",
+  "difficulty": "Mythic (Prestige VII – Guardian Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the largest coral reef system in the world?",
+      "options": ["Belize Barrier Reef", "Red Sea Coral Reef", "Great Barrier Reef", "New Caledonia Barrier Reef"],
+      "correctAnswer": 2,
+      "hint": "Stretching over 2,300 km (1,430 miles), Australia's Great Barrier Reef is the world's largest coral reef system and can be seen from space under suitable conditions."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which mammal has the fastest recorded swimming speed?",
+      "options": ["Blue Whale", "Orca", "Common Dolphin", "Sperm Whale"],
+      "correctAnswer": 2,
+      "hint": "The Common Dolphin can reach speeds of approximately 60 km/h (37 mph)."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film won the first Academy Award for Best Picture in 1929?",
+      "options": ["Wings", "Sunrise", "The Jazz Singer", "All Quiet on the Western Front"],
+      "correctAnswer": 0,
+      "hint": "Wings (1927) won the first Academy Award for Outstanding Picture at the inaugural ceremony."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In the Harry Potter series, what is the name of Harry Potter's owl?",
+      "options": ["Errol", "Pigwidgeon", "Hedwig", "Crookshanks"],
+      "correctAnswer": 2,
+      "hint": "Hedwig is Harry's loyal snowy owl and a memorable companion throughout much of the series."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization maintains the global Red List of Threatened Species?",
+      "options": ["WWF", "IUCN", "UNEP", "Greenpeace"],
+      "correctAnswer": 1,
+      "hint": "The International Union for Conservation of Nature (IUCN) assesses the conservation status of species worldwide."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization was established through the Bretton Woods Agreement alongside the World Bank?",
+      "options": ["WTO", "IMF", "OECD", "UNDP"],
+      "correctAnswer": 1,
+      "hint": "The International Monetary Fund (IMF) was created in 1944 to promote international monetary cooperation."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which ruler commissioned the Taj Mahal?",
+      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Humayun"],
+      "correctAnswer": 1,
+      "hint": "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which ancient wonder was located in the city of Alexandria?",
+      "options": ["Hanging Gardens", "Lighthouse of Alexandria", "Temple of Artemis", "Colossus of Rhodes"],
+      "correctAnswer": 1,
+      "hint": "Also known as the Pharos of Alexandria, it was one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country invented table tennis?",
+      "options": ["China", "England", "Japan", "Germany"],
+      "correctAnswer": 1,
+      "hint": "Table tennis originated in England in the late 19th century as an indoor version of lawn tennis."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which country has won the most Rugby World Cup titles (men's)?",
+      "options": ["Australia", "New Zealand", "England", "South Africa"],
+      "correctAnswer": 3,
+      "hint": "South Africa currently holds the record with four Rugby World Cup titles."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the largest number of natural lakes?",
+      "options": ["Russia", "Canada", "Finland", "Sweden"],
+      "correctAnswer": 1,
+      "hint": "Canada contains more lakes than the rest of the world's countries combined."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which mountain range forms the traditional boundary between Europe and Asia?",
+      "options": ["Alps", "Caucasus", "Ural Mountains", "Carpathians"],
+      "correctAnswer": 2,
+      "hint": "The Ural Mountains are widely accepted as part of the conventional boundary between Europe and Asia."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist discovered penicillin?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Edward Jenner"],
+      "correctAnswer": 1,
+      "hint": "Alexander Fleming discovered penicillin in 1928, revolutionizing the treatment of bacterial infections."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which is the hardest naturally occurring substance?",
+      "options": ["Quartz", "Diamond", "Sapphire", "Graphite"],
+      "correctAnswer": 1,
+      "hint": "Diamond ranks highest on the Mohs hardness scale with a value of 10."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is the birthplace of the Olympic Games?",
+      "options": ["Italy", "Greece", "Turkey", "Egypt"],
+      "correctAnswer": 1,
+      "hint": "The ancient Olympic Games originated in Olympia, Greece, in 776 BC."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which writing system is used for the Japanese language alongside Hiragana and Katakana?",
+      "options": ["Hangul", "Kanji", "Devanagari", "Thai"],
+      "correctAnswer": 1,
+      "hint": "Kanji consists of characters of Chinese origin and is one of the three scripts used in modern Japanese writing."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which animal has the largest eyes of any living creature?",
+      "options": ["Colossal Squid", "Giant Squid", "Blue Whale", "Ostrich"],
+      "correctAnswer": 0,
+      "hint": "The Colossal Squid has the largest confirmed eyes of any known living animal, reaching up to about 27 cm (11 inches) in diameter."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country is home to the world's largest salt flat, Salar de Uyuni?",
+      "options": ["Chile", "Bolivia", "Peru", "Argentina"],
+      "correctAnswer": 1,
+      "hint": "Salar de Uyuni covers over 10,000 square kilometers, making it the largest salt flat on Earth."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which particle has the smallest known positive electric charge?",
+      "options": ["Proton", "Positron", "Up Quark", "Alpha Particle"],
+      "correctAnswer": 2,
+      "hint": "An up quark carries a charge of +2/3e, while a proton and positron each have a charge of +1e. Quarks are not observed in isolation due to confinement."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization first developed a positional decimal number system including the concept of zero?",
+      "options": ["Romans", "Ancient Indians", "Babylonians", "Egyptians"],
+      "correctAnswer": 1,
+      "hint": "Ancient Indian mathematicians developed the decimal place-value system and formalized the use of zero, which later spread worldwide through Arabic scholarship."
+    }
+  ]
+}
