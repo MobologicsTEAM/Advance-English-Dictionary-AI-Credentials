@@ -1,0 +1,167 @@
+{
+  "level": 11,
+  "title": "Grandmaster Elite 👑",
+  "difficulty": "Legendary+ (Master's Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which mammal is capable of true powered flight?",
+      "options": ["Flying Squirrel", "Sugar Glider", "Bat", "Colugo"],
+      "correctAnswer": 2,
+      "hint": "Bats are the only mammals capable of sustained powered flight. Other 'flying' mammals only glide."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which layer of Earth's atmosphere contains the ozone layer?",
+      "options": ["Troposphere", "Mesosphere", "Stratosphere", "Thermosphere"],
+      "correctAnswer": 2,
+      "hint": "The ozone layer absorbs most of the Sun's harmful ultraviolet radiation."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film became the first non-English language movie to win the Academy Award for Best Picture?",
+      "options": ["Roma", "Parasite", "Crouching Tiger, Hidden Dragon", "Life Is Beautiful"],
+      "correctAnswer": 1,
+      "hint": "Parasite (2019) made Oscar history by winning Best Picture."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In the Marvel Cinematic Universe, what is Thor's hammer called?",
+      "options": ["Stormbreaker", "Gungnir", "Mjölnir", "Leviathan"],
+      "correctAnswer": 2,
+      "hint": "Mjölnir is Thor's enchanted hammer, forged by the dwarves of Nidavellir."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which document begins with the words \"We the People\"?",
+      "options": ["Magna Carta", "United States Constitution", "Universal Declaration of Human Rights", "Bill of Rights"],
+      "correctAnswer": 1,
+      "hint": "The famous opening phrase introduces the Preamble to the U.S. Constitution."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which organization awards the Nobel Peace Prize?",
+      "options": ["United Nations", "Norwegian Nobel Committee", "Swedish Parliament", "European Union"],
+      "correctAnswer": 1,
+      "hint": "Unlike the other Nobel Prizes, the Peace Prize is awarded in Norway."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which wall divided East and West Berlin until 1989?",
+      "options": ["Iron Curtain", "Berlin Wall", "Great Wall", "Hadrian's Wall"],
+      "correctAnswer": 1,
+      "hint": "The Berlin Wall stood from 1961 until its fall in 1989, symbolizing the Cold War."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which civilization developed one of the earliest known writing systems called cuneiform?",
+      "options": ["Egyptians", "Sumerians", "Phoenicians", "Greeks"],
+      "correctAnswer": 1,
+      "hint": "Cuneiform originated in ancient Mesopotamia over 5,000 years ago."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "Brazil", "Japan", "United Kingdom"],
+      "correctAnswer": 1,
+      "hint": "Rio de Janeiro became the first South American city to host the Summer Olympics."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "How many rings are displayed on the Olympic flag?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "correctAnswer": 1,
+      "hint": "The five rings represent the unity of the inhabited continents through sport."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the world's largest population by current estimates?",
+      "options": ["China", "India", "Indonesia", "United States"],
+      "correctAnswer": 1,
+      "hint": "India surpassed China as the world's most populous country in 2023."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which sea separates Europe from Africa?",
+      "options": ["Black Sea", "Mediterranean Sea", "Red Sea", "Baltic Sea"],
+      "correctAnswer": 1,
+      "hint": "The Mediterranean Sea lies between southern Europe and northern Africa."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist developed the theory of general relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Max Planck"],
+      "correctAnswer": 1,
+      "hint": "General relativity describes gravity as the curvature of spacetime."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which element has the chemical symbol \"Fe\"?",
+      "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+      "correctAnswer": 1,
+      "hint": "\"Fe\" comes from the Latin word Ferrum, meaning iron."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is the birthplace of the tango dance?",
+      "options": ["Spain", "Argentina", "Mexico", "Chile"],
+      "correctAnswer": 1,
+      "hint": "Tango originated in Buenos Aires during the late 19th century."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which language has the largest number of native speakers worldwide?",
+      "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+      "correctAnswer": 1,
+      "hint": "Mandarin Chinese has the highest number of native speakers globally."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which is the tallest species of animal on Earth?",
+      "options": ["African Elephant", "Giraffe", "Camel", "Moose"],
+      "correctAnswer": 1,
+      "hint": "Adult male giraffes can grow up to about 5.5–6 meters (18–20 feet) tall."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which African country has Cairo as its capital?",
+      "options": ["Morocco", "Egypt", "Algeria", "Sudan"],
+      "correctAnswer": 1,
+      "hint": "Cairo is one of Africa's largest cities and the capital of Egypt."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "What is the hardest naturally occurring mineral on Earth?",
+      "options": ["Quartz", "Diamond", "Sapphire", "Topaz"],
+      "correctAnswer": 1,
+      "hint": "Diamond ranks 10 on the Mohs hardness scale, making it the hardest natural mineral."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which ship famously sank after striking an iceberg in 1912?",
+      "options": ["Lusitania", "Britannic", "RMS Titanic", "Queen Mary"],
+      "correctAnswer": 2,
+      "hint": "The Titanic sank during its maiden voyage in the North Atlantic on April 15, 1912."
+    }
+  ]
+}
