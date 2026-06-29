@@ -1,0 +1,167 @@
+{
+  "level": 12,
+  "title": "Mythic Master ⚜️",
+  "difficulty": "Mythic (Ultimate Knowledge Trial)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the world's largest coral reef system?",
+      "options": ["Belize Barrier Reef", "Great Barrier Reef", "Red Sea Coral Reef", "New Caledonia Barrier Reef"],
+      "correctAnswer": 1,
+      "hint": "The Great Barrier Reef stretches over 2,300 km along Australia's northeast coast and is the largest coral reef system on Earth."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which bird has the largest wingspan of any living bird?",
+      "options": ["California Condor", "Wandering Albatross", "Andean Condor", "Golden Eagle"],
+      "correctAnswer": 1,
+      "hint": "The Wandering Albatross can have a wingspan exceeding 3.5 meters (11.5 feet)."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which movie became the first ever to earn over $2 billion at the worldwide box office?",
+      "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: The Force Awakens"],
+      "correctAnswer": 1,
+      "hint": "James Cameron's Avatar (2009) was the first film to surpass $2 billion globally."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In Harry Potter, what is the name of the prison guarded by Dementors?",
+      "options": ["Nurmengard", "Azkaban", "Hogwarts", "Gringotts"],
+      "correctAnswer": 1,
+      "hint": "Azkaban is the high-security wizard prison in the Harry Potter universe."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which international court settles legal disputes between countries?",
+      "options": ["International Criminal Court", "International Court of Justice", "European Court of Human Rights", "Permanent Court of Arbitration"],
+      "correctAnswer": 1,
+      "hint": "The ICJ is the principal judicial organ of the United Nations."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which document established the United Nations in 1945?",
+      "options": ["Geneva Convention", "UN Charter", "Treaty of Paris", "Atlantic Charter"],
+      "correctAnswer": 1,
+      "hint": "The UN Charter serves as the founding treaty of the United Nations."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization is credited with building the pyramids at Giza?",
+      "options": ["Romans", "Ancient Egyptians", "Persians", "Babylonians"],
+      "correctAnswer": 1,
+      "hint": "The Great Pyramids were built as royal tombs during Egypt's Old Kingdom."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which famous document was signed in England in 1215, limiting the king's powers?",
+      "options": ["Bill of Rights", "Magna Carta", "Declaration of Independence", "Petition of Right"],
+      "correctAnswer": 1,
+      "hint": "The Magna Carta laid the foundation for constitutional government and the rule of law."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which sport awards the Stanley Cup?",
+      "options": ["Basketball", "Ice Hockey", "Baseball", "Rugby"],
+      "correctAnswer": 1,
+      "hint": "The Stanley Cup is the championship trophy of the NHL."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "How many points is a touchdown worth in American football before the extra point attempt?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "hint": "A touchdown is worth six points, followed by an optional extra-point or two-point conversion."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the greatest number of time zones?",
+      "options": ["Russia", "France", "United States", "Australia"],
+      "correctAnswer": 1,
+      "hint": "Including its overseas territories, France spans 12 official time zones—the most of any country."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which mountain range separates Europe and Asia?",
+      "options": ["Alps", "Andes", "Ural Mountains", "Himalayas"],
+      "correctAnswer": 2,
+      "hint": "The Ural Mountains are traditionally considered part of the boundary between Europe and Asia."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which particle carries a negative electric charge?",
+      "options": ["Proton", "Neutron", "Electron", "Positron"],
+      "correctAnswer": 2,
+      "hint": "Electrons orbit the nucleus and carry a negative elementary charge."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which planet has the largest number of confirmed moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctAnswer": 1,
+      "hint": "Saturn currently holds the record for the highest number of confirmed natural satellites."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is famous for originating the martial art of Taekwondo?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "correctAnswer": 2,
+      "hint": "Taekwondo is South Korea's national martial art and an Olympic sport."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which instrument traditionally has 88 keys?",
+      "options": ["Organ", "Piano", "Harpsichord", "Accordion"],
+      "correctAnswer": 1,
+      "hint": "A standard modern piano contains 88 keys: 52 white and 36 black."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which is the largest species of penguin?",
+      "options": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Adelie Penguin"],
+      "correctAnswer": 1,
+      "hint": "Emperor Penguins can reach about 1.2 meters (4 feet) in height."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country is completely surrounded by South Africa?",
+      "options": ["Eswatini", "Lesotho", "Botswana", "Namibia"],
+      "correctAnswer": 1,
+      "hint": "Lesotho is one of only three enclave countries in the world and is entirely surrounded by South Africa."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which branch of science studies fungi?",
+      "options": ["Botany", "Mycology", "Zoology", "Ecology"],
+      "correctAnswer": 1,
+      "hint": "Mycology is the scientific study of fungi, including mushrooms, molds, and yeasts."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which explorer completed the first successful circumnavigation of the Earth, although he died before the voyage ended?",
+      "options": ["James Cook", "Christopher Columbus", "Ferdinand Magellan", "Vasco da Gama"],
+      "correctAnswer": 2,
+      "hint": "Magellan led the expedition that first circumnavigated the globe. He was killed in the Philippines in 1521, and his crew completed the journey in 1522."
+    }
+  ]
+}
