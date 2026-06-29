@@ -1,0 +1,167 @@
+{
+  "level": 13,
+  "title": "Eternal Scholar 📚👑",
+  "difficulty": "Legendary++ (World Master Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the largest species of shark in the world?",
+      "options": ["Great White Shark", "Whale Shark", "Tiger Shark", "Hammerhead Shark"],
+      "correctAnswer": 1,
+      "hint": "The Whale Shark is the world's largest fish, growing over 18 meters (59 feet), and feeds mainly on plankton."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which tree species is considered the tallest in the world?",
+      "options": ["Giant Sequoia", "Coast Redwood", "Douglas Fir", "Eucalyptus Regnans"],
+      "correctAnswer": 1,
+      "hint": "Coast Redwoods (Sequoia sempervirens) include the tallest known living tree, Hyperion, standing over 115 meters (379 feet)."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which fictional detective lives at 221B Baker Street?",
+      "options": ["Hercule Poirot", "Sherlock Holmes", "Miss Marple", "Philip Marlowe"],
+      "correctAnswer": 1,
+      "hint": "Sherlock Holmes, created by Sir Arthur Conan Doyle, famously resides at 221B Baker Street in London."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which film won the Academy Award for Best Picture at the 2024 Oscars?",
+      "options": ["Barbie", "Oppenheimer", "Poor Things", "Killers of the Flower Moon"],
+      "correctAnswer": 1,
+      "hint": "Christopher Nolan's Oppenheimer won Best Picture at the 96th Academy Awards."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization is responsible for coordinating the Olympic Games?",
+      "options": ["FIFA", "International Olympic Committee (IOC)", "UNESCO", "World Athletics"],
+      "correctAnswer": 1,
+      "hint": "The IOC oversees both the Summer and Winter Olympic Games."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which country was the first to grant women the right to vote in national elections?",
+      "options": ["United Kingdom", "United States", "New Zealand", "Canada"],
+      "correctAnswer": 2,
+      "hint": "New Zealand became the first self-governing country to grant women voting rights in 1893."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which city was the capital of the Byzantine Empire?",
+      "options": ["Athens", "Constantinople", "Rome", "Alexandria"],
+      "correctAnswer": 1,
+      "hint": "Constantinople, now Istanbul, served as the Byzantine Empire's capital for over 1,000 years."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which treaty officially ended World War I?",
+      "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Utrecht", "Treaty of Tordesillas"],
+      "correctAnswer": 1,
+      "hint": "Signed in 1919, the Treaty of Versailles formally ended the state of war between Germany and the Allied Powers."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "In golf, what is the term for one stroke under par on a hole?",
+      "options": ["Eagle", "Birdie", "Bogey", "Albatross"],
+      "correctAnswer": 1,
+      "hint": "A birdie means completing a hole in one stroke fewer than its designated par."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which country invented table tennis?",
+      "options": ["China", "England", "Japan", "Germany"],
+      "correctAnswer": 1,
+      "hint": "Table tennis originated in England during the late 19th century as an indoor version of lawn tennis."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the longest coastline in the world?",
+      "options": ["Russia", "Canada", "Australia", "Indonesia"],
+      "correctAnswer": 1,
+      "hint": "Canada has a coastline of more than 240,000 kilometers, the longest of any nation."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which is the highest waterfall in the world?",
+      "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+      "correctAnswer": 2,
+      "hint": "Angel Falls in Venezuela has a total height of 979 meters (3,212 feet)."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A+", "AB+", "O-", "B-"],
+      "correctAnswer": 2,
+      "hint": "O-negative blood can generally be transfused to patients of any blood type in emergencies."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which vitamin is primarily produced by the body when skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correctAnswer": 2,
+      "hint": "Sunlight triggers the production of Vitamin D, which is important for healthy bones and immune function."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is the birthplace of the Olympic Games?",
+      "options": ["Italy", "Greece", "Egypt", "Turkey"],
+      "correctAnswer": 1,
+      "hint": "The first ancient Olympic Games were held in Olympia, Greece, around 776 BC."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which famous museum is home to the Mona Lisa?",
+      "options": ["British Museum", "Prado Museum", "Louvre Museum", "Metropolitan Museum of Art"],
+      "correctAnswer": 2,
+      "hint": "Leonardo da Vinci's Mona Lisa is displayed in the Louvre Museum in Paris."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which animal has the highest blood pressure of any living creature?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Rhinoceros"],
+      "correctAnswer": 2,
+      "hint": "Giraffes require extremely high blood pressure to pump blood all the way to their brains through their long necks."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which capital city sits on both the Danube River and was once two separate cities named Buda and Pest?",
+      "options": ["Vienna", "Budapest", "Belgrade", "Bratislava"],
+      "correctAnswer": 1,
+      "hint": "Budapest was formed in 1873 by uniting Buda, Pest, and Óbuda."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "What is the SI unit of electrical resistance?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correctAnswer": 2,
+      "hint": "Electrical resistance is measured in ohms (Ω), named after physicist Georg Ohm."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization is credited with creating the first known democracy?",
+      "options": ["Roman Empire", "Ancient Athens", "Ancient Egypt", "Persian Empire"],
+      "correctAnswer": 1,
+      "hint": "Ancient Athens developed one of the earliest known systems of direct democracy during the 5th century BC."
+    }
+  ]
+}
