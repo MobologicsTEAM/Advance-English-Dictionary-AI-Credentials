@@ -1,0 +1,167 @@
+{
+  "level": 21,
+  "title": "Hall of Legends 👑⚡",
+  "difficulty": "Ascended (Prestige VI – Hall of Legends Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which animal has the most powerful bite force ever measured among living animals?",
+      "options": ["Great White Shark", "Nile Crocodile", "Saltwater Crocodile", "Hippopotamus"],
+      "correctAnswer": 2,
+      "hint": "The Saltwater Crocodile has the strongest measured bite force of any living animal, exceeding 16,000 newtons."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which tree species produces the world's largest seed?",
+      "options": ["Coconut Palm", "Baobab", "Coco de Mer Palm", "Kapok Tree"],
+      "correctAnswer": 2,
+      "hint": "The Coco de Mer palm of the Seychelles produces the largest and heaviest seed of any plant, weighing up to 25 kg (55 lb)."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film was the first to surpass $1 billion at the worldwide box office?",
+      "options": ["Titanic", "Jurassic Park", "Star Wars", "Avatar"],
+      "correctAnswer": 0,
+      "hint": "Released in 1997, Titanic became the first movie to gross over $1 billion worldwide."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which television series features the fictional paper company Dunder Mifflin?",
+      "options": ["Parks and Recreation", "The Office", "Brooklyn Nine-Nine", "Suits"],
+      "correctAnswer": 1,
+      "hint": "Dunder Mifflin Paper Company is the workplace at the heart of The Office."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which international organization publishes the annual World Economic Outlook?",
+      "options": ["World Bank", "International Monetary Fund (IMF)", "OECD", "World Trade Organization"],
+      "correctAnswer": 1,
+      "hint": "The IMF releases the World Economic Outlook, analyzing global economic trends and forecasts."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which organization coordinates international policing and criminal cooperation?",
+      "options": ["Europol", "INTERPOL", "NATO", "ASEAN"],
+      "correctAnswer": 1,
+      "hint": "INTERPOL facilitates cooperation among police agencies in nearly every country."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which empire built the famous Hagia Sophia?",
+      "options": ["Roman Empire", "Byzantine Empire", "Ottoman Empire", "Persian Empire"],
+      "correctAnswer": 1,
+      "hint": "The Hagia Sophia was completed in AD 537 under Emperor Justinian I of the Byzantine Empire."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which explorer first successfully reached the South Pole?",
+      "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "James Cook"],
+      "correctAnswer": 1,
+      "hint": "Norwegian explorer Roald Amundsen reached the South Pole on December 14, 1911."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country won the first FIFA World Cup in 1930?",
+      "options": ["Brazil", "Uruguay", "Argentina", "Italy"],
+      "correctAnswer": 1,
+      "hint": "Uruguay defeated Argentina 4–2 in the inaugural FIFA World Cup Final."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which chess piece can move the greatest number of squares in a single move?",
+      "options": ["Bishop", "Queen", "Rook", "Knight"],
+      "correctAnswer": 1,
+      "hint": "The queen combines the movement of both the rook and bishop, making it the most powerful piece."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country is home to the world's highest navigable lake, Lake Titicaca?",
+      "options": ["Peru and Bolivia", "Chile", "Ecuador", "Argentina"],
+      "correctAnswer": 0,
+      "hint": "Lake Titicaca lies on the border between Peru and Bolivia at an elevation of about 3,812 meters (12,507 feet)."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which country has the most islands in the world?",
+      "options": ["Indonesia", "Canada", "Sweden", "Philippines"],
+      "correctAnswer": 2,
+      "hint": "Sweden has approximately 267,000 islands, more than any other country."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which planet has the hottest average surface temperature in the Solar System?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correctAnswer": 1,
+      "hint": "Although Mercury is closer to the Sun, Venus is hotter due to its dense carbon dioxide atmosphere causing an extreme greenhouse effect."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which scientist introduced the concept of natural selection?",
+      "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Alfred Wegener"],
+      "correctAnswer": 1,
+      "hint": "Darwin's theory of evolution by natural selection transformed modern biology."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization built the massive stone monuments at Stonehenge?",
+      "options": ["Romans", "The exact builders remain uncertain", "Vikings", "Celts"],
+      "correctAnswer": 1,
+      "hint": "Stonehenge was built in stages over many centuries by prehistoric communities, but its exact builders remain unknown."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country is famous for originating flamenco?",
+      "options": ["Portugal", "Spain", "Italy", "Greece"],
+      "correctAnswer": 1,
+      "hint": "Flamenco developed primarily in Andalusia, southern Spain, blending music, singing, and dance."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which species of bear is the largest living land carnivore?",
+      "options": ["Kodiak Bear", "Polar Bear", "Brown Bear", "Grizzly Bear"],
+      "correctAnswer": 1,
+      "hint": "Polar bears are generally considered the largest living land carnivores, with some males exceeding 700 kg (1,540 lb)."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which river is the second-longest in South America after the Amazon?",
+      "options": ["Paraná River", "Orinoco River", "São Francisco River", "Madeira River"],
+      "correctAnswer": 0,
+      "hint": "The Paraná River flows through Brazil, Paraguay, and Argentina for nearly 4,900 kilometers."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which gas is the second most abundant in Earth's atmosphere?",
+      "options": ["Carbon Dioxide", "Oxygen", "Argon", "Hydrogen"],
+      "correctAnswer": 1,
+      "hint": "Earth's atmosphere is approximately 78% nitrogen, 21% oxygen, with argon and other gases making up the remainder."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization developed the first known urban sanitation and drainage systems?",
+      "options": ["Ancient Egypt", "Indus Valley Civilization", "Roman Empire", "Ancient Greece"],
+      "correctAnswer": 1,
+      "hint": "Cities such as Mohenjo-daro and Harappa featured remarkably advanced drainage, sewage, and urban planning over 4,000 years ago."
+    }
+  ]
+}
