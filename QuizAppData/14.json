@@ -1,0 +1,172 @@
+{
+  "level": 14,
+  "title": "Cosmic Sage 🌌👑",
+  "difficulty": "Mythic++ (Elite Scholar Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the largest species of penguin in the world?",
+      "options": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Chinstrap Penguin"],
+      "correctAnswer": 1,
+      "hint": "Emperor Penguins can grow over 1.2 meters (4 feet) tall and survive the harsh Antarctic winter."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which animal has the longest migration of any mammal?",
+      "options": ["Caribou", "Gray Whale", "Elephant Seal", "Wildebeest"],
+      "correctAnswer": 1,
+      "hint": "Gray whales migrate up to 20,000 kilometers (12,400 miles) annually between Arctic feeding grounds and Mexican breeding lagoons."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which director won the Academy Award for Best Director for the film The Lord of the Rings: The Return of the King?",
+      "options": ["James Cameron", "Peter Jackson", "Steven Spielberg", "Ridley Scott"],
+      "correctAnswer": 1,
+      "hint": "Peter Jackson's epic conclusion swept the Oscars, winning all 11 awards for which it was nominated."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In Star Wars, what is the home planet of Luke Skywalker?",
+      "options": ["Naboo", "Coruscant", "Tatooine", "Alderaan"],
+      "correctAnswer": 2,
+      "hint": "Luke Skywalker grew up on the desert planet Tatooine with his aunt and uncle."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which international organization designates World Heritage Sites?",
+      "options": ["WHO", "UNESCO", "UNICEF", "WTO"],
+      "correctAnswer": 1,
+      "hint": "UNESCO recognizes sites of outstanding cultural and natural importance around the world."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which document protects fundamental rights and freedoms in the European Union?",
+      "options": [
+        "Charter of Fundamental Rights of the European Union",
+        "Magna Carta",
+        "Geneva Convention",
+        "Treaty of Rome"
+      ],
+      "correctAnswer": 0,
+      "hint": "The Charter became legally binding in 2009 and guarantees a wide range of civil, political, and social rights within the EU."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization built the famous city of Petra?",
+      "options": ["Romans", "Nabataeans", "Assyrians", "Phoenicians"],
+      "correctAnswer": 1,
+      "hint": "Petra, carved into rose-colored sandstone cliffs in present-day Jordan, was the capital of the Nabataean Kingdom."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which Chinese dynasty is credited with building much of the present-day Great Wall of China?",
+      "options": ["Tang", "Ming", "Han", "Qing"],
+      "correctAnswer": 1,
+      "hint": "Although earlier walls existed, most of the Great Wall seen today was constructed during the Ming Dynasty."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has won the most Rugby World Cup titles (men's tournament)?",
+      "options": ["Australia", "South Africa", "New Zealand", "England"],
+      "correctAnswer": 1,
+      "hint": "South Africa became the first nation to win four Rugby World Cup titles after its 2023 victory."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In Formula One, what color flag signals the immediate stoppage of a race?",
+      "options": ["Yellow", "Blue", "Red", "Black"],
+      "correctAnswer": 2,
+      "hint": "A red flag is displayed when conditions are too dangerous for the race to continue safely."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country is home to the world's highest uninterrupted waterfall, Angel Falls?",
+      "options": ["Colombia", "Venezuela", "Brazil", "Peru"],
+      "correctAnswer": 1,
+      "hint": "Angel Falls drops 979 meters (3,212 feet) from Auyán-tepui in Venezuela."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which is the largest country in Africa by land area?",
+      "options": ["Nigeria", "Algeria", "Democratic Republic of the Congo", "Sudan"],
+      "correctAnswer": 1,
+      "hint": "Algeria covers more than 2.38 million square kilometers, making it Africa's largest country."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist discovered penicillin in 1928?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Joseph Lister"],
+      "correctAnswer": 1,
+      "hint": "Fleming observed that a mold inhibited bacterial growth, leading to the discovery of penicillin."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which part of the human brain is primarily responsible for balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+      "correctAnswer": 1,
+      "hint": "The cerebellum fine-tunes movement, posture, and balance."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is credited with inventing paper?",
+      "options": ["Egypt", "China", "India", "Greece"],
+      "correctAnswer": 1,
+      "hint": "Paper was developed in ancient China, traditionally credited to Cai Lun during the Han Dynasty."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which musical instrument is traditionally associated with Scotland?",
+      "options": ["Harp", "Bagpipes", "Violin", "Flute"],
+      "correctAnswer": 1,
+      "hint": "The Great Highland bagpipe is one of Scotland's most recognizable national symbols."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which mammal has the longest gestation period?",
+      "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+      "correctAnswer": 1,
+      "hint": "African elephants are pregnant for about 22 months, the longest known gestation among mammals."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which sea lies between Europe and Africa?",
+      "options": ["Black Sea", "Mediterranean Sea", "Baltic Sea", "Arabian Sea"],
+      "correctAnswer": 1,
+      "hint": "The Mediterranean Sea has connected civilizations in Europe, Africa, and Asia for thousands of years."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which branch of physics studies heat and energy transfer?",
+      "options": ["Optics", "Thermodynamics", "Electromagnetism", "Quantum Mechanics"],
+      "correctAnswer": 1,
+      "hint": "Thermodynamics examines the relationships between heat, work, energy, and temperature."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization first developed a widespread alphabet that influenced many modern writing systems?",
+      "options": ["Ancient Greeks", "Phoenicians", "Romans", "Persians"],
+      "correctAnswer": 1,
+      "hint": "The Phoenician alphabet became the basis for Greek, Latin, and many other writing systems."
+    }
+  ]
+}
