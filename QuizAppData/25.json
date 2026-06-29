@@ -1,0 +1,267 @@
+{
+  "level": 25,
+  "title": "Eternal Scholar",
+  "difficulty": "Eternal",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which living organism has the longest scientifically documented lifespan?",
+      "options": [
+        "Greenland Shark",
+        "Ocean Quahog Clam (Arctica islandica)",
+        "Bowhead Whale",
+        "Giant Tortoise"
+      ],
+      "correctAnswer": 1,
+      "hint": "One specimen, nicknamed 'Ming,' was determined to be approximately 507 years old, making it one of the longest-lived known animals."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which desert receives the lowest average annual rainfall?",
+      "options": [
+        "Sahara Desert",
+        "Gobi Desert",
+        "Antarctic Desert",
+        "Atacama Desert"
+      ],
+      "correctAnswer": 2,
+      "hint": "Although the Atacama has places that receive virtually no rain, Antarctica has the lowest average annual precipitation, qualifying it as the driest desert overall."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which movie was the first feature-length animated film ever released?",
+      "options": [
+        "Pinocchio",
+        "Snow White and the Seven Dwarfs",
+        "Fantasia",
+        "Bambi"
+      ],
+      "correctAnswer": 1,
+      "hint": "Released in 1937, Disney's Snow White and the Seven Dwarfs was the first full-length cel-animated feature film."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which fictional archaeologist is the main protagonist of the Tomb Raider franchise?",
+      "options": [
+        "Jill Valentine",
+        "Lara Croft",
+        "Claire Redfield",
+        "Samus Aran"
+      ],
+      "correctAnswer": 1,
+      "hint": "Lara Croft debuted in 1996 and became one of the most recognizable video game and film characters."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization publishes the annual World Press Freedom Index?",
+      "options": [
+        "Amnesty International",
+        "Reporters Without Borders (RSF)",
+        "UNESCO",
+        "Human Rights Watch"
+      ],
+      "correctAnswer": 1,
+      "hint": "The World Press Freedom Index ranks countries based on the level of freedom available to journalists."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization sets global standards for measurement through the International System of Units (SI)?",
+      "options": [
+        "ISO",
+        "BIPM",
+        "IEEE",
+        "IEC"
+      ],
+      "correctAnswer": 1,
+      "hint": "The International Bureau of Weights and Measures (BIPM) oversees the SI system used worldwide."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization built the ancient city of Troy, according to archaeological evidence?",
+      "options": [
+        "Hittites and Anatolian peoples",
+        "Romans",
+        "Persians",
+        "Phoenicians"
+      ],
+      "correctAnswer": 0,
+      "hint": "Archaeological evidence suggests Troy was an Anatolian city with connections to the Hittite world, rather than being founded by the later Greeks of legend."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which treaty officially created the European Union?",
+      "options": [
+        "Treaty of Rome",
+        "Maastricht Treaty",
+        "Treaty of Lisbon",
+        "Treaty of Paris"
+      ],
+      "correctAnswer": 1,
+      "hint": "Signed in 1992, the Maastricht Treaty formally established the European Union."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has won the most Olympic gold medals in women's gymnastics?",
+      "options": [
+        "Romania",
+        "Soviet Union",
+        "United States",
+        "China"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Soviet Union dominated women's artistic gymnastics during much of the 20th century."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which Grand Slam tournament is played on clay courts?",
+      "options": [
+        "Wimbledon",
+        "French Open",
+        "US Open",
+        "Australian Open"
+      ],
+      "correctAnswer": 1,
+      "hint": "The French Open at Roland Garros is the only Grand Slam played on clay."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the greatest number of volcanoes?",
+      "options": [
+        "Indonesia",
+        "Japan",
+        "Chile",
+        "United States"
+      ],
+      "correctAnswer": 0,
+      "hint": "Indonesia has the largest number of active volcanoes due to its location on the Pacific Ring of Fire."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which nation is the world's largest archipelago by number of islands?",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Japan",
+        "Canada"
+      ],
+      "correctAnswer": 0,
+      "hint": "Indonesia consists of more than 17,000 islands, making it the world's largest archipelagic state."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist proposed the laws of planetary motion that describe elliptical orbits?",
+      "options": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Tycho Brahe",
+        "Nicolaus Copernicus"
+      ],
+      "correctAnswer": 1,
+      "hint": "Kepler's three laws accurately describe how planets orbit the Sun."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which SI base unit measures the amount of substance?",
+      "options": [
+        "Joule",
+        "Mole",
+        "Pascal",
+        "Newton"
+      ],
+      "correctAnswer": 1,
+      "hint": "The mole is one of the seven SI base units and measures the amount of substance."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization constructed the cliff dwellings at Mesa Verde?",
+      "options": [
+        "Maya",
+        "Ancestral Puebloans",
+        "Aztec",
+        "Olmec"
+      ],
+      "correctAnswer": 1,
+      "hint": "Mesa Verde National Park preserves remarkable cliff dwellings built by the Ancestral Pueblo people."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which language family has the greatest number of native speakers worldwide?",
+      "options": [
+        "Indo-European",
+        "Sino-Tibetan",
+        "Afro-Asiatic",
+        "Niger-Congo"
+      ],
+      "correctAnswer": 0,
+      "hint": "The Indo-European language family includes English, Spanish, Hindi, Portuguese, Russian, and many other widely spoken languages."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which mammal has the slowest heartbeat?",
+      "options": [
+        "Blue Whale",
+        "Elephant",
+        "Giraffe",
+        "Orca"
+      ],
+      "correctAnswer": 0,
+      "hint": "A blue whale's heart can beat as slowly as 2 beats per minute during deep dives."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the highest number of official languages at the national level?",
+      "options": [
+        "South Africa",
+        "Zimbabwe",
+        "Bolivia",
+        "India"
+      ],
+      "correctAnswer": 2,
+      "hint": "Bolivia recognizes 37 official languages, including Spanish and numerous Indigenous languages."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist discovered the expanding universe through observations of distant galaxies?",
+      "options": [
+        "Edwin Hubble",
+        "Carl Sagan",
+        "Stephen Hawking",
+        "Georges Lemaître"
+      ],
+      "correctAnswer": 0,
+      "hint": "Edwin Hubble's observations showed that galaxies are moving away from each other, providing key evidence for an expanding universe. Georges Lemaître independently developed the theoretical interpretation."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which empire built the extensive road network known as the Royal Road?",
+      "options": [
+        "Roman Empire",
+        "Persian (Achaemenid) Empire",
+        "Mongol Empire",
+        "Ottoman Empire"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Royal Road stretched approximately 2,700 km (1,700 miles) and enabled rapid communication across the Achaemenid Empire."
+    }
+  ]
+}
