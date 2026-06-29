@@ -1,0 +1,167 @@
+{
+  "level": 17,
+  "title": "Universal Oracle 🔮🌌",
+  "difficulty": "Cosmic (Prestige I – Oracle Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the only continent where wild polar bears are naturally found?",
+      "options": ["Europe", "Asia", "North America", "Antarctica"],
+      "correctAnswer": 2,
+      "hint": "Wild polar bears inhabit Arctic regions of Canada, Alaska (USA), and Greenland, with some populations extending into parts of Russia and Norway's Svalbard. They are not found in Antarctica."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which living bird has the largest wingspan ever reliably recorded?",
+      "options": ["California Condor", "Wandering Albatross", "Andean Condor", "Great White Pelican"],
+      "correctAnswer": 1,
+      "hint": "The Wandering Albatross can reach wingspans of over 3.5 meters (11.5 feet), allowing it to glide vast distances over the Southern Ocean."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which movie won 11 Academy Awards and tied the all-time record alongside Ben-Hur and The Lord of the Rings: The Return of the King?",
+      "options": ["Titanic", "Avatar", "Gladiator", "Braveheart"],
+      "correctAnswer": 0,
+      "hint": "Titanic (1997) won 11 Oscars, tying the record shared by only three films."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which actor portrayed Indiana Jones?",
+      "options": ["Tom Hanks", "Harrison Ford", "Mel Gibson", "Kevin Costner"],
+      "correctAnswer": 1,
+      "hint": "Harrison Ford first played Indiana Jones in Raiders of the Lost Ark (1981)."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which city hosts the headquarters of the World Health Organization (WHO)?",
+      "options": ["Vienna", "Geneva", "Paris", "Brussels"],
+      "correctAnswer": 1,
+      "hint": "The WHO is headquartered in Geneva, Switzerland."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization publishes the World Heritage List?",
+      "options": ["UNICEF", "UNESCO", "FAO", "OECD"],
+      "correctAnswer": 1,
+      "hint": "UNESCO recognizes cultural and natural sites of outstanding universal value."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization invented the concept of Olympic Games?",
+      "options": ["Romans", "Ancient Greeks", "Egyptians", "Persians"],
+      "correctAnswer": 1,
+      "hint": "The first recorded Olympic Games were held in Olympia in 776 BC."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which famous route connected China with Europe for centuries?",
+      "options": ["Amber Road", "Silk Road", "Spice Route", "Tea Trail"],
+      "correctAnswer": 1,
+      "hint": "The Silk Road linked East and West through trade, culture, and technological exchange."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has won the most Olympic gold medals in history?",
+      "options": ["China", "Soviet Union", "United States", "Great Britain"],
+      "correctAnswer": 2,
+      "hint": "The United States leads the all-time Olympic gold medal table."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In Formula One, what does the checkered flag indicate?",
+      "options": ["Safety Car", "Final Lap", "Race Finished", "Pit Stop Required"],
+      "correctAnswer": 2,
+      "hint": "The checkered flag signals that the winner has crossed the finish line and the race has concluded."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country is both in Europe and Asia?",
+      "options": ["Turkey", "Poland", "Egypt", "Norway"],
+      "correctAnswer": 0,
+      "hint": "Turkey spans two continents, separated by the Bosporus Strait."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which is the driest non-polar desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Atacama Desert", "Namib Desert"],
+      "correctAnswer": 2,
+      "hint": "The Atacama Desert in Chile is one of the driest places on Earth, with some areas receiving virtually no rainfall."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist proposed the heliocentric model that placed the Sun at the center of the Solar System?",
+      "options": ["Galileo Galilei", "Nicolaus Copernicus", "Johannes Kepler", "Tycho Brahe"],
+      "correctAnswer": 1,
+      "hint": "Copernicus' heliocentric model revolutionized astronomy and changed our understanding of the universe."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "What is the most abundant element in the observable universe?",
+      "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+      "correctAnswer": 2,
+      "hint": "Hydrogen accounts for roughly 75% of the observable universe's normal matter by mass."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is the birthplace of the Renaissance?",
+      "options": ["France", "Italy", "Spain", "Germany"],
+      "correctAnswer": 1,
+      "hint": "The Renaissance began in Florence, Italy, during the 14th century before spreading across Europe."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which famous artist painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+      "correctAnswer": 2,
+      "hint": "Michelangelo painted the iconic ceiling between 1508 and 1512."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which mammal has the largest brain of any animal?",
+      "options": ["Blue Whale", "African Elephant", "Sperm Whale", "Orca"],
+      "correctAnswer": 2,
+      "hint": "The sperm whale possesses the largest brain ever known, weighing around 7–9 kilograms."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which river flows through the cities of Vienna, Budapest, and Belgrade?",
+      "options": ["Rhine", "Danube", "Volga", "Seine"],
+      "correctAnswer": 1,
+      "hint": "The Danube is Europe's second-longest river and flows through more capital cities than any other river."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist discovered the neutron in 1932?",
+      "options": ["Ernest Rutherford", "James Chadwick", "Niels Bohr", "Enrico Fermi"],
+      "correctAnswer": 1,
+      "hint": "James Chadwick's discovery of the neutron transformed nuclear physics and earned him the 1935 Nobel Prize in Physics."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which empire was ruled by Cyrus the Great?",
+      "options": ["Roman Empire", "Persian (Achaemenid) Empire", "Ottoman Empire", "Byzantine Empire"],
+      "correctAnswer": 1,
+      "hint": "Cyrus the Great founded the Achaemenid Persian Empire, one of the largest empires of the ancient world."
+    }
+  ]
+}
