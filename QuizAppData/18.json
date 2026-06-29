@@ -1,0 +1,267 @@
+{
+  "level": 18,
+  "title": "Celestial Grandmaster 🌠👑",
+  "difficulty": "Divine (Prestige II – Grandmaster Challenge)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which living organism is considered one of the oldest known individual trees on Earth?",
+      "options": [
+        "General Sherman",
+        "Methuselah",
+        "Hyperion",
+        "Major Oak"
+      ],
+      "correctAnswer": 1,
+      "hint": "Methuselah, a Great Basin bristlecone pine in California, is estimated to be over 4,800 years old, making it one of the oldest known non-clonal living trees."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which animal has the highest number of teeth among mammals?",
+      "options": [
+        "Elephant",
+        "Dolphin",
+        "Giant Armadillo",
+        "Hippopotamus"
+      ],
+      "correctAnswer": 2,
+      "hint": "The Giant Armadillo can have up to 100 teeth, the most of any living land mammal."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film became the first sequel to win the Academy Award for Best Picture?",
+      "options": [
+        "The Godfather Part II",
+        "The Dark Knight",
+        "Toy Story 2",
+        "The Empire Strikes Back"
+      ],
+      "correctAnswer": 0,
+      "hint": "Released in 1974, The Godfather Part II made history as the first sequel to win Best Picture."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which fictional city is protected by Batman?",
+      "options": [
+        "Metropolis",
+        "Gotham City",
+        "Central City",
+        "Star City"
+      ],
+      "correctAnswer": 1,
+      "hint": "Batman has defended Gotham City since his first comic appearance in 1939."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization awards the Nobel Prizes in Physics, Chemistry, and Medicine?",
+      "options": [
+        "United Nations",
+        "Royal Swedish Academy of Sciences",
+        "European Parliament",
+        "UNESCO"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Royal Swedish Academy awards the Physics and Chemistry prizes, while the Nobel Assembly at the Karolinska Institute awards the Medicine prize."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international day is observed on December 10 each year?",
+      "options": [
+        "Earth Day",
+        "Human Rights Day",
+        "World Peace Day",
+        "Literacy Day"
+      ],
+      "correctAnswer": 1,
+      "hint": "Human Rights Day commemorates the adoption of the Universal Declaration of Human Rights in 1948."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which empire built the famous city of Persepolis?",
+      "options": [
+        "Roman Empire",
+        "Persian (Achaemenid) Empire",
+        "Ottoman Empire",
+        "Seleucid Empire"
+      ],
+      "correctAnswer": 1,
+      "hint": "Persepolis was founded by Darius I around 518 BC as the ceremonial capital of the Achaemenid Empire."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which navigator became the first known European to reach the Pacific Ocean by crossing the Isthmus of Panama?",
+      "options": [
+        "Christopher Columbus",
+        "Vasco Núñez de Balboa",
+        "Ferdinand Magellan",
+        "Hernán Cortés"
+      ],
+      "correctAnswer": 1,
+      "hint": "In 1513, Balboa became the first recorded European to see the Pacific Ocean from the Americas."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which nation has won the most ICC Champions Trophy titles (including shared titles)?",
+      "options": [
+        "Australia",
+        "India",
+        "Pakistan",
+        "England"
+      ],
+      "correctAnswer": 1,
+      "hint": "India has won the ICC Champions Trophy twice outright and shared one title in 2002."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In athletics, how long is an Olympic marathon?",
+      "options": [
+        "40.0 km",
+        "41.2 km",
+        "42.195 km",
+        "43.0 km"
+      ],
+      "correctAnswer": 2,
+      "hint": "The marathon distance has been standardized at 42.195 kilometers (26 miles 385 yards) since 1921."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country contains the world's largest delta?",
+      "options": [
+        "India",
+        "Bangladesh",
+        "Egypt",
+        "Vietnam"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Ganges–Brahmaputra–Meghna Delta, mostly in Bangladesh, is the world's largest river delta."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which strait separates Asia from North America?",
+      "options": [
+        "Strait of Gibraltar",
+        "Bering Strait",
+        "Bosporus",
+        "Strait of Malacca"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Bering Strait separates Russia and Alaska at their closest point."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which physicist discovered electromagnetic induction?",
+      "options": [
+        "Nikola Tesla",
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "André-Marie Ampère"
+      ],
+      "correctAnswer": 1,
+      "hint": "Faraday's discovery of electromagnetic induction made electric generators and transformers possible."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which SI unit measures luminous intensity?",
+      "options": [
+        "Lux",
+        "Candela",
+        "Lumen",
+        "Watt"
+      ],
+      "correctAnswer": 1,
+      "hint": "The candela is one of the seven base SI units and measures luminous intensity."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization built the monumental statues known as Moai?",
+      "options": [
+        "Māori",
+        "Rapa Nui",
+        "Inca",
+        "Maya"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Moai statues were carved by the Rapa Nui people on Easter Island between the 13th and 16th centuries."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country is the birthplace of the philosopher Confucius?",
+      "options": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Mongolia"
+      ],
+      "correctAnswer": 1,
+      "hint": "Confucius was born in the ancient Chinese state of Lu around 551 BC."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which species is the largest living marsupial?",
+      "options": [
+        "Red Kangaroo",
+        "Koala",
+        "Wombat",
+        "Tasmanian Devil"
+      ],
+      "correctAnswer": 0,
+      "hint": "Adult male Red Kangaroos can exceed 90 kg (200 lb) and stand over 2 meters tall."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the highest average elevation above sea level?",
+      "options": [
+        "Nepal",
+        "Bhutan",
+        "Switzerland",
+        "Peru"
+      ],
+      "correctAnswer": 1,
+      "hint": "Bhutan's mountainous terrain gives it the highest average elevation of any sovereign country."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist is known as the \"Father of Genetics\"?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Francis Crick"
+      ],
+      "correctAnswer": 1,
+      "hint": "Mendel's experiments with pea plants established the basic principles of heredity."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization created the world's earliest known written legal code, the Code of Ur-Nammu?",
+      "options": [
+        "Babylonians",
+        "Sumerians",
+        "Assyrians",
+        "Egyptians"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Code of Ur-Nammu, dating to around 2100–2050 BC, is the oldest surviving known law code."
+    }
+  ]
+}
