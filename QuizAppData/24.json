@@ -1,0 +1,267 @@
+{
+  "level": 24,
+  "title": "Cosmic Sage",
+  "difficulty": "Cosmic Supreme",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which living mammal has the highest number of teeth?",
+      "options": [
+        "Dolphin",
+        "Giant Anteater",
+        "Spinner Dolphin",
+        "Hippopotamus"
+      ],
+      "correctAnswer": 2,
+      "hint": "Spinner dolphins can have 240–260 teeth, among the highest counts of any living mammal."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which tree species is considered the largest living organism by volume?",
+      "options": [
+        "Coast Redwood",
+        "Giant Sequoia",
+        "Baobab",
+        "Douglas Fir"
+      ],
+      "correctAnswer": 1,
+      "hint": "While Coast Redwoods are taller, Giant Sequoias possess the greatest volume of any tree on Earth."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film became the first to win 11 Academy Awards?",
+      "options": [
+        "Titanic",
+        "Ben-Hur",
+        "The Return of the King",
+        "West Side Story"
+      ],
+      "correctAnswer": 1,
+      "hint": "Released in 1959, Ben-Hur was the first film to win 11 Oscars, a record later tied by Titanic and The Lord of the Rings: The Return of the King."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which fictional city is protected by Batman?",
+      "options": [
+        "Metropolis",
+        "Gotham City",
+        "Central City",
+        "Star City"
+      ],
+      "correctAnswer": 1,
+      "hint": "Batman has defended Gotham City since his first appearance in 1939."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which international organization awards the Nobel Peace Prize?",
+      "options": [
+        "Nobel Foundation",
+        "Norwegian Nobel Committee",
+        "United Nations",
+        "UNESCO"
+      ],
+      "correctAnswer": 1,
+      "hint": "Unlike the other Nobel Prizes, the Peace Prize is selected by the Norwegian Nobel Committee."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which organization is responsible for assigning internet domain names and IP address coordination?",
+      "options": [
+        "ICANN",
+        "IEEE",
+        "CERN",
+        "ISO"
+      ],
+      "correctAnswer": 0,
+      "hint": "ICANN coordinates domain names, IP address allocation, and parts of the global Domain Name System."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization constructed the monumental statues known as the Moai?",
+      "options": [
+        "Māori",
+        "Rapa Nui",
+        "Inca",
+        "Maya"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Moai statues were carved by the Rapa Nui people on Easter Island between the 13th and 16th centuries."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which ancient library became the most famous center of learning in antiquity?",
+      "options": [
+        "Library of Pergamon",
+        "Library of Alexandria",
+        "Nineveh Library",
+        "Imperial Library of Rome"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Library of Alexandria symbolized the pursuit of knowledge in the ancient world."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has won the most Olympic gold medals in hockey (field hockey, men's)?",
+      "options": [
+        "Netherlands",
+        "Australia",
+        "India",
+        "Germany"
+      ],
+      "correctAnswer": 2,
+      "hint": "India dominated Olympic men's field hockey during the early and mid-20th century with 8 gold medals."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In Formula One, what color flag signals the end of a race or practice session?",
+      "options": [
+        "Yellow",
+        "Black",
+        "Red",
+        "Checkered"
+      ],
+      "correctAnswer": 3,
+      "hint": "The black-and-white checkered flag marks the official finish of the session."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country contains the highest capital city in the world?",
+      "options": [
+        "Nepal",
+        "Ecuador",
+        "Bolivia",
+        "Peru"
+      ],
+      "correctAnswer": 2,
+      "hint": "La Paz, Bolivia, is the world's highest administrative capital at about 3,650 meters (11,975 feet) above sea level."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which strait separates Asia from North America?",
+      "options": [
+        "Strait of Gibraltar",
+        "Bosporus",
+        "Bering Strait",
+        "Strait of Malacca"
+      ],
+      "correctAnswer": 2,
+      "hint": "The Bering Strait lies between Russia and Alaska, separating Asia and North America."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist developed the first successful vaccine?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Edward Jenner",
+        "Alexander Fleming"
+      ],
+      "correctAnswer": 2,
+      "hint": "Jenner's smallpox vaccine, introduced in 1796, marked the beginning of modern immunology."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which subatomic particle was discovered by J. J. Thomson in 1897?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Positron"
+      ],
+      "correctAnswer": 2,
+      "hint": "The discovery of the electron revolutionized the understanding of atomic structure."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization built the massive stone city of Great Zimbabwe?",
+      "options": [
+        "Kingdom of Zimbabwe",
+        "Egyptians",
+        "Ethiopians",
+        "Mali Empire"
+      ],
+      "correctAnswer": 0,
+      "hint": "Great Zimbabwe was the capital of a powerful medieval African kingdom between the 11th and 15th centuries."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which language is written using the Hangul writing system?",
+      "options": [
+        "Japanese",
+        "Mongolian",
+        "Korean",
+        "Vietnamese"
+      ],
+      "correctAnswer": 2,
+      "hint": "Hangul was created in the 15th century during the reign of King Sejong."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which living bird has the largest wingspan?",
+      "options": [
+        "California Condor",
+        "Andean Condor",
+        "Wandering Albatross",
+        "Golden Eagle"
+      ],
+      "correctAnswer": 2,
+      "hint": "The Wandering Albatross has the largest wingspan of any living bird, reaching over 3.5 meters (11.5 feet)."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country shares the most international borders with other nations?",
+      "options": [
+        "Russia",
+        "China",
+        "Brazil",
+        "Germany"
+      ],
+      "correctAnswer": 1,
+      "hint": "China shares land borders with 14 countries, tied with Russia for the most. To avoid ambiguity, both China and Russia share the record."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which law states that energy cannot be created or destroyed, only transformed?",
+      "options": [
+        "Newton's First Law",
+        "First Law of Thermodynamics",
+        "Ohm's Law",
+        "Boyle's Law"
+      ],
+      "correctAnswer": 1,
+      "hint": "The First Law of Thermodynamics expresses the principle of conservation of energy."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which empire constructed the famous Machu Picchu mountain citadel?",
+      "options": [
+        "Aztec",
+        "Maya",
+        "Inca",
+        "Olmec"
+      ],
+      "correctAnswer": 2,
+      "hint": "Built in the 15th century, Machu Picchu is regarded as one of the greatest achievements of Inca engineering and architecture."
+    }
+  ]
+}
