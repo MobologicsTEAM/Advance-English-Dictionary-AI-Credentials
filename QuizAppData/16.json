@@ -1,0 +1,167 @@
+{
+  "level": 16,
+  "title": "Infinity Master ♾️👑",
+  "difficulty": "Transcendent (Beyond Legendary)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the largest species of cat in the world?",
+      "options": ["Lion", "Siberian Tiger", "Jaguar", "Leopard"],
+      "correctAnswer": 1,
+      "hint": "The Siberian (Amur) Tiger is the largest living cat species, with some males weighing over 300 kg."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which mammal can naturally hold its breath underwater the longest?",
+      "options": ["Sperm Whale", "Cuvier's Beaked Whale", "Blue Whale", "Elephant Seal"],
+      "correctAnswer": 1,
+      "hint": "Cuvier's Beaked Whale has recorded dives lasting over 220 minutes, making it the longest breath-holding mammal known."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film became the first animated movie ever nominated for the Academy Award for Best Picture?",
+      "options": ["Beauty and the Beast", "The Lion King", "Toy Story", "Shrek"],
+      "correctAnswer": 0,
+      "hint": "Disney's Beauty and the Beast (1991) was the first animated feature nominated for Best Picture."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which actor portrayed Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+      "correctAnswer": 1,
+      "hint": "Robert Downey Jr. launched the MCU with Iron Man (2008) and became one of its defining stars."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization publishes the annual Human Development Index (HDI)?",
+      "options": ["World Bank", "United Nations Development Programme (UNDP)", "UNESCO", "International Monetary Fund"],
+      "correctAnswer": 1,
+      "hint": "The HDI measures health, education, and income to compare countries' development."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which day is observed globally as International Women's Day?",
+      "options": ["March 1", "March 8", "April 8", "May 1"],
+      "correctAnswer": 1,
+      "hint": "International Women's Day is celebrated annually on March 8."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization first developed the concept of the Senate?",
+      "options": ["Ancient Greece", "Roman Republic", "Persian Empire", "Byzantine Empire"],
+      "correctAnswer": 1,
+      "hint": "The Roman Senate became one of history's most influential political institutions."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which city was known as Byzantium before becoming Constantinople?",
+      "options": ["Athens", "Istanbul", "Rome", "Sofia"],
+      "correctAnswer": 1,
+      "hint": "The city evolved from Byzantium to Constantinople and is now known as Istanbul."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which Grand Slam tennis tournament is played on grass courts?",
+      "options": ["French Open", "Wimbledon", "US Open", "Australian Open"],
+      "correctAnswer": 1,
+      "hint": "Wimbledon is the oldest tennis tournament and the only Grand Slam still played on grass."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In baseball, how many strikes result in a strikeout?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctAnswer": 1,
+      "hint": "A batter is out after accumulating three strikes, unless specific exceptions apply."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country contains the world's largest tropical rainforest?",
+      "options": ["Indonesia", "Brazil", "Peru", "Colombia"],
+      "correctAnswer": 1,
+      "hint": "Around 60% of the Amazon Rainforest lies within Brazil."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which is the highest active volcano in the world?",
+      "options": ["Mount Etna", "Ojos del Salado", "Mount Fuji", "Mauna Loa"],
+      "correctAnswer": 1,
+      "hint": "Located on the Chile–Argentina border, Ojos del Salado rises to about 6,893 meters (22,615 feet)."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which SI unit measures electric current?",
+      "options": ["Volt", "Ohm", "Ampere", "Watt"],
+      "correctAnswer": 2,
+      "hint": "Electric current is measured in amperes (amps), named after André-Marie Ampère."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which planet has the strongest magnetic field in our Solar System?",
+      "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+      "correctAnswer": 1,
+      "hint": "Jupiter's magnetic field is approximately 20,000 times stronger than Earth's."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which country is home to the ancient temple complex of Angkor Wat?",
+      "options": ["Thailand", "Cambodia", "Vietnam", "Laos"],
+      "correctAnswer": 1,
+      "hint": "Angkor Wat is the world's largest religious monument and appears on Cambodia's national flag."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which musical composer became completely deaf yet continued composing masterpieces?",
+      "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Frédéric Chopin"],
+      "correctAnswer": 1,
+      "hint": "Beethoven composed some of his greatest works after losing his hearing."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which insect is the strongest relative to its body weight?",
+      "options": ["Ant", "Dung Beetle", "Grasshopper", "Rhinoceros Beetle"],
+      "correctAnswer": 1,
+      "hint": "The horned dung beetle can pull more than 1,000 times its own body weight."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the world's longest railway network?",
+      "options": ["Russia", "China", "United States", "India"],
+      "correctAnswer": 2,
+      "hint": "The United States has the world's longest rail network, extending over 250,000 kilometers."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist formulated the three laws of planetary motion?",
+      "options": ["Galileo Galilei", "Johannes Kepler", "Nicolaus Copernicus", "Tycho Brahe"],
+      "correctAnswer": 1,
+      "hint": "Kepler's laws accurately describe the elliptical orbits of planets around the Sun."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which empire constructed the famous road network known as the Royal Road?",
+      "options": ["Roman Empire", "Persian Empire", "Ottoman Empire", "Mongol Empire"],
+      "correctAnswer": 1,
+      "hint": "The Royal Road was built under the Achaemenid Persian Empire to improve communication and trade across the empire."
+    }
+  ]
+}
