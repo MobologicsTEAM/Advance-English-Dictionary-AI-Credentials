@@ -1,0 +1,267 @@
+{
+  "level": 19,
+  "title": "Infinite Oracle ∞🔮",
+  "difficulty": "Transcendent (Prestige III – Oracle Supreme)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which living organism is considered the largest by volume?",
+      "options": [
+        "Blue Whale",
+        "Giant Sequoia (General Sherman)",
+        "Coast Redwood (Hyperion)",
+        "Pando Aspen Colony"
+      ],
+      "correctAnswer": 1,
+      "hint": "General Sherman, a Giant Sequoia in California, is the largest known single-stem tree by volume."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which bird is capable of flying at the highest recorded altitude?",
+      "options": [
+        "Golden Eagle",
+        "Bar-headed Goose",
+        "Rüppell's Griffon Vulture",
+        "Andean Condor"
+      ],
+      "correctAnswer": 2,
+      "hint": "A Rüppell's Griffon Vulture has been recorded flying at approximately 11,300 meters (37,100 feet)."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film franchise features the fictional artifact known as the \"One Ring\"?",
+      "options": [
+        "Harry Potter",
+        "The Lord of the Rings",
+        "The Chronicles of Narnia",
+        "Pirates of the Caribbean"
+      ],
+      "correctAnswer": 1,
+      "hint": "The One Ring is the central object in J.R.R. Tolkien's epic fantasy saga."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which animated film became the first to win the Academy Award for Best Animated Feature?",
+      "options": [
+        "Shrek",
+        "Monsters, Inc.",
+        "Finding Nemo",
+        "Toy Story"
+      ],
+      "correctAnswer": 0,
+      "hint": "Shrek won the inaugural Best Animated Feature Oscar in 2002."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization publishes the annual World Happiness Report?",
+      "options": [
+        "UNESCO",
+        "United Nations Sustainable Development Solutions Network (SDSN)",
+        "World Bank",
+        "International Labour Organization"
+      ],
+      "correctAnswer": 1,
+      "hint": "The report is produced by the SDSN with support from the United Nations."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization is responsible for protecting cultural property during armed conflict through the Hague Convention?",
+      "options": [
+        "UNESCO",
+        "WHO",
+        "UNICEF",
+        "INTERPOL"
+      ],
+      "correctAnswer": 0,
+      "hint": "UNESCO oversees international efforts to safeguard cultural heritage during times of war."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which emperor commissioned the construction of the Terracotta Army?",
+      "options": [
+        "Emperor Wu",
+        "Qin Shi Huang",
+        "Kublai Khan",
+        "Yongle Emperor"
+      ],
+      "correctAnswer": 1,
+      "hint": "China's first emperor ordered the creation of thousands of life-sized terracotta soldiers to guard his tomb."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which famous naval battle in 1805 secured British naval dominance during the Napoleonic Wars?",
+      "options": [
+        "Battle of Waterloo",
+        "Battle of Trafalgar",
+        "Battle of Lepanto",
+        "Battle of Jutland"
+      ],
+      "correctAnswer": 1,
+      "hint": "Admiral Horatio Nelson's victory at Trafalgar ensured British naval supremacy for more than a century."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which athlete has won the most Olympic medals in history?",
+      "options": [
+        "Usain Bolt",
+        "Larisa Latynina",
+        "Michael Phelps",
+        "Carl Lewis"
+      ],
+      "correctAnswer": 2,
+      "hint": "Michael Phelps has won 28 Olympic medals, including 23 gold medals, more than any athlete in history."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which nation won the inaugural FIFA Women's World Cup in 1991?",
+      "options": [
+        "Germany",
+        "Norway",
+        "United States",
+        "Sweden"
+      ],
+      "correctAnswer": 2,
+      "hint": "The United States defeated Norway to become the first FIFA Women's World Cup champions."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the greatest number of active volcanoes?",
+      "options": [
+        "Indonesia",
+        "Japan",
+        "United States",
+        "Chile"
+      ],
+      "correctAnswer": 0,
+      "hint": "Indonesia sits along the Pacific Ring of Fire and has more active volcanoes than any other country."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which lake is the deepest in the world?",
+      "options": [
+        "Lake Tanganyika",
+        "Lake Baikal",
+        "Caspian Sea",
+        "Lake Superior"
+      ],
+      "correctAnswer": 1,
+      "hint": "Lake Baikal in Siberia reaches a depth of 1,642 meters (5,387 feet) and contains about 20% of the world's unfrozen surface freshwater."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist proposed the uncertainty principle?",
+      "options": [
+        "Albert Einstein",
+        "Werner Heisenberg",
+        "Max Planck",
+        "Erwin Schrödinger"
+      ],
+      "correctAnswer": 1,
+      "hint": "The uncertainty principle states that certain pairs of physical properties cannot both be known with perfect precision simultaneously."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which particle is responsible for carrying the electromagnetic force?",
+      "options": [
+        "Gluon",
+        "Photon",
+        "Neutrino",
+        "Boson"
+      ],
+      "correctAnswer": 1,
+      "hint": "Photons are the force carrier particles (gauge bosons) of electromagnetism."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization created the Nazca Lines?",
+      "options": [
+        "Maya",
+        "Nazca",
+        "Inca",
+        "Olmec"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Nazca people created enormous geoglyphs in southern Peru between about 500 BC and AD 500."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which language is written using the Devanagari script?",
+      "options": [
+        "Thai",
+        "Hindi",
+        "Arabic",
+        "Korean"
+      ],
+      "correctAnswer": 1,
+      "hint": "Hindi is primarily written in the Devanagari script, one of the world's oldest continuously used writing systems."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which marine animal is known to have three hearts?",
+      "options": [
+        "Dolphin",
+        "Octopus",
+        "Whale",
+        "Seal"
+      ],
+      "correctAnswer": 1,
+      "hint": "An octopus has three hearts—two pump blood to the gills, while one pumps blood to the rest of the body."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country contains the largest number of UNESCO World Heritage Sites?",
+      "options": [
+        "China",
+        "Italy",
+        "Spain",
+        "France"
+      ],
+      "correctAnswer": 1,
+      "hint": "Italy has long ranked among the countries with the highest number of UNESCO World Heritage Sites, reflecting its rich cultural and historical heritage."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which scientist developed the periodic table of elements?",
+      "options": [
+        "Dmitri Mendeleev",
+        "Antoine Lavoisier",
+        "John Dalton",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 0,
+      "hint": "Dmitri Mendeleev organized the elements by recurring chemical properties and accurately predicted several undiscovered elements. Although he did not receive a Nobel Prize, he is widely credited with creating the modern periodic table."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which treaty divided newly discovered lands outside Europe between Spain and Portugal in 1494?",
+      "options": [
+        "Treaty of Utrecht",
+        "Treaty of Tordesillas",
+        "Treaty of Paris",
+        "Treaty of Lisbon"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Treaty of Tordesillas established a demarcation line giving Spain and Portugal separate spheres of exploration and colonization."
+    }
+  ]
+}
