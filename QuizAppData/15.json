@@ -1,0 +1,167 @@
+{
+  "level": 15,
+  "title": "Omniscient Legend 👑🌠",
+  "difficulty": "Ultimate (The Final Knowledge Trial)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which is the largest living organism on Earth by area?",
+      "options": ["Blue Whale", "Giant Sequoia", "Pando (Quaking Aspen Colony)", "Great Barrier Reef"],
+      "correctAnswer": 2,
+      "hint": "Pando, a colony of genetically identical quaking aspens in Utah, covers over 40 hectares and shares one massive root system, making it the largest known organism by area."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which ocean contains the deepest known point on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+      "correctAnswer": 2,
+      "hint": "The Challenger Deep, located in the Mariana Trench of the Pacific Ocean, is the deepest known point on Earth."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film won all five major Academy Awards (Best Picture, Director, Actor, Actress, and Screenplay) in 1991?",
+      "options": ["Forrest Gump", "The Silence of the Lambs", "Schindler's List", "Braveheart"],
+      "correctAnswer": 1,
+      "hint": "Only three films in history have won the 'Big Five' Academy Awards, and The Silence of the Lambs is one of them."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which fictional language was created by linguist David J. Peterson for Game of Thrones?",
+      "options": ["Elvish", "Klingon", "Dothraki", "Na'vi"],
+      "correctAnswer": 2,
+      "hint": "David J. Peterson developed the Dothraki language specifically for HBO's adaptation of Game of Thrones."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which city is home to the headquarters of the International Court of Justice?",
+      "options": ["Geneva", "New York", "The Hague", "Brussels"],
+      "correctAnswer": 2,
+      "hint": "The International Court of Justice is based in the Peace Palace in The Hague, Netherlands."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization is responsible for setting global aviation standards?",
+      "options": ["IATA", "ICAO", "IMO", "WMO"],
+      "correctAnswer": 1,
+      "hint": "The International Civil Aviation Organization (ICAO) establishes worldwide standards for civil aviation safety and operations."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which emperor issued the Edict of Milan in AD 313, granting religious tolerance within the Roman Empire?",
+      "options": ["Augustus", "Nero", "Constantine the Great", "Hadrian"],
+      "correctAnswer": 2,
+      "hint": "The Edict of Milan legalized Christianity and promoted religious freedom throughout the Roman Empire."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which ancient library was one of the greatest centers of learning in the ancient world?",
+      "options": ["Library of Pergamon", "Library of Alexandria", "Library of Nineveh", "Imperial Library of Rome"],
+      "correctAnswer": 1,
+      "hint": "The Library of Alexandria in Egypt sought to collect all known knowledge of the ancient world."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has won the most Cricket World Cup titles (Men's ODI)?",
+      "options": ["Australia", "India", "West Indies", "England"],
+      "correctAnswer": 0,
+      "hint": "Australia has won six ICC Men's Cricket World Cup titles, the most by any nation."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In chess, what is the only piece that cannot legally move into check?",
+      "options": ["Queen", "Bishop", "King", "Knight"],
+      "correctAnswer": 2,
+      "hint": "The king may never move to a square that is under attack by an opponent's piece."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the greatest number of neighboring countries?",
+      "options": ["Russia", "China", "Brazil", "Germany"],
+      "correctAnswer": 1,
+      "hint": "China shares land borders with 14 countries, tied with Russia for the highest number of neighboring countries."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which is the world's largest enclosed inland body of water?",
+      "options": ["Lake Superior", "Caspian Sea", "Black Sea", "Lake Victoria"],
+      "correctAnswer": 1,
+      "hint": "Despite its name, the Caspian Sea is the world's largest enclosed inland body of water."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which element has the highest melting point of all pure metals?",
+      "options": ["Iron", "Tungsten", "Titanium", "Osmium"],
+      "correctAnswer": 1,
+      "hint": "Tungsten melts at approximately 3,422°C (6,192°F), making it the metal with the highest melting point."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which law states that energy cannot be created or destroyed, only transformed?",
+      "options": ["Newton's First Law", "First Law of Thermodynamics", "Boyle's Law", "Ohm's Law"],
+      "correctAnswer": 1,
+      "hint": "The First Law of Thermodynamics expresses the principle of conservation of energy."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization developed the concept of the Olympic marathon inspired by the legend of Pheidippides?",
+      "options": ["Romans", "Ancient Greeks", "Persians", "Egyptians"],
+      "correctAnswer": 1,
+      "hint": "The modern marathon commemorates the legendary run of the Greek messenger Pheidippides."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country is home to the famous architectural site Machu Picchu?",
+      "options": ["Bolivia", "Peru", "Chile", "Ecuador"],
+      "correctAnswer": 1,
+      "hint": "Machu Picchu is an Inca citadel located high in the Andes Mountains of Peru."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which reptile is the largest living reptile on Earth?",
+      "options": ["Green Anaconda", "Komodo Dragon", "Saltwater Crocodile", "Leatherback Sea Turtle"],
+      "correctAnswer": 2,
+      "hint": "Male saltwater crocodiles can exceed 6 meters (20 feet) in length and weigh over 1,000 kilograms."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which capital city is located at the highest elevation above sea level?",
+      "options": ["Kathmandu", "Quito", "La Paz (Administrative Capital)", "Thimphu"],
+      "correctAnswer": 2,
+      "hint": "La Paz, Bolivia, sits at approximately 3,650 meters (11,975 feet) above sea level, making it the world's highest administrative capital."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which subatomic particle has no electric charge?",
+      "options": ["Electron", "Proton", "Neutron", "Positron"],
+      "correctAnswer": 2,
+      "hint": "Neutrons are electrically neutral particles found in the nucleus of atoms."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization built the city of Tikal, one of the largest archaeological sites in Central America?",
+      "options": ["Aztec", "Inca", "Maya", "Olmec"],
+      "correctAnswer": 2,
+      "hint": "Tikal, located in present-day Guatemala, was one of the greatest cities of the ancient Maya civilization."
+    }
+  ]
+}
