@@ -1,0 +1,167 @@
+{
+  "level": 20,
+  "title": "Apex of Knowledge 👑🌌",
+  "difficulty": "Transcendent+ (Prestige V – Final Ascension)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which organism is responsible for producing the largest proportion of Earth's oxygen?",
+      "options": ["Amazon Rainforest", "Ocean Phytoplankton", "Pine Forests", "Grasslands"],
+      "correctAnswer": 1,
+      "hint": "Microscopic marine phytoplankton produce roughly half of Earth's oxygen through photosynthesis, making them among the planet's most important organisms."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which animal has the highest recorded lifespan of any known vertebrate?",
+      "options": ["Bowhead Whale", "Greenland Shark", "Galápagos Tortoise", "Koi Fish"],
+      "correctAnswer": 1,
+      "hint": "Greenland sharks can live for at least 250 years, with some estimates suggesting individuals may exceed 400 years."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film holds the record for the most Academy Award wins?",
+      "options": ["Titanic", "Ben-Hur", "The Lord of the Rings: The Return of the King", "All of the Above"],
+      "correctAnswer": 3,
+      "hint": "Each of these films has won 11 Academy Awards, tying the all-time record."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "Which fictional detective was created by Agatha Christie?",
+      "options": ["Sherlock Holmes", "Hercule Poirot", "Nero Wolfe", "Sam Spade"],
+      "correctAnswer": 1,
+      "hint": "Belgian detective Hercule Poirot appears in 33 novels, over 50 short stories, and numerous adaptations."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which international organization coordinates the global postal system?",
+      "options": ["International Telecommunication Union", "Universal Postal Union", "World Customs Organization", "International Civil Aviation Organization"],
+      "correctAnswer": 1,
+      "hint": "The Universal Postal Union, founded in 1874, standardizes international mail services."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization establishes standards for global telecommunications?",
+      "options": ["UNESCO", "ITU", "IMF", "OECD"],
+      "correctAnswer": 1,
+      "hint": "The International Telecommunication Union coordinates radio spectrum, satellite orbits, and communication standards."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which civilization invented concrete that has survived for nearly 2,000 years?",
+      "options": ["Egyptians", "Romans", "Greeks", "Persians"],
+      "correctAnswer": 1,
+      "hint": "Roman concrete contains volcanic ash, allowing many ancient structures to remain remarkably durable."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which battle marked the final defeat of Napoleon Bonaparte?",
+      "options": ["Austerlitz", "Waterloo", "Leipzig", "Borodino"],
+      "correctAnswer": 1,
+      "hint": "Napoleon was defeated at the Battle of Waterloo in 1815, ending his rule permanently."
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which athlete holds the men's world record in the 100-meter sprint?",
+      "options": ["Tyson Gay", "Usain Bolt", "Yohan Blake", "Justin Gatlin"],
+      "correctAnswer": 1,
+      "hint": "Usain Bolt's 9.58-second world record was set in Berlin in 2009."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "Which country has won the most ICC Men's Cricket World Cup titles?",
+      "options": ["India", "Australia", "West Indies", "England"],
+      "correctAnswer": 1,
+      "hint": "Australia has won six ICC Men's Cricket World Cup championships."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the longest continuous land border with another country?",
+      "options": ["Russia–Kazakhstan", "United States–Canada", "China–Mongolia", "Argentina–Chile"],
+      "correctAnswer": 1,
+      "hint": "The Canada–United States border stretches approximately 8,891 kilometers (5,525 miles)."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which desert is the largest in the world?",
+      "options": ["Sahara Desert", "Antarctic Desert", "Gobi Desert", "Arabian Desert"],
+      "correctAnswer": 1,
+      "hint": "A desert is defined by low precipitation, making Antarctica the world's largest desert."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which physicist developed the equations describing electromagnetism?",
+      "options": ["Michael Faraday", "James Clerk Maxwell", "Nikola Tesla", "Richard Feynman"],
+      "correctAnswer": 1,
+      "hint": "Maxwell's equations unified electricity, magnetism, and light into a single theory."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which particle discovered in 2012 completed the Standard Model of particle physics?",
+      "options": ["Neutrino", "Higgs Boson", "Positron", "Muon"],
+      "correctAnswer": 1,
+      "hint": "The Higgs Boson was discovered at CERN's Large Hadron Collider in 2012."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization built the city of Chichén Itzá?",
+      "options": ["Aztec", "Maya", "Inca", "Toltec"],
+      "correctAnswer": 1,
+      "hint": "Chichén Itzá became one of the most influential cities of the Maya civilization."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which language has the largest number of native speakers in the world?",
+      "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+      "correctAnswer": 1,
+      "hint": "Mandarin Chinese has the highest number of native speakers worldwide."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which mammal is capable of echolocation?",
+      "options": ["Elephant", "Bat", "Tiger", "Horse"],
+      "correctAnswer": 1,
+      "hint": "Bats navigate and hunt using echolocation by emitting high-frequency sounds and interpreting returning echoes."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country spans the greatest number of time zones (including overseas territories)?",
+      "options": ["Russia", "United States", "France", "Canada"],
+      "correctAnswer": 2,
+      "hint": "Including its overseas territories, France spans 12 official time zones, more than any other country."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which branch of mathematics studies change and motion through derivatives and integrals?",
+      "options": ["Algebra", "Geometry", "Calculus", "Statistics"],
+      "correctAnswer": 2,
+      "hint": "Calculus, independently developed by Isaac Newton and Gottfried Wilhelm Leibniz, forms the foundation of modern science and engineering."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization built the ancient city of Teotihuacan, one of the largest cities in the pre-Columbian Americas?",
+      "options": ["Aztec", "Maya", "Its founders remain uncertain", "Inca"],
+      "correctAnswer": 2,
+      "hint": "Although later revered by the Aztecs, the original builders of Teotihuacan are still unknown, making it one of archaeology's greatest mysteries."
+    }
+  ]
+}
