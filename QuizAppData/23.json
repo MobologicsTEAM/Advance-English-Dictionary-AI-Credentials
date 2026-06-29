@@ -1,0 +1,267 @@
+{
+  "level": 23,
+  "title": "Architect of Wisdom",
+  "difficulty": "Mythic+",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nature",
+      "question": "Which biome stores the largest amount of carbon on Earth?",
+      "options": [
+        "Tropical Rainforest",
+        "Boreal Forest (Taiga)",
+        "Oceans",
+        "Grasslands"
+      ],
+      "correctAnswer": 2,
+      "hint": "The oceans are Earth's largest active carbon sink, absorbing vast amounts of carbon dioxide and storing carbon in seawater and marine organisms."
+    },
+    {
+      "id": 2,
+      "category": "Nature",
+      "question": "Which bird migrates the greatest total distance each year?",
+      "options": [
+        "Arctic Tern",
+        "Wandering Albatross",
+        "Bar-tailed Godwit",
+        "Barn Swallow"
+      ],
+      "correctAnswer": 0,
+      "hint": "The Arctic Tern travels up to 70,000–90,000 km (43,000–56,000 miles) annually between the Arctic and Antarctica."
+    },
+    {
+      "id": 3,
+      "category": "Movies & TV",
+      "question": "Which film became the first non-English language movie to win the Academy Award for Best Picture?",
+      "options": [
+        "Parasite",
+        "Roma",
+        "Crouching Tiger, Hidden Dragon",
+        "Life Is Beautiful"
+      ],
+      "correctAnswer": 0,
+      "hint": "Released in 2019, Parasite made history as the first non-English-language film to win Best Picture."
+    },
+    {
+      "id": 4,
+      "category": "Movies & TV",
+      "question": "In the Star Wars saga, what is the birth name of Darth Vader?",
+      "options": [
+        "Luke Skywalker",
+        "Ben Solo",
+        "Anakin Skywalker",
+        "Bail Organa"
+      ],
+      "correctAnswer": 2,
+      "hint": "Anakin Skywalker became Darth Vader after turning to the dark side."
+    },
+    {
+      "id": 5,
+      "category": "Society",
+      "question": "Which organization publishes the annual Corruption Perceptions Index?",
+      "options": [
+        "Amnesty International",
+        "Transparency International",
+        "World Bank",
+        "OECD"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Corruption Perceptions Index ranks countries based on perceived public-sector corruption."
+    },
+    {
+      "id": 6,
+      "category": "Society",
+      "question": "Which international organization is responsible for global maritime safety standards?",
+      "options": [
+        "ICAO",
+        "International Maritime Organization (IMO)",
+        "WTO",
+        "FAO"
+      ],
+      "correctAnswer": 1,
+      "hint": "The IMO develops international regulations for shipping safety, security, and environmental protection."
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "question": "Which emperor built the famous Colosseum in Rome?",
+      "options": [
+        "Augustus",
+        "Vespasian",
+        "Nero",
+        "Trajan"
+      ],
+      "correctAnswer": 1,
+      "hint": "Construction of the Colosseum began under Emperor Vespasian and was completed under his son Titus."
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "question": "Which document begins with the words, \"We the People\"?",
+      "options": [
+        "Magna Carta",
+        "United States Constitution",
+        "Declaration of Independence",
+        "English Bill of Rights"
+      ],
+      "correctAnswer": 1,
+      "hint": "The famous preamble of the U.S. Constitution starts with \"We the People.\""
+    },
+    {
+      "id": 9,
+      "category": "Sports",
+      "question": "Which country has hosted the Summer Olympic Games the greatest number of times?",
+      "options": [
+        "France",
+        "United States",
+        "United Kingdom",
+        "Japan"
+      ],
+      "correctAnswer": 1,
+      "hint": "The United States has hosted the Summer Olympics in St. Louis (1904), Los Angeles (1932, 1984, 2028), and Atlanta (1996)."
+    },
+    {
+      "id": 10,
+      "category": "Sports",
+      "question": "In golf, what is the maximum number of clubs a player may carry during a round under the Rules of Golf?",
+      "options": [
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Rules of Golf limit players to a maximum of 14 clubs during a round."
+    },
+    {
+      "id": 11,
+      "category": "Geography",
+      "question": "Which country has the world's highest waterfall, Angel Falls?",
+      "options": [
+        "Brazil",
+        "Venezuela",
+        "Colombia",
+        "Peru"
+      ],
+      "correctAnswer": 1,
+      "hint": "Angel Falls drops 979 meters (3,212 feet), making it the tallest uninterrupted waterfall on Earth."
+    },
+    {
+      "id": 12,
+      "category": "Geography",
+      "question": "Which sea lies between Europe and Africa?",
+      "options": [
+        "Black Sea",
+        "Mediterranean Sea",
+        "Red Sea",
+        "Caspian Sea"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Mediterranean Sea separates southern Europe from northern Africa and has shaped civilizations for millennia."
+    },
+    {
+      "id": 13,
+      "category": "Science",
+      "question": "Which scientist first proposed the continental drift hypothesis?",
+      "options": [
+        "Charles Lyell",
+        "Alfred Wegener",
+        "James Hutton",
+        "Harry Hess"
+      ],
+      "correctAnswer": 1,
+      "hint": "In 1912, Alfred Wegener proposed that continents were once joined together before drifting apart."
+    },
+    {
+      "id": 14,
+      "category": "Science",
+      "question": "Which particle has no electric charge and interacts only through the weak force and gravity?",
+      "options": [
+        "Electron",
+        "Neutrino",
+        "Proton",
+        "Positron"
+      ],
+      "correctAnswer": 1,
+      "hint": "Neutrinos are electrically neutral, have an extremely small mass, and rarely interact with matter."
+    },
+    {
+      "id": 15,
+      "category": "Culture",
+      "question": "Which civilization built the ancient city of Petra?",
+      "options": [
+        "Romans",
+        "Nabataeans",
+        "Phoenicians",
+        "Assyrians"
+      ],
+      "correctAnswer": 1,
+      "hint": "Petra, carved into rose-colored rock in present-day Jordan, was the capital of the Nabataean Kingdom."
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "question": "Which country is credited with inventing paper?",
+      "options": [
+        "Egypt",
+        "China",
+        "India",
+        "Greece"
+      ],
+      "correctAnswer": 1,
+      "hint": "Paper is traditionally credited to Cai Lun of Han Dynasty China around AD 105, though earlier forms existed."
+    },
+    {
+      "id": 17,
+      "category": "Nature",
+      "question": "Which insect species is responsible for pollinating the largest proportion of flowering crops worldwide?",
+      "options": [
+        "Butterfly",
+        "Honey Bee",
+        "Dragonfly",
+        "Ladybug"
+      ],
+      "correctAnswer": 1,
+      "hint": "Honey bees are among the most important pollinators for agriculture, contributing significantly to global food production."
+    },
+    {
+      "id": 18,
+      "category": "Geography",
+      "question": "Which country has the longest coastline in the world?",
+      "options": [
+        "Russia",
+        "Australia",
+        "Canada",
+        "Indonesia"
+      ],
+      "correctAnswer": 2,
+      "hint": "Canada's coastline stretches more than 240,000 kilometers (150,000 miles) across three oceans."
+    },
+    {
+      "id": 19,
+      "category": "Science",
+      "question": "Which law states that the pressure of a gas is inversely proportional to its volume at constant temperature?",
+      "options": [
+        "Charles's Law",
+        "Boyle's Law",
+        "Avogadro's Law",
+        "Gay-Lussac's Law"
+      ],
+      "correctAnswer": 1,
+      "hint": "Boyle's Law explains the inverse relationship between gas pressure and volume when temperature remains constant."
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "question": "Which civilization is credited with creating the first known alphabet?",
+      "options": [
+        "Egyptians",
+        "Phoenicians",
+        "Greeks",
+        "Sumerians"
+      ],
+      "correctAnswer": 1,
+      "hint": "The Phoenician alphabet became the foundation for many modern writing systems, including Greek and Latin."
+    }
+  ]
+}
